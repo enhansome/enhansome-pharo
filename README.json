@@ -1,0 +1,3336 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepTraverser",
+          "description": "Library for traversing object graphs (managing cycles).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-10-10T16:02:38Z",
+            "owner": "pharo-contributions",
+            "repo": "DeepTraverser",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FuzzySearcher",
+          "description": "Simplified implementation of ambiguous matching algorithm based on Baeta-Yates, R.A., Gonnet, G.H., Wu, S. and Manber, U.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-11-23T14:56:47Z",
+            "owner": "hernanmd",
+            "repo": "FuzzySearcher",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StableMarriage",
+          "description": "A solver for the stable marriage problem written in Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2018-01-02T19:05:16Z",
+            "owner": "juliendelplanque",
+            "repo": "StableMarriage",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Algorithms"
+    },
+    {
+      "description": "The full list of AI and machine learning libraries, tools, and resources for Pharo is available at pharo-ai / awesome-pharo-ml.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TensorFlow Bindings",
+          "description": "Allows to use TensorFlow in Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-05-30T09:56:23Z",
+            "owner": "PolyMathOrg",
+            "repo": "libtensorflow-pharo-bindings",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NEAT (NeuroEvolution of Augmenting Topologies)",
+          "description": "A genetic algorithm for evolving artificial neural networks. NEAT is probably the most popular algorithm for neuroevolution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-05-08T20:14:44Z",
+            "owner": "bergel",
+            "repo": "NEAT",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keras Wrapper",
+          "description": "Allows to use Keras functions within Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-29T22:41:03Z",
+            "owner": "ObjectProfile",
+            "repo": "KerasWrapper",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pharo-ai / NgramModel",
+          "description": "N-gram language model that can be trained to estimate the probability of a next word based on N-1 previous words.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-09-29T11:47:12Z",
+            "owner": "pharo-ai",
+            "repo": "NgramModel",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pharo-ai / KMeans",
+          "description": "K-means clustering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-09-29T11:38:49Z",
+            "owner": "pharo-ai",
+            "repo": "k-means",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pharo-ai / TF-IDF",
+          "description": "Term Frequency - Inverse Document Frequency (TF-IDF), a statistical metric that reflects the importance of a word in a document. Can be used for finding keywords, ranking words by importance, or as a simple way of finding semantic similarity between documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-09-29T11:53:38Z",
+            "owner": "pharo-ai",
+            "repo": "tf-idf",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pharo-ai / APriori",
+          "description": "Fast algorithm for mining frequent sets of items and finding association rules between items in a database of transactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-09-29T11:43:46Z",
+            "owner": "pharo-ai",
+            "repo": "a-priori",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pharo-ai / NaiveBayesClassifier",
+          "description": "Implementation of a multinomial Naive Bayes classifier in Pharo that can be used for simple spam detection and sentiment analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-09-29T11:41:58Z",
+            "owner": "pharo-ai",
+            "repo": "naive-bayes-classifier",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PharoJS",
+          "description": "Converts Pharo code to Javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-05T08:38:57Z",
+            "owner": "PharoJS",
+            "repo": "PharoJS",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python3Generator",
+          "description": "A toolkit to generate Python 3 source code from Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-02-15T12:41:27Z",
+            "owner": "juliendelplanque",
+            "repo": "Python3Generator",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PharoCodeGenerator",
+          "description": "Generate Pharo code based on ASTs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-05-15T00:25:14Z",
+            "owner": "juliendelplanque",
+            "repo": "PharoCodeGenerator",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XML-XMLWriter",
+          "description": "Block-based API for XML generation for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-05-28T14:14:32Z",
+            "owner": "pharo-contributions",
+            "repo": "XML-XMLWriter",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlainPharoCode",
+          "description": "Instead of using String, use Pharo code to define code to generate.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Smalltalk",
+            "last_commit": "2023-01-15T09:20:03Z",
+            "owner": "hogoww",
+            "repo": "PlainPharoCode",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stash",
+          "description": "A serializer that convert instances into code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-03-24T15:29:46Z",
+            "owner": "ThalesGroup",
+            "repo": "Stash",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisitorGenerator",
+          "description": "Generates basic visitor & visit methods for any Pharo classes hierarchy.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Smalltalk",
+            "last_commit": "2022-05-08T11:04:03Z",
+            "owner": "hogoww",
+            "repo": "VisitorGenerator",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Code generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chanel",
+          "description": "A cleaner for Pharo Smalltalk code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-01-22T00:07:08Z",
+            "owner": "jecisc",
+            "repo": "Chanel",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QualityAssistant",
+          "description": "A live feedback code quality tool for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2017-06-15T16:51:59Z",
+            "owner": "Uko",
+            "repo": "QualityAssistant",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rules",
+          "description": "Rules is a small model of rules that a model should not violate. It is able to compute the technical debt for a set of violations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-05-16T14:45:13Z",
+            "owner": "jecisc",
+            "repo": "Rules",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Code quality"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pi",
+          "description": "CLI tool to install Pharo Smalltalk packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-05T15:31:27Z",
+            "owner": "hernanmd",
+            "repo": "pi",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clap-st",
+          "description": "Command-line argument parsing for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Smalltalk",
+            "last_commit": "2025-11-07T11:16:01Z",
+            "owner": "pharo-contributions",
+            "repo": "clap-st",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pharo server tools",
+          "description": "Tools to deploy and manage headless Pharo servers from the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-07-05T13:12:31Z",
+            "owner": "svenvc",
+            "repo": "pharo-server-tools",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Launchpad",
+          "description": "A command-line interface to start, list, and explain the applications available within the image",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-08T17:32:07Z",
+            "owner": "ba-st",
+            "repo": "Launchpad",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Command line"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "STON",
+          "description": "The Smalltalk Object Notation, similar to JSON but for Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-14T16:55:18Z",
+            "owner": "svenvc",
+            "repo": "ston",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pillar",
+          "description": "Markup syntax and associated tools to write and generate documentation, books and slides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-18T14:55:33Z",
+            "owner": "pillar-markup",
+            "repo": "pillar",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeoJSON",
+          "description": "Framework to handle JSON in Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-09-11T12:11:44Z",
+            "owner": "svenvc",
+            "repo": "NeoJSON",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSV",
+          "description": "NeoCSV is an elegant and efficient standalone Smalltalk framework to read and write CSV converting to or from Smalltalk objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-06-11T16:02:25Z",
+            "owner": "svenvc",
+            "repo": "NeoCSV",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuel",
+          "description": "A general-purpose object serialization framework for Squeak and Pharo, developed in Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-18T06:47:25Z",
+            "owner": "theseion",
+            "repo": "Fuel",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msgpack-smalltalk",
+          "description": "MessagePack serialization library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-05-19T12:42:32Z",
+            "owner": "msgpack",
+            "repo": "msgpack-smalltalk",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIXX",
+          "description": "XML serializer/deserializer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-05-18T13:53:38Z",
+            "owner": "mumez",
+            "repo": "SIXX",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protobuf",
+          "description": "Google's protocol buffers support for Pharo Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-03-17T21:11:10Z",
+            "owner": "jvdsandt",
+            "repo": "protobuf-smalltalk",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tabular",
+          "description": "Support of common spreadsheets formats (CSV, XLSX, ODS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-10-28T07:43:42Z",
+            "owner": "VincentBlondeau",
+            "repo": "Tabular",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XML-Parser",
+          "description": "Official XML parser maintained by Pharo community.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-10-26T17:29:52Z",
+            "owner": "pharo-contributions",
+            "repo": "XML-XMLParser",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XML-XMLParserHTML",
+          "description": "Official parsers for HTML that convert possibly malformed HTML into well-formed XML maintained by Pharo community.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-01-13T12:21:16Z",
+            "owner": "pharo-contributions",
+            "repo": "XML-XMLParserHTML",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XML-XPath",
+          "description": "Official XPath library for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-08-04T03:34:03Z",
+            "owner": "pharo-contributions",
+            "repo": "XML-XPath",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soup",
+          "description": "HTML Scraping library for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-06-27T22:06:10Z",
+            "owner": "pharo-contributions",
+            "repo": "Soup",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeoUniversalBinaryJSON",
+          "description": "An implementation of Universal Binary JSON (UBJSON) for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-06-29T12:48:24Z",
+            "owner": "svenvc",
+            "repo": "NeoUniversalBinaryJSON",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pharo-ical",
+          "description": "iCalendar import and export.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-07-26T12:36:34Z",
+            "owner": "juliendelplanque",
+            "repo": "pharo-ical",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XML-XMLWriter",
+          "description": "Official XML generation framework maintained by Pharo community.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-05-28T14:14:32Z",
+            "owner": "pharo-contributions",
+            "repo": "XML-XMLWriter",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XML-Support",
+          "description": "XML Support for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-10-14T13:22:32Z",
+            "owner": "svenvc",
+            "repo": "XML-Support-Pharo",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arff",
+          "description": "An Arff generator written in Pharo, Arff is the dataformat used by weka.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2018-04-16T13:59:27Z",
+            "owner": "juliendelplanque",
+            "repo": "Arff",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XML-Pastell",
+          "description": "An XPath-like DSL that makes navigation in XML DOM trees easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-11-18T21:08:32Z",
+            "owner": "pharo-contributions",
+            "repo": "XML-Pastell",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XML-XMLParserStAX",
+          "description": "Official XML pull parser for XMLParser maintained by Pharo community.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-06T05:11:29Z",
+            "owner": "pharo-contributions",
+            "repo": "XML-XMLParserStAX",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Data interexchange format"
+    },
+    {
+      "description": "The project http://github.com/Pharo-containers contains several data structures. Some more are in nursery in https://github.com/Ducasse/. The general idea is to have a place to be able to find datastructures.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DataFrame",
+          "description": "Tabular data structures for data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-02-19T09:30:31Z",
+            "owner": "PolyMathOrg",
+            "repo": "DataFrame",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Iterators",
+          "description": "Implementation of the iterator design pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-05-03T15:10:43Z",
+            "owner": "juliendelplanque",
+            "repo": "Iterators",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Array2D",
+          "description": "A grid like structure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-04-16T18:50:05Z",
+            "owner": "pharo-containers",
+            "repo": "Containers-Array2D",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrderedSet",
+          "description": "A Set where an order of elements matters or an OrderedCollection with no duplicates. Supports the complete API of Set and OrderedCollection. Another version or the same is available at https://github.com/pharo-containers/Containers-OrderedSet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-03-20T16:47:35Z",
+            "owner": "pharo-containers",
+            "repo": "Containers-OrderedSet",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trie",
+          "description": "a structure for retrieval information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-03-20T17:07:46Z",
+            "owner": "pharo-containers",
+            "repo": "Containers-Trie",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AVL Tree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-03-10T10:52:25Z",
+            "owner": "pharo-containers",
+            "repo": "Container-AVL",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grid",
+          "description": "A grid implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-09-29T18:11:20Z",
+            "owner": "Ducasse",
+            "repo": "Containers-Grid",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dictionary with lookup",
+          "description": "A dictionary with lookup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-07-21T11:37:59Z",
+            "owner": "Ducasse",
+            "repo": "Containers-PropertyEnvironment",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PropertyEnvironment",
+          "description": "A dictionary of properties with a lookup in ancestors (also called environment in other languages).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-07-21T11:37:59Z",
+            "owner": "Ducasse",
+            "repo": "Containers-PropertyEnvironment",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuadTrees",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-12-21T09:20:44Z",
+            "owner": "Ducasse",
+            "repo": "QuadTree",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniqueOrdered",
+          "description": "Some collections to have unique ordered elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-04-16T08:23:47Z",
+            "owner": "pharo-containers",
+            "repo": "Containers-UniqueOrdered",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hastable",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-04-16T08:25:55Z",
+            "owner": "pharo-containers",
+            "repo": "Containers-HashTable",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RunArray",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-01-01T20:50:34Z",
+            "owner": "pharo-containers",
+            "repo": "Containers-RunArray",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkipList",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-06-01T13:47:35Z",
+            "owner": "Ducasse",
+            "repo": "Containers-SkipList",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BTree",
+          "description": "Not a binary tree but a BTree implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-03-26T15:37:22Z",
+            "owner": "pharo-containers",
+            "repo": "Container-BTree",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeyedTree",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-03-20T17:00:06Z",
+            "owner": "pharo-containers",
+            "repo": "Containers-KeyedTree",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multimap",
+          "description": "A multi map implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-09-03T19:00:50Z",
+            "owner": "Ducasse",
+            "repo": "Containers-OrderedMultiMap",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrderPreservingDictionary",
+          "description": "Order preserving dictionary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-01-01T16:24:43Z",
+            "owner": "pharo-containers",
+            "repo": "Containers-OrderPreservingDictionary",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stack",
+          "description": "A stack implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-04-16T12:30:58Z",
+            "owner": "pharo-containers",
+            "repo": "Containers-Stack",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Data Structures"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "P3",
+          "description": "PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-11-29T19:22:10Z",
+            "owner": "svenvc",
+            "repo": "P3",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soil",
+          "description": "Object oriented database library. Persistency to disk with transactions and search indexes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-11T07:37:00Z",
+            "owner": "ApptiveGrid",
+            "repo": "Soil",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voyage",
+          "description": "An object persistence abstraction layer for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-10-10T07:43:45Z",
+            "owner": "pharo-nosql",
+            "repo": "voyage",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReStore",
+          "description": "Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-06-10T13:55:48Z",
+            "owner": "rko281",
+            "repo": "ReStoreForPharo",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glorp",
+          "description": "Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-07-10T23:49:51Z",
+            "owner": "pharo-rdbms",
+            "repo": "glorp",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLite3",
+          "description": "Community-owned official SQLite3 binding for Pharo. Includes packages for use in Glorp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-07-10T18:56:59Z",
+            "owner": "pharo-rdbms",
+            "repo": "Pharo-SQLite3",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple-Persistence",
+          "description": "Simple file base persistence for when you don't quite need a database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-06-30T02:12:30Z",
+            "owner": "seandenigris",
+            "repo": "Simple-Persistence",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tarantalk",
+          "description": "Tarantool client for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-03-24T09:06:07Z",
+            "owner": "mumez",
+            "repo": "Tarantalk",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PunQLite",
+          "description": "UnQLite binding for Pharo Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-01-16T16:22:20Z",
+            "owner": "mumez",
+            "repo": "PunQLite",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Garage",
+          "description": "Database drivers for the Pharo language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-01-07T10:56:45Z",
+            "owner": "pharo-rdbms",
+            "repo": "garage",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pharo-ado",
+          "description": "Enable data persistence in Pharo by using ActiveX Data Objects (ADO) on Microsoft Windows and external DBMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-08-27T05:43:38Z",
+            "owner": "eftomi",
+            "repo": "PharoADO",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCouchDB",
+          "description": "Pharo driver for CouchDB database using Zinc client. Supports Mango queries and implements Voyage API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-10-05T12:41:44Z",
+            "owner": "jmari",
+            "repo": "SCouchDB",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pharo-UDBC",
+          "description": "Pharo Universal Database Connectivity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-01-07T18:43:08Z",
+            "owner": "astares",
+            "repo": "Pharo-UDBC",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CouchDB",
+          "description": "Pharo client for CouchDB NoSQL Document Database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-03-13T11:51:46Z",
+            "owner": "eMaringolo",
+            "repo": "pharo-couchdb",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CDB",
+          "description": "a CDB implementation in Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-03-14T07:58:57Z",
+            "owner": "Ducasse",
+            "repo": "CDB",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Datasets",
+          "description": "A collection of small toy datasets used for demonstration and experiments with AI and machine learning. Includes many famous datasets such as Iris, Boston Housing, Wine, Diabetes, MNIST, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-09-29T11:46:37Z",
+            "owner": "pharo-ai",
+            "repo": "datasets",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RandomPartitioner",
+          "description": "A tool for partitioning a dataset. Given a set of proportions (e.g. 50%, 30%, and 20%), it shuffles the collection and divides it into non-empty subsets in such a way that every element is included in exactly one subset. Can be used in machine learning and statistical analysis for splitting datasets into training, validation, and test sets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-09-29T11:44:55Z",
+            "owner": "pharo-ai",
+            "repo": "data-partitioners",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Les Miserables",
+          "description": "Coappearance characters of Les Miserables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-09-14T20:13:14Z",
+            "owner": "bergel",
+            "repo": "LesMiserables",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docker Pharo Runtime",
+          "description": "Docker image for Pharo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-11T15:40:08Z",
+            "owner": "ba-st",
+            "repo": "docker-pharo-runtime",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Pharo VM",
+          "description": "Docker image for Pharo VM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-03-10T14:26:05Z",
+            "owner": "ba-st",
+            "repo": "docker-pharo-vm",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Deployment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GeoView",
+          "description": "Views to display and interact with geographical objects and cartographic layers for UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-06-10T13:09:19Z",
+            "owner": "ThalesGroup",
+            "repo": "GeoView",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PharoOWS",
+          "description": "OGC Web Services (OWS) support for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-02-08T22:59:27Z",
+            "owner": "ThalesGroup",
+            "repo": "PharoOWS",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoTools",
+          "description": "Geographic Tools as Coordinates, Kinematics and Geodesic utilities for GIS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-01-16T09:53:09Z",
+            "owner": "ThalesGroup",
+            "repo": "GeoTools",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Geography"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bloc",
+          "description": "Next generation low-level UI infratructure and framework for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-11T19:29:19Z",
+            "owner": "pharo-graphics",
+            "repo": "Bloc",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyramid",
+          "description": "Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-30T14:45:53Z",
+            "owner": "OpenSmock",
+            "repo": "Pyramid",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparta",
+          "description": "Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-13T04:26:08Z",
+            "owner": "feenkcom",
+            "repo": "sparta",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toplo",
+          "description": "A widget framework on top of Bloc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-07T13:38:39Z",
+            "owner": "pharo-graphics",
+            "repo": "Toplo",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roassal3",
+          "description": "The agile 2D visualization engine for Pharo version 3. (V2: Roassal2)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-06-30T09:29:45Z",
+            "owner": "pharo-graphics",
+            "repo": "Roassal",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlantUMLPharoGizmo",
+          "description": "Pharo support for PlantUML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-01-23T21:47:03Z",
+            "owner": "fuhrmanator",
+            "repo": "PlantUMLPharoGizmo",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Woden",
+          "description": "A 3D graphics engine for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-01-26T20:18:47Z",
+            "owner": "ronsaldo",
+            "repo": "woden",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jun",
+          "description": "A 3D graphics library with chemoinformatics extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-10-30T07:24:23Z",
+            "owner": "tomooda",
+            "repo": "Jun",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alexandrie",
+          "description": "FFI bindings and a 2D canvas for Pharo based on Cairo, Freetype and Harfbuzz",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-28T22:12:03Z",
+            "owner": "pharo-graphics",
+            "repo": "Alexandrie",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphViz",
+          "description": "Pharo GraphViz binding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-11-03T23:06:06Z",
+            "owner": "hernanmd",
+            "repo": "GraphViz",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialColors",
+          "description": "Project implementing Material Design recommandations on colors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-05-14T00:43:32Z",
+            "owner": "DuneSt",
+            "repo": "MaterialColors",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpecUIAddOns",
+          "description": "Add-ons for Spec UI description framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-02-13T18:19:30Z",
+            "owner": "hernanmd",
+            "repo": "SpecUIAddOns",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bloc-Serialization",
+          "description": "Bloc serialization features to store/unstore BlElements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-05-12T15:06:45Z",
+            "owner": "OpenSmock",
+            "repo": "Bloc-Serialization",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSSParser",
+          "description": "A library that provides an object model and tools to read, interpret, and manipulate CSS stylesheets (including .css files).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-02-11T13:27:58Z",
+            "owner": "pharo-contributions",
+            "repo": "CSSParser",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MermaidPharo",
+          "description": "Pharo support for MermaidJS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-10-06T06:50:33Z",
+            "owner": "badetitou",
+            "repo": "MermaidPharo",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stylesheet",
+          "description": "Stylesheet is a project to define css like stylesheet in Pharo applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-02-02T09:57:06Z",
+            "owner": "pharo-contributions",
+            "repo": "Stylesheet",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConstraintsLayout",
+          "description": "A constraints layout for morphic using Cassowary as its backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2018-09-13T12:48:09Z",
+            "owner": "tesonep",
+            "repo": "ConstraintsLayout",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colors Extensions",
+          "description": "Extensions to Pharo colors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-10-19T18:13:54Z",
+            "owner": "pharo-contributions",
+            "repo": "ColorsExtensions",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEXF",
+          "description": "Pharo GEXF file model and exporter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-09-18T11:52:09Z",
+            "owner": "Evref-BL",
+            "repo": "PharoGEXF",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toplo-Serialization",
+          "description": "Toplo serialization features to store/unstore ToElements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-06-05T08:17:22Z",
+            "owner": "OpenSmock",
+            "repo": "Toplo-Serialization",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Glamorous Toolkit",
+          "description": "Moldable IDE for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-12T08:43:09Z",
+            "owner": "feenkcom",
+            "repo": "gtoolkit",
+            "stars": 1554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webside",
+          "description": "Web based IDE for Pharo and other Smalltalk systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-14T03:55:29Z",
+            "owner": "guillermoamaral",
+            "repo": "Webside",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smalltalk Vim Mode",
+          "description": "Vim Mode for Playground, System Browser, Debugger in Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-12-18T20:05:14Z",
+            "owner": "webcpu",
+            "repo": "SmalltalkVimMode",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelePharo",
+          "description": "Tools to manage and develop remote Pharo images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-12-23T13:10:41Z",
+            "owner": "pharo-ide",
+            "repo": "TelePharo",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calypso",
+          "description": "Pharo system browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-08-16T08:28:53Z",
+            "owner": "pharo-ide",
+            "repo": "Calypso",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mirage",
+          "description": "A windows switcher with a previewer for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-04-18T19:11:50Z",
+            "owner": "juliendelplanque",
+            "repo": "Mirage",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uncommon-Themes",
+          "description": "A collection of themes for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-01-02T11:31:39Z",
+            "owner": "David5i6",
+            "repo": "Uncommon-Themes",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TilingWindowManager",
+          "description": "Tiling Window Manager for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-04-02T18:25:23Z",
+            "owner": "Pharophile",
+            "repo": "TilingWindowManager",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dawn theme",
+          "description": "A warm dark theme for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-02-06T16:50:33Z",
+            "owner": "sebastianconcept",
+            "repo": "PharoDawnTheme",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSmock",
+          "description": "A collection of tools and workshops designed to streamline the development of applications - especially user interfaces (UI).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-06-10T09:53:33Z",
+            "owner": "OpenSmock",
+            "repo": "OpenSmock",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CollectionExtensions",
+          "description": "Extensions for Pharo collections API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-12-14T16:36:56Z",
+            "owner": "pharo-contributions",
+            "repo": "CollectionExtensions",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Native-Browser",
+          "description": "A small project to add the possibility to open native browser via a FileReference.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-02-26T15:21:19Z",
+            "owner": "jecisc",
+            "repo": "Native-Browser",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "IDE"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitBridge",
+          "description": "Access resources and information from the git repository containing your project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-03-28T14:46:38Z",
+            "owner": "jecisc",
+            "repo": "GitBridge",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSC",
+          "description": "An open sound control library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-09-29T13:28:26Z",
+            "owner": "Ducasse",
+            "repo": "OSC",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PharoStreamDeck",
+          "description": "Elgato Stream Deck utils for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-01T11:53:52Z",
+            "owner": "OpenSmock",
+            "repo": "PharoStreamDeck",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TUIO",
+          "description": "A driver for TUIO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-05-22T07:59:27Z",
+            "owner": "Ducasse",
+            "repo": "TUIO",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Interaction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PharoThings",
+          "description": "Live programming platform for IoT projects based on Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-03-15T08:38:58Z",
+            "owner": "pharo-iot",
+            "repo": "PharoThings",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HID",
+          "description": "An implementation of the Human Interface Device protocol with a driver to be used with libusb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2018-10-08T11:55:29Z",
+            "owner": "tamere",
+            "repo": "libusb-pharo",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netatmo API",
+          "description": "Netatmo API implementation for Legrand Netatmo products (Weather Station and Healthy HomeCoach / Aircare product).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-03-17T10:47:59Z",
+            "owner": "labordep",
+            "repo": "PharoNetatmoAPI",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "IOT"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Talents",
+          "description": "Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-10-28T10:03:36Z",
+            "owner": "pharo-contributions",
+            "repo": "pharo-talents",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buoy",
+          "description": "A complement to Pharo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-01T18:42:26Z",
+            "owner": "ba-st",
+            "repo": "Buoy",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "I18N",
+          "description": "Internationalization support for applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-01-20T12:16:34Z",
+            "owner": "astares",
+            "repo": "Pharo-I18N",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Language extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SmalltalkEnv",
+          "description": "LaTeX environment for Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2019-09-05T12:59:39Z",
+            "owner": "mattonem",
+            "repo": "SmalltalkEnv",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Citezen",
+          "description": "A bibtext parser and tool suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-03-15T19:49:24Z",
+            "owner": "Ducasse",
+            "repo": "Citezen",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "LaTeX"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TinyLogger",
+          "description": "A small textual logger for Pharo applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-06-20T16:06:58Z",
+            "owner": "jecisc",
+            "repo": "TinyLogger",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bell",
+          "description": "An observability library written in Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-06-09T12:29:59Z",
+            "owner": "ba-st",
+            "repo": "Bell",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SystemLogger",
+          "description": "An extensible object logger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-02-14T16:34:43Z",
+            "owner": "Ducasse",
+            "repo": "SystemLogger",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toothpick",
+          "description": "A textual logger for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-08-21T00:29:12Z",
+            "owner": "pdebruic",
+            "repo": "Toothpick",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Loggers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PTerm",
+          "description": "Using Unix terminal from Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-03-08T00:14:26Z",
+            "owner": "lxsang",
+            "repo": "PTerm",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPFS",
+          "description": "Binding to InterPlanetary File System for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-12-16T16:24:21Z",
+            "owner": "khinsen",
+            "repo": "ipfs-pharo",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Territorial",
+          "description": "Geographical Information Retrieval (GIR) project including features to access geopolitical objects like Nations, Cities, Regions, International Organizations, and statistical data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-05-25T15:38:58Z",
+            "owner": "hernanmd",
+            "repo": "Territorial",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fog",
+          "description": "Pharo Ethereum Driver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-09-12T09:55:07Z",
+            "owner": "smartanvil",
+            "repo": "Fog",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PharoMisc",
+          "description": "Small utilities and libraries around various topics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-01-08T11:16:26Z",
+            "owner": "bouraqadi",
+            "repo": "PharoMisc",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aconcagua",
+          "description": "This model represents measures as first class objects, that is, an object that encapsulates a number with its unit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-14T21:43:29Z",
+            "owner": "ba-st",
+            "repo": "Aconcagua",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DMirror",
+          "description": "Tool to spawn new job on forked Pharo images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-02-01T15:53:54Z",
+            "owner": "ObjectProfile",
+            "repo": "DMirror",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chalten",
+          "description": "This is a time model that allows to use dates, months, years, etc. in an easy way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-03T14:09:28Z",
+            "owner": "ba-st",
+            "repo": "Chalten",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ISO3166",
+          "description": "Codes for the names of countries, dependent territories, and special areas of geographical interest for Pharo applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-07-07T05:49:50Z",
+            "owner": "hernanmd",
+            "repo": "ISO3166",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BugReport",
+          "description": "A small project to ease the bug reporting in Pharo application by dumping clear and detailed stacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-04-13T08:49:14Z",
+            "owner": "jecisc",
+            "repo": "BugReport",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebSocket with Zinc",
+          "description": "The WebSocket feature of the Zinc HTTP Components framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-05-11T13:36:43Z",
+            "owner": "svenvc",
+            "repo": "zinc",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stargate",
+          "description": "A library supporting the creation of HTTP based RESTful APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-06-12T19:27:15Z",
+            "owner": "ba-st",
+            "repo": "Stargate",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JRPC",
+          "description": "Yet another JSON-RPC 2.0 implementation for Pharo Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-01-17T12:46:20Z",
+            "owner": "juliendelplanque",
+            "repo": "JRPC",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zodiac",
+          "description": "(built-in) - Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-10-27T08:10:20Z",
+            "owner": "svenvc",
+            "repo": "zodiac",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superluminal",
+          "description": "Building blocks for creating HTTP requests and API clients",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-06-15T18:18:04Z",
+            "owner": "ba-st",
+            "repo": "Superluminal",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible",
+          "description": "An AMQP client for Pharo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-04-13T23:13:32Z",
+            "owner": "ba-st",
+            "repo": "Ansible",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PharoZeroMQ",
+          "description": "ZeroMQ (ØMQ, 0MQ or ZMQ) library for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-01-31T12:20:16Z",
+            "owner": "OpenSmock",
+            "repo": "PharoZeroMQ",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Network protocols"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pharo Launcher",
+          "description": "Official tool to manage your pharo images and download new ones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-10T14:26:24Z",
+            "owner": "pharo-project",
+            "repo": "pharo-launcher",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pharo Install",
+          "description": "A command-line tool for installing Pharo Smalltalk packages into fresh images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-05T15:31:27Z",
+            "owner": "hernanmd",
+            "repo": "pi",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fari.sh",
+          "description": "Fresh, ready-to-hack Pharo images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-01-25T09:07:23Z",
+            "owner": "cdlm",
+            "repo": "fari.sh",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Pharo images management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Filetree",
+          "description": "A file-per-method export format of Pharo source code allowing one to version code with git, svn, fosil, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-11-28T17:46:56Z",
+            "owner": "dalehenrich",
+            "repo": "filetree",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmalltalkCI",
+          "description": "Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-07T07:26:05Z",
+            "owner": "hpi-swa",
+            "repo": "smalltalkCI",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metacello",
+          "description": "A package management system for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-06-03T12:37:44Z",
+            "owner": "Metacello",
+            "repo": "metacello",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cruiser",
+          "description": "Application packager for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-01-20T10:26:32Z",
+            "owner": "VincentBlondeau",
+            "repo": "Cruiser",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tonel",
+          "description": "A file-per-class export format of Pharo source code allowing one to version code with git, svn, fosil, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-05T12:27:35Z",
+            "owner": "pharo-vcs",
+            "repo": "tonel",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pharo-server-tools",
+          "description": "Tools to deploy and manage headless Pharo servers from the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-07-05T13:12:31Z",
+            "owner": "svenvc",
+            "repo": "pharo-server-tools",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrysal",
+          "description": "How to manage application configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-03-25T21:17:31Z",
+            "owner": "Ducasse",
+            "repo": "Chrysal",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeploymentUtility",
+          "description": "A project providing a facade to help to deploy pharo projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-06-01T09:29:48Z",
+            "owner": "jecisc",
+            "repo": "DeploymentUtility",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Projects management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polymath",
+          "description": "Set of mathematical tools for Pharo. Similar to numpy in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-05-29T14:15:48Z",
+            "owner": "PolyMathOrg",
+            "repo": "PolyMath",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kendrick",
+          "description": "Domain-Specific Modeling for Epidemiology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-03-19T14:40:28Z",
+            "owner": "KendrickOrg",
+            "repo": "kendrick",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CORMAS",
+          "description": "CORMAS (Common-pool Resource and Multi-Agent Simulation) is a agent based model library in Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-11T17:03:04Z",
+            "owner": "cormas",
+            "repo": "cormas",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mathemagics",
+          "description": "Symbolic algebra package that handles mathematical expressions using simplification, derivatives, functions, variables, etc. Calculator included. Parser supports infix notation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-02-28T06:06:20Z",
+            "owner": "grpistoia",
+            "repo": "Mathemagics",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BioSmalltalk",
+          "description": "Bioinformatics Library for Pharo Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-27T19:16:20Z",
+            "owner": "hernanmd",
+            "repo": "BioSmalltalk",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatplotLibBridge",
+          "description": "A bridge to Python's Matplotlib.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-05-20T07:56:04Z",
+            "owner": "juliendelplanque",
+            "repo": "MatplotLibBridge",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Units",
+          "description": "A simple package for Units management in Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-02-12T10:07:12Z",
+            "owner": "zweidenker",
+            "repo": "Units",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HoneyGinger",
+          "description": "a fluid dynamics simulation engine focused on interactivity and visualization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-12-01T07:35:14Z",
+            "owner": "tomooda",
+            "repo": "HoneyGinger",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RMapViewer",
+          "description": "A Viewer for chemical reaction maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-12-25T02:12:47Z",
+            "owner": "ReactionMap",
+            "repo": "RMapViewer",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geometry",
+          "description": "A library for representing basic geometry elements and doing computations with them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-11-23T08:55:24Z",
+            "owner": "TelescopeSt",
+            "repo": "Geometry",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GADM",
+          "description": "A browseable GADM world tree for Pharo Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-03-10T04:55:21Z",
+            "owner": "hernanmd",
+            "repo": "GADM",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Z3950",
+          "description": "ZOOM FFI Client for Z39.50 Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2015-03-11T14:36:36Z",
+            "owner": "hernanmd",
+            "repo": "Z3950",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StNER",
+          "description": "Interface to the Stanford Named Entity Recognizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-07-20T20:48:34Z",
+            "owner": "hernanmd",
+            "repo": "StNER",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Scientific libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Moose",
+          "description": "Platform for software and data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-07T07:32:44Z",
+            "owner": "moosetechnology",
+            "repo": "Moose",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PetitParser",
+          "description": "Petit Parser is a framework for building parsers using objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-06-08T12:31:15Z",
+            "owner": "moosetechnology",
+            "repo": "PetitParser",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gitminer",
+          "description": "A tool to mine Git-based software repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-06-12T13:36:57Z",
+            "owner": "USIREVEAL",
+            "repo": "gitminer",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostgreSQLParser",
+          "description": "A parser for PostgreSQL queries and Plpg/SQL source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-03-18T17:37:01Z",
+            "owner": "juliendelplanque",
+            "repo": "PostgreSQLParser",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CCBC",
+          "description": "Code Critics Bar Chart for Pharo Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-04-20T17:35:24Z",
+            "owner": "hernanmd",
+            "repo": "ccbc",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DesignInfo",
+          "description": "Collects package metrics (SLOC).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2018-10-25T17:59:59Z",
+            "owner": "hernanmd",
+            "repo": "DesignInfo",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Software / data analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pharo-LibVLC",
+          "description": "FFI binding to libVLC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-09-13T07:00:29Z",
+            "owner": "Pharo-FFI",
+            "repo": "Pharo-LibVLC",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PharoSound",
+          "description": "Sound facilities for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-02-09T13:12:33Z",
+            "owner": "psvensson",
+            "repo": "PharoSound",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Sound"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OSSubprocess",
+          "description": "Allows one to spawn Operating System processes from within Pharo language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-12-19T02:22:20Z",
+            "owner": "pharo-contributions",
+            "repo": "OSSubprocess",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PythonBridge",
+          "description": "A bridge between Python and Pharo. This bridge allows to seamlessly use Python libraries in Pharo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-02-08T21:52:32Z",
+            "owner": "ObjectProfile",
+            "repo": "PythonBridge",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pharo-OS-Windows",
+          "description": "Support for Windows operating system for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-07-16T11:55:23Z",
+            "owner": "astares",
+            "repo": "Pharo-OS-Windows",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KerasBridge",
+          "description": "Bridge between the Keras library for neural network and Pharo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-12-11T10:30:57Z",
+            "owner": "ObjectProfile",
+            "repo": "KerasBridge",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibUSB",
+          "description": "A FFI binding to libusb C library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2018-10-08T11:55:29Z",
+            "owner": "tamere",
+            "repo": "libusb-pharo",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pharo-OS-Linux-Ubuntu",
+          "description": "Support for Ubuntu operating system for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-08-21T12:18:00Z",
+            "owner": "astares",
+            "repo": "Pharo-OS-Linux-Ubuntu",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SystemInteraction",
+          "description": "A project to simplify system interactions in Pharo providing a facade to OSSubProcess and OSWindSubProcess and some pre-made commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-07-11T12:53:07Z",
+            "owner": "jecisc",
+            "repo": "SystemInteraction",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pharo-OS-OSX",
+          "description": "Support for OSX operating system for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-08-21T12:15:43Z",
+            "owner": "astares",
+            "repo": "Pharo-OS-OSX",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pharo-OS-Unix",
+          "description": "Support for Unix operating system for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-08-21T12:17:33Z",
+            "owner": "astares",
+            "repo": "Pharo-OS-Unix",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProcessWrapper",
+          "description": "Plugin + Wrapper code for Windows process execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-02-06T03:52:10Z",
+            "owner": "hernanmd",
+            "repo": "ProcessWrapper",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pharo-OS-Raspbian",
+          "description": "Support for Raspbian operating system for Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-08-21T12:18:49Z",
+            "owner": "astares",
+            "repo": "Pharo-OS-Raspbian",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "System interaction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "µ-talk",
+          "description": "Mutation Testing in Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-04-13T09:49:46Z",
+            "owner": "pharo-contributions",
+            "repo": "mutalk",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mocketry",
+          "description": "Mock objects library with very fluent lightweight API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-06-12T08:33:28Z",
+            "owner": "dionisiydk",
+            "repo": "Mocketry",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrTests",
+          "description": "An extendable, plugins-based UI for testing Pharo projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2019-09-23T09:21:52Z",
+            "owner": "juliendelplanque",
+            "repo": "DrTests",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hapao",
+          "description": "Spy2 is a profiling framework. Spy2 contains Hapao, the visual test coverage tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2021-05-17T10:02:01Z",
+            "owner": "ObjectProfile",
+            "repo": "Spy2",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StateSpecs",
+          "description": "Assertions library based on should expressions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-03T17:19:27Z",
+            "owner": "dionisiydk",
+            "repo": "StateSpecs",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParametrizedTests",
+          "description": "Extension to SUnit to implement parametrized tests in Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-10-06T13:05:40Z",
+            "owner": "tesonep",
+            "repo": "ParametrizedTests",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShellStone",
+          "description": "RSpec-inspired BDD testing framework with matchers, hooks, and test doubles. Cross-platform (GNU Smalltalk & Pharo). Experimental.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-02-04T07:37:57Z",
+            "owner": "tomas-stefano",
+            "repo": "shellstone",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Babymock",
+          "description": "A visual mock object library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-14T15:39:07Z",
+            "owner": "zeroflag",
+            "repo": "BabyMock",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Seaside",
+          "description": "Framework to develop sophisticate web applications in Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-08T14:03:35Z",
+            "owner": "SeasideSt",
+            "repo": "Seaside",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PharoJS",
+          "description": "Develop in Pharo, Run on Javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-05T08:38:57Z",
+            "owner": "PharoJS",
+            "repo": "PharoJS",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zinc",
+          "description": "HTTP components to deal with HTTP networking in Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-05-11T13:36:43Z",
+            "owner": "svenvc",
+            "repo": "zinc",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teapot",
+          "description": "Micro web framework for Pharo Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-05-08T14:03:58Z",
+            "owner": "zeroflag",
+            "repo": "Teapot",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeParadise",
+          "description": "Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-07-04T20:18:34Z",
+            "owner": "ErikOnBike",
+            "repo": "CodeParadise",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Willow",
+          "description": "Web Interaction Library that eases the burden of creating AJAX-based web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-02-11T22:19:47Z",
+            "owner": "ba-st",
+            "repo": "Willow",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialDesignLite",
+          "description": "Binding google's Material Design Lite project for Seaside.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-07-15T14:20:32Z",
+            "owner": "DuneSt",
+            "repo": "MaterialDesignLite",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parasol",
+          "description": "Testing web apps in Smalltalk using Selenium WebDriver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-10-16T15:54:42Z",
+            "owner": "SeasideSt",
+            "repo": "Parasol",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAPI",
+          "description": "A pharo implementation of OpenAPI 3.0.1, a machine-readable interface files specification for describing, producing, consuming, and visualizing RESTful web services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-05T15:34:01Z",
+            "owner": "ApptiveGrid",
+            "repo": "OpenAPI",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethel",
+          "description": "Lightweight framework for composing web service clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2024-06-11T15:39:44Z",
+            "owner": "grype",
+            "repo": "Ethel",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RenoirSt",
+          "description": "A DSL enabling programmatic cascading style sheet generation for Pharo Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-01-14T11:20:08Z",
+            "owner": "ba-st",
+            "repo": "RenoirSt",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HighchartsSt",
+          "description": "A Highcharts Js API wrapper for Pharo Smalltalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-10-07T21:21:29Z",
+            "owner": "ba-st",
+            "repo": "HighchartsSt",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeasideBootstrap",
+          "description": "Binding to Twitter's Bootstrap project for Seaside.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-03-22T06:01:10Z",
+            "owner": "astares",
+            "repo": "Seaside-Bootstrap",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelescopeCytoscape",
+          "description": "Interactive visualization project for Seaside based on Cytoscape.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-07-07T13:09:28Z",
+            "owner": "TelescopeSt",
+            "repo": "TelescopeCytoscape",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChartJs",
+          "description": "Seaside binding of ChartJs to display and interact with charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-05-14T00:51:15Z",
+            "owner": "DuneSt",
+            "repo": "ChartJs",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pragma-Validators",
+          "description": "Pragma validators for Pharo accessors, inspired by Java Bean Validation annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-11-22T18:35:57Z",
+            "owner": "radekbusa",
+            "repo": "Pragma-Validators",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrismCodeDisplayer",
+          "description": "Code displayer for Seaside base on Prism.js project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "StringTemplate",
+            "last_commit": "2022-05-14T00:54:24Z",
+            "owner": "DuneSt",
+            "repo": "PrismCodeDisplayer",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teapot-ACL",
+          "description": "A minimalistic role-based access control list for Teapot authorization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2020-11-22T15:23:55Z",
+            "owner": "radekbusa",
+            "repo": "Teapot-ACL",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebST",
+          "description": "A framework for building Web Components using PharoJS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2025-07-12T11:51:17Z",
+            "owner": "bouraqadi",
+            "repo": "WebST",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DiscordSt",
+          "description": "DiscordSt is a client for Discord written in Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2022-03-07T20:17:15Z",
+            "owner": "JurajKubelka",
+            "repo": "DiscordSt",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jira-Pharo-API",
+          "description": "Jira-Pharo-API is a client for Jira written in Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2026-03-30T15:45:40Z",
+            "owner": "Evref-BL",
+            "repo": "Jira-Pharo-API",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elasticsearch-Pharo-API",
+          "description": "Elasticsearch-Pharo-API is a client for Elasticsearch written in Pharo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smalltalk",
+            "last_commit": "2023-09-16T12:46:42Z",
+            "owner": "Evref-BL",
+            "repo": "Elasticsearch-Pharo-API",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Web API clients"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:29:59.543Z",
+    "original_repository": "pharo-open-documentation/awesome-pharo",
+    "original_repository_sha": "d1f4cb0e6fb98cb542257e35a7142305c89f56dc",
+    "enhanced_repository": "enhansome/enhansome-pharo",
+    "enhanced_repository_description": null,
+    "title": "Awesome Pharo with stars"
+  }
+}
