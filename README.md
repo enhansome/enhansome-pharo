@@ -149,8 +149,8 @@ The general idea is to have a place to be able to find datastructures.
 * [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 39 | 🌐 Smalltalk | 📅 2026-08-11 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 35 | 🐛 6 | 🌐 Smalltalk | 📅 2026-06-10 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
-* [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 28 | 🐛 48 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
-* [SQLite3](https://github.com/pharo-rdbms/Pharo-SQLite3) ⭐ 25 | 🐛 12 | 🌐 Smalltalk | 📅 2025-07-10 - Community-owned official SQLite3 binding for Pharo. Includes packages for use in Glorp.
+* [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 27 | 🐛 48 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
+* [SQLite3](https://github.com/pharo-rdbms/Pharo-SQLite3) ⭐ 23 | 🐛 12 | 🌐 Smalltalk | 📅 2025-07-10 - Community-owned official SQLite3 binding for Pharo. Includes packages for use in Glorp.
 * [Simple-Persistence](https://github.com/seandenigris/Simple-Persistence) ⭐ 17 | 🐛 12 | 🌐 Smalltalk | 📅 2026-06-30 - Simple file base persistence for when you don't quite need a database.
 * [Tarantalk](https://github.com/mumez/Tarantalk) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2022-03-24 - Tarantool client for Pharo.
 * [PunQLite](https://github.com/mumez/PunQLite) ⭐ 12 | 🐛 0 | 🌐 Smalltalk | 📅 2026-01-16 - UnQLite binding for Pharo Smalltalk.
@@ -169,7 +169,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Deployment
 
-* [Docker Pharo Runtime](https://github.com/ba-st/docker-pharo-runtime) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2026-03-11 - Docker image for Pharo
+* [Docker Pharo Runtime](https://github.com/ba-st/docker-pharo-runtime) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2026-03-11 - Docker image for Pharo
 * [Docker Pharo VM](https://github.com/ba-st/docker-pharo-vm) ⭐ 4 | 🐛 0 | 🌐 Dockerfile | 📅 2026-03-10 - Docker image for Pharo VM
 
 ## Documents Generation
@@ -179,7 +179,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Geography
 
 * [GeoView](https://github.com/ThalesGroup/GeoView) ⭐ 14 | 🐛 17 | 🌐 Smalltalk | 📅 2026-06-10 - Views to display and interact with geographical objects and cartographic layers for UI.
-* [PharoOWS](https://github.com/ThalesGroup/PharoOWS) ⭐ 10 | 🐛 2 | 🌐 Smalltalk | 📅 2026-02-08 - OGC Web Services (OWS) support for Pharo.
+* [PharoOWS](https://github.com/ThalesGroup/PharoOWS) ⭐ 9 | 🐛 2 | 🌐 Smalltalk | 📅 2026-02-08 - OGC Web Services (OWS) support for Pharo.
 * [GeoTools](https://github.com/ThalesGroup/GeoTools) ⭐ 6 | 🐛 2 | 🌐 Smalltalk | 📅 2026-01-16 - Geographic Tools as Coordinates, Kinematics and Geodesic utilities for GIS.
 
 ## Graphics
@@ -210,8 +210,8 @@ The general idea is to have a place to be able to find datastructures.
 * [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,554 | 🐛 328 | 🌐 Smalltalk | 📅 2026-08-12 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
-* [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2022-12-23 - Tools to manage and develop remote Pharo images.
-* [Calypso](https://github.com/pharo-ide/Calypso) ⭐ 41 | 🐛 89 | 🌐 Smalltalk | 📅 2020-08-16 - Pharo system browser.
+* [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
+* [Calypso](https://github.com/pharo-ide/Calypso) ⭐ 41 | 🐛 90 | 🌐 Smalltalk | 📅 2026-08-13 - Pharo system browser.
 * [Mirage](https://github.com/juliendelplanque/Mirage) ⭐ 35 | 🐛 4 | 🌐 Smalltalk | 📅 2019-04-18 - A windows switcher with a previewer for Pharo.
 * [Uncommon-Themes](https://github.com/David5i6/Uncommon-Themes) ⭐ 16 | 🐛 0 | 🌐 Smalltalk | 📅 2025-01-02 - A collection of themes for Pharo.
 * [TilingWindowManager](https://github.com/Pharophile/TilingWindowManager) ⭐ 15 | 🐛 4 | 🌐 Smalltalk | 📅 2022-04-02 - Tiling Window Manager for Pharo.
@@ -229,7 +229,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IOT
 
-* [PharoThings](https://github.com/pharo-iot/PharoThings) ⭐ 93 | 🐛 3 | 🌐 Smalltalk | 📅 2025-03-15 - Live programming platform for IoT projects based on Pharo.
+* [PharoThings](https://github.com/pharo-iot/PharoThings) ⭐ 93 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-13 - Live programming platform for IoT projects based on Pharo.
 * [HID](https://github.com/tamerescrl/libusb-pharo#hid-layer) ⭐ 5 | 🐛 7 | 🌐 Smalltalk | 📅 2018-10-08 - An implementation of the Human Interface Device protocol with a driver to be used with libusb.
 * [Netatmo API](https://github.com/labordep/PharoNetatmoAPI) ⭐ 5 | 🐛 0 | 🌐 Smalltalk | 📅 2023-03-17 - Netatmo API implementation for Legrand Netatmo products (Weather Station and Healthy HomeCoach / Aircare product).
 
@@ -292,7 +292,7 @@ The general idea is to have a place to be able to find datastructures.
 
 * [Filetree](https://github.com/dalehenrich/filetree) ⭐ 133 | 🐛 49 | 🌐 Smalltalk | 📅 2023-11-28 - A file-per-method export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
 * [SmalltalkCI](https://github.com/hpi-swa/smalltalkCI) ⭐ 106 | 🐛 81 | 🌐 Smalltalk | 📅 2026-08-07 - Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.
-* [Metacello](https://github.com/Metacello/metacello) ⭐ 93 | 🐛 129 | 🌐 Smalltalk | 📅 2022-06-03 - A package management system for Pharo.
+* [Metacello](https://github.com/Metacello/metacello) ⭐ 92 | 🐛 129 | 🌐 Smalltalk | 📅 2022-06-03 - A package management system for Pharo.
 * [Cruiser](https://github.com/VincentBlondeau/Cruiser) ⭐ 45 | 🐛 7 | 🌐 Smalltalk | 📅 2020-01-20 - Application packager for Pharo.
 * [Tonel](https://github.com/pharo-vcs/tonel) ⭐ 33 | 🐛 30 | 🌐 Smalltalk | 📅 2026-07-05 - A file-per-class export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
 * [pharo-server-tools](https://github.com/svenvc/pharo-server-tools) ⭐ 28 | 🐛 1 | 🌐 Shell | 📅 2023-07-05 - Tools to deploy and manage headless Pharo servers from the command line.
@@ -360,23 +360,23 @@ The general idea is to have a place to be able to find datastructures.
 
 ## VCS
 
-* [Iceberg](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 358 | 🌐 Smalltalk | 📅 2026-08-12 - Set of tools to handle git repositories from a Pharo image.
+* [Iceberg](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 355 | 🌐 Smalltalk | 📅 2026-08-13 - Set of tools to handle git repositories from a Pharo image.
 
 ## Videos
 
 * [How to setup a Pharo project](https://www.youtube.com/watch?v=Wnt3OBhR18I) - Video showing how to setup a Pharo project (continuous-integration setup included).
-* [Infecting morph by virus](https://www.youtube.com/watch?v=mnu51GDhOL4) - Example of usage of [Ghost](https://github.com/pharo-ide/Ghost) ⭐ 3 | 🐛 1 | 🌐 Smalltalk | 📅 2025-05-31 to infect a Morph, making it change the color of other Morphs it touches.
+* [Infecting morph by virus](https://www.youtube.com/watch?v=mnu51GDhOL4) - Example of usage of [Ghost](https://github.com/pharo-ide/Ghost) ⭐ 3 | 🐛 1 | 🌐 Smalltalk | 📅 2026-08-13 to infect a Morph, making it change the color of other Morphs it touches.
 * [Pharo Tech Talk Feb 2017 : Reflectivity](https://www.youtube.com/watch?v=H52MAu_ISgU) - Reflectivity in Pharo6.
 * [Pharo Techtalk: Consortium/Association 2017](https://www.youtube.com/watch?v=jYtNinyj69I) - Live stream for the pharo tech talk March 2018.
 * [Pharo TechTalk July 2019: Contribute to Pharo](https://www.youtube.com/watch?v=90T0OSb_Fuo) - TechTalk showing how to contribute to Pharo.
 
 ## Virtual Machine
 
-* [Polyphemus](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 358 | 🌐 Smalltalk | 📅 2026-08-12 - Framework allowing to analyse/query/modify Pharo images without executing them.
+* [Polyphemus](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 355 | 🌐 Smalltalk | 📅 2026-08-13 - Framework allowing to analyse/query/modify Pharo images without executing them.
 
 ## Web
 
-* [Seaside](https://github.com/SeasideSt/Seaside) ⭐ 561 | 🐛 156 | 🌐 Smalltalk | 📅 2026-08-08 - Framework to develop sophisticate web applications in Smalltalk.
+* [Seaside](https://github.com/SeasideSt/Seaside) ⭐ 560 | 🐛 156 | 🌐 Smalltalk | 📅 2026-08-08 - Framework to develop sophisticate web applications in Smalltalk.
 * [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 40 | 🌐 JavaScript | 📅 2025-11-05 - Develop in Pharo, Run on Javascript.
 * [Zinc](https://github.com/svenvc/zinc) ⭐ 107 | 🐛 29 | 🌐 Smalltalk | 📅 2026-05-11 - HTTP components to deal with HTTP networking in Smalltalk.
 * [Teapot](https://github.com/zeroflag/Teapot) ⭐ 105 | 🐛 5 | 🌐 Smalltalk | 📅 2026-05-08 - Micro web framework for Pharo Smalltalk.

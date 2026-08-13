@@ -1008,7 +1008,7 @@
             "last_commit": "2025-07-10T23:49:51Z",
             "owner": "pharo-rdbms",
             "repo": "glorp",
-            "stars": 28
+            "stars": 27
           }
         },
         {
@@ -1022,7 +1022,7 @@
             "last_commit": "2025-07-10T18:56:59Z",
             "owner": "pharo-rdbms",
             "repo": "Pharo-SQLite3",
-            "stars": 25
+            "stars": 23
           }
         },
         {
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-03-11T15:40:08Z",
             "owner": "ba-st",
             "repo": "docker-pharo-runtime",
-            "stars": 7
+            "stars": 6
           }
         },
         {
@@ -1264,7 +1264,7 @@
             "last_commit": "2026-02-08T22:59:27Z",
             "owner": "ThalesGroup",
             "repo": "PharoOWS",
-            "stars": 10
+            "stars": 9
           }
         },
         {
@@ -1623,7 +1623,7 @@
           "repo_info": {
             "archived": false,
             "language": "Smalltalk",
-            "last_commit": "2022-12-23T13:10:41Z",
+            "last_commit": "2026-08-13T11:29:23Z",
             "owner": "pharo-ide",
             "repo": "TelePharo",
             "stars": 45
@@ -1637,7 +1637,7 @@
           "repo_info": {
             "archived": false,
             "language": "Smalltalk",
-            "last_commit": "2020-08-16T08:28:53Z",
+            "last_commit": "2026-08-13T11:31:42Z",
             "owner": "pharo-ide",
             "repo": "Calypso",
             "stars": 41
@@ -1817,7 +1817,7 @@
           "repo_info": {
             "archived": false,
             "language": "Smalltalk",
-            "last_commit": "2025-03-15T08:38:58Z",
+            "last_commit": "2026-08-13T11:27:43Z",
             "owner": "pharo-iot",
             "repo": "PharoThings",
             "stars": 93
@@ -2338,7 +2338,7 @@
             "last_commit": "2022-06-03T12:37:44Z",
             "owner": "Metacello",
             "repo": "metacello",
-            "stars": 93
+            "stars": 92
           }
         },
         {
@@ -3018,7 +3018,7 @@
             "last_commit": "2026-08-08T14:03:35Z",
             "owner": "SeasideSt",
             "repo": "Seaside",
-            "stars": 561
+            "stars": 560
           }
         },
         {
@@ -3326,7 +3326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:29:59.543Z",
+    "last_updated": "2026-08-13T19:10:42.321Z",
     "original_repository": "pharo-open-documentation/awesome-pharo",
     "original_repository_sha": "d1f4cb0e6fb98cb542257e35a7142305c89f56dc",
     "enhanced_repository": "enhansome/enhansome-pharo",
