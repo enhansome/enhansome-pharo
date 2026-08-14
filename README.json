@@ -422,7 +422,7 @@
             "last_commit": "2025-09-11T12:11:44Z",
             "owner": "svenvc",
             "repo": "NeoJSON",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -1323,7 +1323,7 @@
           "repo_info": {
             "archived": false,
             "language": "Smalltalk",
-            "last_commit": "2026-08-13T04:26:08Z",
+            "last_commit": "2026-08-14T14:41:39Z",
             "owner": "feenkcom",
             "repo": "sparta",
             "stars": 33
@@ -1581,7 +1581,7 @@
           "repo_info": {
             "archived": false,
             "language": "Smalltalk",
-            "last_commit": "2026-08-12T08:43:09Z",
+            "last_commit": "2026-08-13T23:18:22Z",
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1554
@@ -2324,7 +2324,7 @@
             "last_commit": "2026-08-07T07:26:05Z",
             "owner": "hpi-swa",
             "repo": "smalltalkCI",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -3071,7 +3071,7 @@
           "repo_info": {
             "archived": false,
             "language": "Smalltalk",
-            "last_commit": "2026-07-04T20:18:34Z",
+            "last_commit": "2026-08-14T14:57:43Z",
             "owner": "ErikOnBike",
             "repo": "CodeParadise",
             "stars": 97
@@ -3326,7 +3326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:10:42.321Z",
+    "last_updated": "2026-08-14T19:01:59.727Z",
     "original_repository": "pharo-open-documentation/awesome-pharo",
     "original_repository_sha": "d1f4cb0e6fb98cb542257e35a7142305c89f56dc",
     "enhanced_repository": "enhansome/enhansome-pharo",
