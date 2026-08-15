@@ -1323,7 +1323,7 @@
           "repo_info": {
             "archived": false,
             "language": "Smalltalk",
-            "last_commit": "2026-08-14T14:41:39Z",
+            "last_commit": "2026-08-15T14:24:26Z",
             "owner": "feenkcom",
             "repo": "sparta",
             "stars": 33
@@ -1581,10 +1581,10 @@
           "repo_info": {
             "archived": false,
             "language": "Smalltalk",
-            "last_commit": "2026-08-13T23:18:22Z",
+            "last_commit": "2026-08-15T12:19:27Z",
             "owner": "feenkcom",
             "repo": "gtoolkit",
-            "stars": 1554
+            "stars": 1556
           }
         },
         {
@@ -3326,7 +3326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:01:59.727Z",
+    "last_updated": "2026-08-15T18:37:22.260Z",
     "original_repository": "pharo-open-documentation/awesome-pharo",
     "original_repository_sha": "d1f4cb0e6fb98cb542257e35a7142305c89f56dc",
     "enhanced_repository": "enhansome/enhansome-pharo",
