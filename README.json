@@ -1584,7 +1584,7 @@
             "last_commit": "2026-08-15T12:19:27Z",
             "owner": "feenkcom",
             "repo": "gtoolkit",
-            "stars": 1556
+            "stars": 1557
           }
         },
         {
@@ -3326,7 +3326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:36:50.834Z",
+    "last_updated": "2026-08-17T18:48:06.843Z",
     "original_repository": "pharo-open-documentation/awesome-pharo",
     "original_repository_sha": "d1f4cb0e6fb98cb542257e35a7142305c89f56dc",
     "enhanced_repository": "enhansome/enhansome-pharo",

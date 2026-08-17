@@ -125,7 +125,7 @@ The general idea is to have a place to be able to find datastructures.
 
 * [DataFrame](https://github.com/PolyMathOrg/DataFrame) ⭐ 79 | 🐛 37 | 🌐 Smalltalk | 📅 2025-02-19 - Tabular data structures for data analysis.
 * [Iterators](https://github.com/juliendelplanque/Iterators) ⭐ 9 | 🐛 6 | 🌐 Smalltalk | 📅 2020-05-03 - Implementation of the iterator design pattern.
-* [Array2D](https://github.com/pharo-containers/Containers-Array2D) ⭐ 4 | 🐛 1 | 🌐 Smalltalk | 📅 2026-04-16 - A grid like structure.
+* [Array2D](https://github.com/pharo-containers/Containers-Array2D) ⭐ 4 | 🐛 2 | 🌐 Smalltalk | 📅 2026-04-16 - A grid like structure.
 * [OrderedSet](https://github.com/olekscode/Containers-OrderedSet) ⭐ 4 | 🐛 2 | 🌐 Smalltalk | 📅 2026-03-20 - A Set where an order of elements matters or an OrderedCollection with no duplicates. Supports the complete API of Set and OrderedCollection. Another version or the same is available at <https://github.com/pharo-containers/Containers-OrderedSet> ⭐ 4 | 🐛 2 | 🌐 Smalltalk | 📅 2026-03-20
 * [Trie](https://github.com/pharo-containers/Containers-Trie) ⭐ 4 | 🐛 0 | 🌐 Smalltalk | 📅 2026-03-20 - a structure for retrieval information.
 * [AVL Tree ](https://github.com/pharo-containers/AVL) ⭐ 3 | 🐛 0 | 🌐 Smalltalk | 📅 2026-03-10
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,556 | 🐛 330 | 🌐 Smalltalk | 📅 2026-08-15 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,557 | 🐛 331 | 🌐 Smalltalk | 📅 2026-08-15 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -284,7 +284,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Pharo images management
 
-* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 115 | 🐛 228 | 🌐 Smalltalk | 📅 2026-07-10 - Official tool to manage your pharo images and download new ones.
+* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 115 | 🐛 229 | 🌐 Smalltalk | 📅 2026-07-10 - Official tool to manage your pharo images and download new ones.
 * [Pharo Install](https://github.com/hernanmd/pi) ⭐ 41 | 🐛 8 | 🌐 Shell | 📅 2026-04-05 - A command-line tool for installing Pharo Smalltalk packages into fresh images.
 * [fari.sh](https://github.com/cdlm/fari.sh) ⭐ 14 | 🐛 4 | 🌐 Shell | 📅 2022-01-25 - Fresh, ready-to-hack Pharo images.
 
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
