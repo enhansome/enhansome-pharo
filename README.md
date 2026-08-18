@@ -98,7 +98,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 ## Data interexchange format
 
 * [STON](https://github.com/svenvc/ston) ⭐ 147 | 🐛 3 | 🌐 Smalltalk | 📅 2026-07-14 - The Smalltalk Object Notation, similar to JSON but for Smalltalk.
-* [Pillar](https://github.com/pillar-markup/pillar) ⭐ 57 | 🐛 263 | 🌐 Smalltalk | 📅 2026-07-18 - Markup syntax and associated tools to write and generate documentation, books and slides.
+* [Pillar](https://github.com/pillar-markup/pillar) ⭐ 57 | 🐛 261 | 🌐 Smalltalk | 📅 2026-07-18 - Markup syntax and associated tools to write and generate documentation, books and slides.
 * [NeoJSON](https://github.com/svenvc/NeoJSON) ⭐ 47 | 🐛 3 | 🌐 Smalltalk | 📅 2025-09-11 - Framework to handle JSON in Pharo.
 * [CSV](https://github.com/svenvc/NeoCSV) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2026-06-11 - NeoCSV is an elegant and efficient standalone Smalltalk framework to read and write CSV converting to or from Smalltalk objects.
 * [Fuel](https://github.com/theseion/Fuel) ⭐ 31 | 🐛 27 | 🌐 Smalltalk | 📅 2026-07-18 - A general-purpose object serialization framework for Squeak and Pharo, developed in Pharo.
@@ -107,9 +107,9 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 * [Protobuf](https://github.com/jvdsandt/protobuf-smalltalk) ⭐ 14 | 🐛 1 | 🌐 Smalltalk | 📅 2020-03-17 - [Google's protocol buffers](https://developers.google.com/protocol-buffers/) support for Pharo Smalltalk.
 * [Tabular](https://github.com/VincentBlondeau/Tabular) ⭐ 14 | 🐛 9 | 🌐 Smalltalk | 📅 2023-10-28 - Support of common spreadsheets formats (CSV, XLSX, ODS).
 * [XML-Parser](https://github.com/pharo-contributions/XML-XMLParser) ⭐ 14 | 🐛 3 | 🌐 Smalltalk | 📅 2025-10-26 - Official XML parser maintained by Pharo community.
+* [Soup](https://github.com/Ducasse/Soup) ⭐ 7 | 🐛 2 | 🌐 Smalltalk | 📅 2026-06-27 - HTML Scraping library for Pharo.
 * [XML-XMLParserHTML](https://github.com/pharo-contributions/XML-XMLParserHTML) ⭐ 6 | 🐛 0 | 🌐 Smalltalk | 📅 2025-01-13 - Official parsers for HTML that convert possibly malformed HTML into well-formed XML maintained by Pharo community.
 * [XML-XPath](https://github.com/pharo-contributions/XML-XPath) ⭐ 6 | 🐛 2 | 🌐 Smalltalk | 📅 2024-08-04 - Official XPath library for Pharo.
-* [Soup](https://github.com/Ducasse/Soup) ⭐ 6 | 🐛 2 | 🌐 Smalltalk | 📅 2026-06-27 - HTML Scraping library for Pharo.
 * [NeoUniversalBinaryJSON](https://github.com/svenvc/NeoUniversalBinaryJSON) ⭐ 5 | 🐛 0 | 🌐 Smalltalk | 📅 2020-06-29 - An implementation of [Universal Binary JSON](http://ubjson.org) (UBJSON) for Pharo.
 * [pharo-ical](https://github.com/juliendelplanque/pharo-ical) ⭐ 5 | 🐛 2 | 🌐 Smalltalk | 📅 2019-07-26 - iCalendar import and export.
 * [XML-XMLWriter](https://github.com/pharo-contributions/XML-XMLWriter) ⭐ 5 | 🐛 0 | 🌐 Smalltalk | 📅 2024-05-28 - Official XML generation framework maintained by Pharo community.
@@ -146,7 +146,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Databases
 
 * [P3](https://github.com/svenvc/P3) ⭐ 81 | 🐛 7 | 🌐 Smalltalk | 📅 2025-11-29 - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
-* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 39 | 🌐 Smalltalk | 📅 2026-08-11 - Object oriented database library. Persistency to disk with transactions and search indexes.
+* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 39 | 🌐 Smalltalk | 📅 2026-08-18 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 35 | 🐛 6 | 🌐 Smalltalk | 📅 2026-06-10 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
 * [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 27 | 🐛 48 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,557 | 🐛 331 | 🌐 Smalltalk | 📅 2026-08-15 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,557 | 🐛 335 | 🌐 Smalltalk | 📅 2026-08-18 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
