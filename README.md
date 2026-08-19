@@ -149,7 +149,7 @@ The general idea is to have a place to be able to find datastructures.
 * [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 39 | 🌐 Smalltalk | 📅 2026-08-18 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 35 | 🐛 6 | 🌐 Smalltalk | 📅 2026-06-10 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
-* [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 27 | 🐛 48 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
+* [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 28 | 🐛 48 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
 * [SQLite3](https://github.com/pharo-rdbms/Pharo-SQLite3) ⭐ 23 | 🐛 12 | 🌐 Smalltalk | 📅 2025-07-10 - Community-owned official SQLite3 binding for Pharo. Includes packages for use in Glorp.
 * [Simple-Persistence](https://github.com/seandenigris/Simple-Persistence) ⭐ 17 | 🐛 12 | 🌐 Smalltalk | 📅 2026-06-30 - Simple file base persistence for when you don't quite need a database.
 * [Tarantalk](https://github.com/mumez/Tarantalk) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2022-03-24 - Tarantool client for Pharo.
@@ -379,7 +379,7 @@ The general idea is to have a place to be able to find datastructures.
 * [Seaside](https://github.com/SeasideSt/Seaside) ⭐ 561 | 🐛 156 | 🌐 Smalltalk | 📅 2026-08-08 - Framework to develop sophisticate web applications in Smalltalk.
 * [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 40 | 🌐 JavaScript | 📅 2025-11-05 - Develop in Pharo, Run on Javascript.
 * [Zinc](https://github.com/svenvc/zinc) ⭐ 107 | 🐛 29 | 🌐 Smalltalk | 📅 2026-05-11 - HTTP components to deal with HTTP networking in Smalltalk.
-* [Teapot](https://github.com/zeroflag/Teapot) ⭐ 105 | 🐛 5 | 🌐 Smalltalk | 📅 2026-05-08 - Micro web framework for Pharo Smalltalk.
+* [Teapot](https://github.com/zeroflag/Teapot) ⭐ 104 | 🐛 5 | 🌐 Smalltalk | 📅 2026-05-08 - Micro web framework for Pharo Smalltalk.
 * [CodeParadise](https://github.com/ErikOnBike/CodeParadise) ⭐ 97 | 🐛 0 | 🌐 Smalltalk | 📅 2026-08-19 - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
 * [Willow](https://github.com/ba-st/Willow) ⭐ 51 | 🐛 4 | 🌐 Smalltalk | 📅 2026-02-11 - Web Interaction Library that eases the burden of creating AJAX-based web applications.
 * [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) ⭐ 42 | 🐛 49 | 🌐 Smalltalk | 📅 2024-07-15 - Binding google's Material Design Lite project for Seaside.
