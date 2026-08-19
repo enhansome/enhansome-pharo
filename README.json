@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157535407,
             "language": "Smalltalk",
             "last_commit": "2025-10-10T16:02:38Z",
             "owner": "pharo-contributions",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31617502,
             "language": "Smalltalk",
             "last_commit": "2024-11-23T14:56:47Z",
             "owner": "hernanmd",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95919457,
             "language": "Smalltalk",
             "last_commit": "2018-01-02T19:05:16Z",
             "owner": "juliendelplanque",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121143638,
             "language": "Smalltalk",
             "last_commit": "2021-05-30T09:56:23Z",
             "owner": "PolyMathOrg",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217438410,
             "language": "Java",
             "last_commit": "2020-05-08T20:14:44Z",
             "owner": "bergel",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125519413,
             "language": null,
             "last_commit": "2023-12-29T22:41:03Z",
             "owner": "ObjectProfile",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165321881,
             "language": "Smalltalk",
             "last_commit": "2025-09-29T11:47:12Z",
             "owner": "pharo-ai",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204361479,
             "language": "Smalltalk",
             "last_commit": "2025-09-29T11:38:49Z",
             "owner": "pharo-ai",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181912812,
             "language": "Smalltalk",
             "last_commit": "2025-09-29T11:53:38Z",
             "owner": "pharo-ai",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218415666,
             "language": "Smalltalk",
             "last_commit": "2025-09-29T11:43:46Z",
             "owner": "pharo-ai",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175679866,
             "language": "Smalltalk",
             "last_commit": "2025-09-29T11:41:58Z",
             "owner": "pharo-ai",
@@ -167,7 +178,7 @@
       "title": "Artificial Intelligence and Machine Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41539064,
             "language": "JavaScript",
             "last_commit": "2025-11-05T08:38:57Z",
             "owner": "PharoJS",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78302136,
             "language": "Smalltalk",
             "last_commit": "2024-02-15T12:41:27Z",
             "owner": "juliendelplanque",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193158194,
             "language": "Smalltalk",
             "last_commit": "2022-05-15T00:25:14Z",
             "owner": "juliendelplanque",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217153935,
             "language": "Smalltalk",
             "last_commit": "2024-05-28T14:14:32Z",
             "owner": "pharo-contributions",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 184280886,
             "language": "Smalltalk",
             "last_commit": "2023-01-15T09:20:03Z",
             "owner": "hogoww",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1178683029,
             "language": "Smalltalk",
             "last_commit": "2026-03-24T15:29:46Z",
             "owner": "ThalesGroup",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 489691660,
             "language": "Smalltalk",
             "last_commit": "2022-05-08T11:04:03Z",
             "owner": "hogoww",
@@ -271,7 +289,7 @@
       "title": "Code generation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250319830,
             "language": "Smalltalk",
             "last_commit": "2026-01-22T00:07:08Z",
             "owner": "jecisc",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25534602,
             "language": "Smalltalk",
             "last_commit": "2017-06-15T16:51:59Z",
             "owner": "Uko",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220290922,
             "language": "Smalltalk",
             "last_commit": "2022-05-16T14:45:13Z",
             "owner": "jecisc",
@@ -319,7 +340,7 @@
       "title": "Code quality"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118290841,
             "language": "Shell",
             "last_commit": "2026-04-05T15:31:27Z",
             "owner": "hernanmd",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 67039800,
             "language": "Smalltalk",
             "last_commit": "2025-11-07T11:16:01Z",
             "owner": "pharo-contributions",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41351864,
             "language": "Shell",
             "last_commit": "2023-07-05T13:12:31Z",
             "owner": "svenvc",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230269019,
             "language": "Smalltalk",
             "last_commit": "2026-07-08T17:32:07Z",
             "owner": "ba-st",
@@ -381,7 +406,7 @@
       "title": "Command line"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -390,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4169675,
             "language": "Smalltalk",
             "last_commit": "2026-07-14T16:55:18Z",
             "owner": "svenvc",
@@ -404,8 +430,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41843105,
             "language": "Smalltalk",
-            "last_commit": "2026-07-18T14:55:33Z",
+            "last_commit": "2026-08-19T09:09:26Z",
             "owner": "pillar-markup",
             "repo": "pillar",
             "stars": 57
@@ -418,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11252378,
             "language": "Smalltalk",
             "last_commit": "2025-09-11T12:11:44Z",
             "owner": "svenvc",
@@ -432,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11252480,
             "language": "Smalltalk",
             "last_commit": "2026-06-11T16:02:25Z",
             "owner": "svenvc",
@@ -446,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32811479,
             "language": "Smalltalk",
             "last_commit": "2026-07-18T06:47:25Z",
             "owner": "theseion",
@@ -460,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5092599,
             "language": "Smalltalk",
             "last_commit": "2025-05-19T12:42:32Z",
             "owner": "msgpack",
@@ -474,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4944157,
             "language": "Smalltalk",
             "last_commit": "2025-05-18T13:53:38Z",
             "owner": "mumez",
@@ -488,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151827004,
             "language": "Smalltalk",
             "last_commit": "2020-03-17T21:11:10Z",
             "owner": "jvdsandt",
@@ -502,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158993815,
             "language": "Smalltalk",
             "last_commit": "2023-10-28T07:43:42Z",
             "owner": "VincentBlondeau",
@@ -516,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217532934,
             "language": "Smalltalk",
             "last_commit": "2025-10-26T17:29:52Z",
             "owner": "pharo-contributions",
@@ -530,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194366236,
             "language": "Smalltalk",
             "last_commit": "2026-06-27T22:06:10Z",
             "owner": "pharo-contributions",
@@ -544,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219591952,
             "language": "Smalltalk",
             "last_commit": "2025-01-13T12:21:16Z",
             "owner": "pharo-contributions",
@@ -558,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219598089,
             "language": "Smalltalk",
             "last_commit": "2024-08-04T03:34:03Z",
             "owner": "pharo-contributions",
@@ -572,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213675658,
             "language": "Smalltalk",
             "last_commit": "2020-06-29T12:48:24Z",
             "owner": "svenvc",
@@ -586,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34984067,
             "language": "Smalltalk",
             "last_commit": "2019-07-26T12:36:34Z",
             "owner": "juliendelplanque",
@@ -600,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217153935,
             "language": "Smalltalk",
             "last_commit": "2024-05-28T14:14:32Z",
             "owner": "pharo-contributions",
@@ -614,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170518505,
             "language": "Smalltalk",
             "last_commit": "2019-10-14T13:22:32Z",
             "owner": "svenvc",
@@ -628,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56996514,
             "language": "Smalltalk",
             "last_commit": "2018-04-16T13:59:27Z",
             "owner": "juliendelplanque",
@@ -642,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219602435,
             "language": "Smalltalk",
             "last_commit": "2019-11-18T21:08:32Z",
             "owner": "pharo-contributions",
@@ -656,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219595489,
             "language": "Smalltalk",
             "last_commit": "2026-07-06T05:11:29Z",
             "owner": "pharo-contributions",
@@ -676,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90879489,
             "language": "Smalltalk",
             "last_commit": "2025-02-19T09:30:31Z",
             "owner": "PolyMathOrg",
@@ -690,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175859631,
             "language": "Smalltalk",
             "last_commit": "2020-05-03T15:10:43Z",
             "owner": "juliendelplanque",
@@ -704,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131730485,
             "language": "Smalltalk",
             "last_commit": "2026-04-16T18:50:05Z",
             "owner": "pharo-containers",
@@ -718,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226177805,
             "language": "Smalltalk",
             "last_commit": "2026-03-20T16:47:35Z",
             "owner": "pharo-containers",
@@ -732,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131752122,
             "language": "Smalltalk",
             "last_commit": "2026-03-20T17:07:46Z",
             "owner": "pharo-containers",
@@ -746,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 532346526,
             "language": "Smalltalk",
             "last_commit": "2026-03-10T10:52:25Z",
             "owner": "pharo-containers",
@@ -760,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131756794,
             "language": "Smalltalk",
             "last_commit": "2022-09-29T18:11:20Z",
             "owner": "Ducasse",
@@ -774,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120089877,
             "language": "Smalltalk",
             "last_commit": "2024-07-21T11:37:59Z",
             "owner": "Ducasse",
@@ -788,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120089877,
             "language": "Smalltalk",
             "last_commit": "2024-07-21T11:37:59Z",
             "owner": "Ducasse",
@@ -802,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 532354163,
             "language": "Smalltalk",
             "last_commit": "2022-12-21T09:20:44Z",
             "owner": "Ducasse",
@@ -816,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132657250,
             "language": "Smalltalk",
             "last_commit": "2025-04-16T08:23:47Z",
             "owner": "pharo-containers",
@@ -830,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217129622,
             "language": "Smalltalk",
             "last_commit": "2025-04-16T08:25:55Z",
             "owner": "pharo-containers",
@@ -844,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 321083947,
             "language": "Smalltalk",
             "last_commit": "2021-01-01T20:50:34Z",
             "owner": "pharo-containers",
@@ -858,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131755581,
             "language": "Smalltalk",
             "last_commit": "2019-06-01T13:47:35Z",
             "owner": "Ducasse",
@@ -872,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 524411340,
             "language": "Smalltalk",
             "last_commit": "2025-03-26T15:37:22Z",
             "owner": "pharo-containers",
@@ -886,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131752306,
             "language": "Smalltalk",
             "last_commit": "2026-03-20T17:00:06Z",
             "owner": "pharo-containers",
@@ -900,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131757876,
             "language": "Smalltalk",
             "last_commit": "2022-09-03T19:00:50Z",
             "owner": "Ducasse",
@@ -914,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172331308,
             "language": "Smalltalk",
             "last_commit": "2021-01-01T16:24:43Z",
             "owner": "pharo-containers",
@@ -928,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175685918,
             "language": "Smalltalk",
             "last_commit": "2026-04-16T12:30:58Z",
             "owner": "pharo-containers",
@@ -939,7 +1003,7 @@
       "title": "Data Structures"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -948,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95534378,
             "language": "Smalltalk",
             "last_commit": "2025-11-29T19:22:10Z",
             "owner": "svenvc",
@@ -962,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522613767,
             "language": "Smalltalk",
             "last_commit": "2026-08-18T12:20:16Z",
             "owner": "ApptiveGrid",
@@ -976,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35089029,
             "language": "Smalltalk",
             "last_commit": "2025-10-10T07:43:45Z",
             "owner": "pharo-nosql",
@@ -990,6 +1057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225833006,
             "language": "Smalltalk",
             "last_commit": "2026-06-10T13:55:48Z",
             "owner": "rko281",
@@ -1004,6 +1072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107684624,
             "language": "Smalltalk",
             "last_commit": "2025-07-10T23:49:51Z",
             "owner": "pharo-rdbms",
@@ -1018,6 +1087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192208852,
             "language": "Smalltalk",
             "last_commit": "2025-07-10T18:56:59Z",
             "owner": "pharo-rdbms",
@@ -1032,6 +1102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40490105,
             "language": "Smalltalk",
             "last_commit": "2026-06-30T02:12:30Z",
             "owner": "seandenigris",
@@ -1046,6 +1117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76957539,
             "language": "Smalltalk",
             "last_commit": "2022-03-24T09:06:07Z",
             "owner": "mumez",
@@ -1060,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15375690,
             "language": "Smalltalk",
             "last_commit": "2026-01-16T16:22:20Z",
             "owner": "mumez",
@@ -1074,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71247334,
             "language": "Smalltalk",
             "last_commit": "2020-01-07T10:56:45Z",
             "owner": "pharo-rdbms",
@@ -1088,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213216623,
             "language": "Smalltalk",
             "last_commit": "2020-08-27T05:43:38Z",
             "owner": "eftomi",
@@ -1102,6 +1177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103726170,
             "language": "Smalltalk",
             "last_commit": "2022-10-05T12:41:44Z",
             "owner": "jmari",
@@ -1116,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173714539,
             "language": "Smalltalk",
             "last_commit": "2020-01-07T18:43:08Z",
             "owner": "astares",
@@ -1130,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171961539,
             "language": "Smalltalk",
             "last_commit": "2019-03-13T11:51:46Z",
             "owner": "eMaringolo",
@@ -1144,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162751155,
             "language": "Smalltalk",
             "last_commit": "2019-03-14T07:58:57Z",
             "owner": "Ducasse",
@@ -1155,7 +1234,7 @@
       "title": "Databases"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1164,6 +1243,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200476362,
             "language": "Smalltalk",
             "last_commit": "2025-09-29T11:46:37Z",
             "owner": "pharo-ai",
@@ -1178,6 +1258,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232874309,
             "language": "Smalltalk",
             "last_commit": "2025-09-29T11:44:55Z",
             "owner": "pharo-ai",
@@ -1192,6 +1273,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204291560,
             "language": "Smalltalk",
             "last_commit": "2021-09-14T20:13:14Z",
             "owner": "bergel",
@@ -1203,7 +1285,7 @@
       "title": "Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1212,6 +1294,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485782253,
             "language": "Shell",
             "last_commit": "2026-03-11T15:40:08Z",
             "owner": "ba-st",
@@ -1226,6 +1309,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485455662,
             "language": "Dockerfile",
             "last_commit": "2026-03-10T14:26:05Z",
             "owner": "ba-st",
@@ -1237,7 +1321,7 @@
       "title": "Deployment"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1246,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 680067212,
             "language": "Smalltalk",
             "last_commit": "2026-06-10T13:09:19Z",
             "owner": "ThalesGroup",
@@ -1260,6 +1345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 562986573,
             "language": "Smalltalk",
             "last_commit": "2026-02-08T22:59:27Z",
             "owner": "ThalesGroup",
@@ -1274,6 +1360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 665052199,
             "language": "Smalltalk",
             "last_commit": "2026-01-16T09:53:09Z",
             "owner": "ThalesGroup",
@@ -1285,7 +1372,7 @@
       "title": "Geography"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1294,6 +1381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72735161,
             "language": "Smalltalk",
             "last_commit": "2026-08-11T19:29:19Z",
             "owner": "pharo-graphics",
@@ -1308,6 +1396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570110033,
             "language": "Smalltalk",
             "last_commit": "2026-07-30T14:45:53Z",
             "owner": "OpenSmock",
@@ -1322,6 +1411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66376994,
             "language": "Smalltalk",
             "last_commit": "2026-08-16T11:30:59Z",
             "owner": "feenkcom",
@@ -1336,6 +1426,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462856189,
             "language": "Smalltalk",
             "last_commit": "2026-08-07T13:38:39Z",
             "owner": "pharo-graphics",
@@ -1350,6 +1441,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 693120540,
             "language": "Smalltalk",
             "last_commit": "2026-06-30T09:29:45Z",
             "owner": "pharo-graphics",
@@ -1364,6 +1456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188443995,
             "language": "Smalltalk",
             "last_commit": "2022-01-23T21:47:03Z",
             "owner": "fuhrmanator",
@@ -1378,6 +1471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214747924,
             "language": "Smalltalk",
             "last_commit": "2024-01-26T20:18:47Z",
             "owner": "ronsaldo",
@@ -1392,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160625854,
             "language": "Smalltalk",
             "last_commit": "2024-10-30T07:24:23Z",
             "owner": "tomooda",
@@ -1406,6 +1501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 483055565,
             "language": "Smalltalk",
             "last_commit": "2026-07-28T22:12:03Z",
             "owner": "pharo-graphics",
@@ -1420,6 +1516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31617641,
             "language": "Smalltalk",
             "last_commit": "2024-11-03T23:06:06Z",
             "owner": "hernanmd",
@@ -1434,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81066751,
             "language": "Smalltalk",
             "last_commit": "2022-05-14T00:43:32Z",
             "owner": "DuneSt",
@@ -1448,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31618147,
             "language": "Smalltalk",
             "last_commit": "2023-02-13T18:19:30Z",
             "owner": "hernanmd",
@@ -1462,6 +1561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 592244470,
             "language": "Smalltalk",
             "last_commit": "2026-05-12T15:06:45Z",
             "owner": "OpenSmock",
@@ -1476,6 +1576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 568893207,
             "language": "Smalltalk",
             "last_commit": "2026-02-11T13:27:58Z",
             "owner": "pharo-contributions",
@@ -1490,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 464911157,
             "language": "Smalltalk",
             "last_commit": "2023-10-06T06:50:33Z",
             "owner": "badetitou",
@@ -1504,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151603029,
             "language": "Smalltalk",
             "last_commit": "2022-02-02T09:57:06Z",
             "owner": "pharo-contributions",
@@ -1518,6 +1621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145041738,
             "language": "Smalltalk",
             "last_commit": "2018-09-13T12:48:09Z",
             "owner": "tesonep",
@@ -1532,6 +1636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165033266,
             "language": "Smalltalk",
             "last_commit": "2023-10-19T18:13:54Z",
             "owner": "pharo-contributions",
@@ -1546,6 +1651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580739170,
             "language": "Smalltalk",
             "last_commit": "2024-09-18T11:52:09Z",
             "owner": "Evref-BL",
@@ -1560,6 +1666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 729662740,
             "language": "Smalltalk",
             "last_commit": "2026-06-05T08:17:22Z",
             "owner": "OpenSmock",
@@ -1571,7 +1678,7 @@
       "title": "Graphics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1580,6 +1687,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100369621,
             "language": "Smalltalk",
             "last_commit": "2026-08-18T09:19:31Z",
             "owner": "feenkcom",
@@ -1594,6 +1702,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276684452,
             "language": "JavaScript",
             "last_commit": "2026-02-14T03:55:29Z",
             "owner": "guillermoamaral",
@@ -1608,6 +1717,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107966065,
             "language": "Smalltalk",
             "last_commit": "2021-12-18T20:05:14Z",
             "owner": "webcpu",
@@ -1622,6 +1732,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98872130,
             "language": "Smalltalk",
             "last_commit": "2026-08-13T11:29:23Z",
             "owner": "pharo-ide",
@@ -1636,6 +1747,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76751516,
             "language": "Smalltalk",
             "last_commit": "2026-08-13T11:31:42Z",
             "owner": "pharo-ide",
@@ -1650,6 +1762,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61238085,
             "language": "Smalltalk",
             "last_commit": "2019-04-18T19:11:50Z",
             "owner": "juliendelplanque",
@@ -1664,6 +1777,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260412785,
             "language": "Smalltalk",
             "last_commit": "2025-01-02T11:31:39Z",
             "owner": "David5i6",
@@ -1678,6 +1792,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71941707,
             "language": "Smalltalk",
             "last_commit": "2022-04-02T18:25:23Z",
             "owner": "Pharophile",
@@ -1692,6 +1807,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243273575,
             "language": "Smalltalk",
             "last_commit": "2024-02-06T16:50:33Z",
             "owner": "sebastianconcept",
@@ -1706,6 +1822,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 333508432,
             "language": "Smalltalk",
             "last_commit": "2026-06-10T09:53:33Z",
             "owner": "OpenSmock",
@@ -1720,6 +1837,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159520108,
             "language": "Smalltalk",
             "last_commit": "2021-12-14T16:36:56Z",
             "owner": "pharo-contributions",
@@ -1734,6 +1852,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151534954,
             "language": "Smalltalk",
             "last_commit": "2019-02-26T15:21:19Z",
             "owner": "jecisc",
@@ -1745,7 +1864,7 @@
       "title": "IDE"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1754,6 +1873,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168057661,
             "language": "Smalltalk",
             "last_commit": "2025-03-28T14:46:38Z",
             "owner": "jecisc",
@@ -1768,6 +1888,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132633906,
             "language": "Smalltalk",
             "last_commit": "2025-09-29T13:28:26Z",
             "owner": "Ducasse",
@@ -1782,6 +1903,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638225235,
             "language": "JavaScript",
             "last_commit": "2025-09-01T11:53:52Z",
             "owner": "OpenSmock",
@@ -1796,6 +1918,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132630508,
             "language": "Smalltalk",
             "last_commit": "2021-05-22T07:59:27Z",
             "owner": "Ducasse",
@@ -1807,7 +1930,7 @@
       "title": "Interaction"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1816,6 +1939,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98889267,
             "language": "Smalltalk",
             "last_commit": "2026-08-13T11:27:43Z",
             "owner": "pharo-iot",
@@ -1830,6 +1954,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62372475,
             "language": "Smalltalk",
             "last_commit": "2018-10-08T11:55:29Z",
             "owner": "tamere",
@@ -1844,6 +1969,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579386517,
             "language": "Smalltalk",
             "last_commit": "2023-03-17T10:47:59Z",
             "owner": "labordep",
@@ -1855,7 +1981,7 @@
       "title": "IOT"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1864,6 +1990,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69449074,
             "language": "Smalltalk",
             "last_commit": "2024-10-28T10:03:36Z",
             "owner": "pharo-contributions",
@@ -1878,6 +2005,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78115970,
             "language": "Smalltalk",
             "last_commit": "2026-07-01T18:42:26Z",
             "owner": "ba-st",
@@ -1892,6 +2020,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 257860676,
             "language": "Smalltalk",
             "last_commit": "2025-01-20T12:16:34Z",
             "owner": "astares",
@@ -1903,7 +2032,7 @@
       "title": "Language extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1912,6 +2041,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206557763,
             "language": "TeX",
             "last_commit": "2019-09-05T12:59:39Z",
             "owner": "mattonem",
@@ -1926,6 +2056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82970791,
             "language": "Smalltalk",
             "last_commit": "2026-03-15T19:49:24Z",
             "owner": "Ducasse",
@@ -1937,7 +2068,7 @@
       "title": "LaTeX"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1946,6 +2077,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158986857,
             "language": "Smalltalk",
             "last_commit": "2025-06-20T16:06:58Z",
             "owner": "jecisc",
@@ -1960,6 +2092,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 587901172,
             "language": "Smalltalk",
             "last_commit": "2026-06-09T12:29:59Z",
             "owner": "ba-st",
@@ -1974,6 +2107,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 932666325,
             "language": "Smalltalk",
             "last_commit": "2025-02-14T16:34:43Z",
             "owner": "Ducasse",
@@ -1988,6 +2122,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398430713,
             "language": "Smalltalk",
             "last_commit": "2021-08-21T00:29:12Z",
             "owner": "pdebruic",
@@ -1999,7 +2134,7 @@
       "title": "Loggers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2008,6 +2143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152567005,
             "language": "Smalltalk",
             "last_commit": "2025-03-08T00:14:26Z",
             "owner": "lxsang",
@@ -2022,6 +2158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187642539,
             "language": "Smalltalk",
             "last_commit": "2021-12-16T16:24:21Z",
             "owner": "khinsen",
@@ -2036,6 +2173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31618296,
             "language": "Smalltalk",
             "last_commit": "2026-05-25T15:38:58Z",
             "owner": "hernanmd",
@@ -2050,6 +2188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80425439,
             "language": "Smalltalk",
             "last_commit": "2019-09-12T09:55:07Z",
             "owner": "smartanvil",
@@ -2064,6 +2203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157228064,
             "language": "Smalltalk",
             "last_commit": "2026-01-08T11:16:26Z",
             "owner": "bouraqadi",
@@ -2078,6 +2218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91495274,
             "language": "Smalltalk",
             "last_commit": "2026-07-14T21:43:29Z",
             "owner": "ba-st",
@@ -2092,6 +2233,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172970669,
             "language": "Smalltalk",
             "last_commit": "2024-02-01T15:53:54Z",
             "owner": "ObjectProfile",
@@ -2106,6 +2248,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91501218,
             "language": "Smalltalk",
             "last_commit": "2026-07-03T14:09:28Z",
             "owner": "ba-st",
@@ -2120,6 +2263,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118868686,
             "language": "Smalltalk",
             "last_commit": "2022-07-07T05:49:50Z",
             "owner": "hernanmd",
@@ -2134,6 +2278,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248736218,
             "language": "Smalltalk",
             "last_commit": "2022-04-13T08:49:14Z",
             "owner": "jecisc",
@@ -2145,7 +2290,7 @@
       "title": "Miscellaneous"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2154,6 +2299,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4272333,
             "language": "Smalltalk",
             "last_commit": "2026-05-11T13:36:43Z",
             "owner": "svenvc",
@@ -2168,6 +2314,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152314665,
             "language": "Smalltalk",
             "last_commit": "2026-06-12T19:27:15Z",
             "owner": "ba-st",
@@ -2182,6 +2329,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154979694,
             "language": "Smalltalk",
             "last_commit": "2026-01-17T12:46:20Z",
             "owner": "juliendelplanque",
@@ -2196,6 +2344,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4362049,
             "language": "Smalltalk",
             "last_commit": "2025-10-27T08:10:20Z",
             "owner": "svenvc",
@@ -2210,6 +2359,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119743097,
             "language": "Smalltalk",
             "last_commit": "2026-06-15T18:18:04Z",
             "owner": "ba-st",
@@ -2224,6 +2374,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201974477,
             "language": "Smalltalk",
             "last_commit": "2026-04-13T23:13:32Z",
             "owner": "ba-st",
@@ -2238,6 +2389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 761124463,
             "language": "Smalltalk",
             "last_commit": "2025-01-31T12:20:16Z",
             "owner": "OpenSmock",
@@ -2249,7 +2401,7 @@
       "title": "Network protocols"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2258,6 +2410,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42404925,
             "language": "Smalltalk",
             "last_commit": "2026-07-10T14:26:24Z",
             "owner": "pharo-project",
@@ -2272,6 +2425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118290841,
             "language": "Shell",
             "last_commit": "2026-04-05T15:31:27Z",
             "owner": "hernanmd",
@@ -2286,6 +2440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118148791,
             "language": "Shell",
             "last_commit": "2022-01-25T09:07:23Z",
             "owner": "cdlm",
@@ -2297,7 +2452,7 @@
       "title": "Pharo images management"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2306,6 +2461,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3317387,
             "language": "Smalltalk",
             "last_commit": "2023-11-28T17:46:56Z",
             "owner": "dalehenrich",
@@ -2320,6 +2476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38818056,
             "language": "Smalltalk",
             "last_commit": "2026-08-07T07:26:05Z",
             "owner": "hpi-swa",
@@ -2334,6 +2491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4229506,
             "language": "Smalltalk",
             "last_commit": "2022-06-03T12:37:44Z",
             "owner": "Metacello",
@@ -2348,6 +2506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118055481,
             "language": "Smalltalk",
             "last_commit": "2020-01-20T10:26:32Z",
             "owner": "VincentBlondeau",
@@ -2362,6 +2521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103037959,
             "language": "Smalltalk",
             "last_commit": "2026-07-05T12:27:35Z",
             "owner": "pharo-vcs",
@@ -2376,6 +2536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41351864,
             "language": "Shell",
             "last_commit": "2023-07-05T13:12:31Z",
             "owner": "svenvc",
@@ -2390,6 +2551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120994265,
             "language": "Smalltalk",
             "last_commit": "2026-03-25T21:17:31Z",
             "owner": "Ducasse",
@@ -2404,6 +2566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247982277,
             "language": "Smalltalk",
             "last_commit": "2022-06-01T09:29:48Z",
             "owner": "jecisc",
@@ -2415,7 +2578,7 @@
       "title": "Projects management"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2424,6 +2587,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54906925,
             "language": "Smalltalk",
             "last_commit": "2026-05-29T14:15:48Z",
             "owner": "PolyMathOrg",
@@ -2438,6 +2602,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3867501,
             "language": "Smalltalk",
             "last_commit": "2026-03-19T14:40:28Z",
             "owner": "KendrickOrg",
@@ -2452,6 +2617,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19938815,
             "language": "Smalltalk",
             "last_commit": "2026-07-11T17:03:04Z",
             "owner": "cormas",
@@ -2466,6 +2632,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318650810,
             "language": "Smalltalk",
             "last_commit": "2024-02-28T06:06:20Z",
             "owner": "grpistoia",
@@ -2480,6 +2647,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32561608,
             "language": "Smalltalk",
             "last_commit": "2026-07-27T19:16:20Z",
             "owner": "hernanmd",
@@ -2494,6 +2662,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75126087,
             "language": "Smalltalk",
             "last_commit": "2019-05-20T07:56:04Z",
             "owner": "juliendelplanque",
@@ -2508,6 +2677,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138175145,
             "language": "Smalltalk",
             "last_commit": "2025-02-12T10:07:12Z",
             "owner": "zweidenker",
@@ -2522,6 +2692,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139397307,
             "language": "Smalltalk",
             "last_commit": "2025-12-01T07:35:14Z",
             "owner": "tomooda",
@@ -2536,6 +2707,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85154651,
             "language": "Smalltalk",
             "last_commit": "2023-12-25T02:12:47Z",
             "owner": "ReactionMap",
@@ -2550,6 +2722,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161090812,
             "language": "Smalltalk",
             "last_commit": "2023-11-23T08:55:24Z",
             "owner": "TelescopeSt",
@@ -2564,6 +2737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31617409,
             "language": "Smalltalk",
             "last_commit": "2022-03-10T04:55:21Z",
             "owner": "hernanmd",
@@ -2578,6 +2752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31617823,
             "language": "Smalltalk",
             "last_commit": "2015-03-11T14:36:36Z",
             "owner": "hernanmd",
@@ -2592,6 +2767,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31618173,
             "language": "Smalltalk",
             "last_commit": "2025-07-20T20:48:34Z",
             "owner": "hernanmd",
@@ -2603,7 +2779,7 @@
       "title": "Scientific libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2612,6 +2788,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40138231,
             "language": "Smalltalk",
             "last_commit": "2026-08-07T07:32:44Z",
             "owner": "moosetechnology",
@@ -2626,6 +2803,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160208726,
             "language": "Smalltalk",
             "last_commit": "2021-06-08T12:31:15Z",
             "owner": "moosetechnology",
@@ -2640,6 +2818,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1000841254,
             "language": "Smalltalk",
             "last_commit": "2025-06-12T13:36:57Z",
             "owner": "USIREVEAL",
@@ -2654,6 +2833,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105666719,
             "language": "Smalltalk",
             "last_commit": "2021-03-18T17:37:01Z",
             "owner": "juliendelplanque",
@@ -2668,6 +2848,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99280927,
             "language": "Smalltalk",
             "last_commit": "2021-04-20T17:35:24Z",
             "owner": "hernanmd",
@@ -2682,6 +2863,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154667925,
             "language": "Smalltalk",
             "last_commit": "2018-10-25T17:59:59Z",
             "owner": "hernanmd",
@@ -2693,7 +2875,7 @@
       "title": "Software / data analysis"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2702,6 +2884,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200387473,
             "language": "Smalltalk",
             "last_commit": "2023-09-13T07:00:29Z",
             "owner": "Pharo-FFI",
@@ -2716,6 +2899,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227325143,
             "language": "Smalltalk",
             "last_commit": "2020-02-09T13:12:33Z",
             "owner": "psvensson",
@@ -2727,7 +2911,7 @@
       "title": "Sound"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2736,6 +2920,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49580920,
             "language": "Smalltalk",
             "last_commit": "2025-12-19T02:22:20Z",
             "owner": "pharo-contributions",
@@ -2750,6 +2935,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160011244,
             "language": "Smalltalk",
             "last_commit": "2023-02-08T21:52:32Z",
             "owner": "ObjectProfile",
@@ -2764,6 +2950,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139562488,
             "language": "Smalltalk",
             "last_commit": "2025-07-16T11:55:23Z",
             "owner": "astares",
@@ -2778,6 +2965,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163673778,
             "language": "Smalltalk",
             "last_commit": "2019-12-11T10:30:57Z",
             "owner": "ObjectProfile",
@@ -2792,6 +2980,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62372475,
             "language": "Smalltalk",
             "last_commit": "2018-10-08T11:55:29Z",
             "owner": "tamere",
@@ -2806,6 +2995,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139756045,
             "language": "Smalltalk",
             "last_commit": "2023-08-21T12:18:00Z",
             "owner": "astares",
@@ -2820,6 +3010,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246272301,
             "language": "Smalltalk",
             "last_commit": "2022-07-11T12:53:07Z",
             "owner": "jecisc",
@@ -2834,6 +3025,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139764173,
             "language": "Smalltalk",
             "last_commit": "2023-08-21T12:15:43Z",
             "owner": "astares",
@@ -2848,6 +3040,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139682372,
             "language": "Smalltalk",
             "last_commit": "2023-08-21T12:17:33Z",
             "owner": "astares",
@@ -2862,6 +3055,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31618264,
             "language": "Smalltalk",
             "last_commit": "2019-02-06T03:52:10Z",
             "owner": "hernanmd",
@@ -2876,6 +3070,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139768327,
             "language": "Smalltalk",
             "last_commit": "2023-08-21T12:18:49Z",
             "owner": "astares",
@@ -2887,7 +3082,7 @@
       "title": "System interaction"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2896,6 +3091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92093362,
             "language": "Smalltalk",
             "last_commit": "2026-04-13T09:49:46Z",
             "owner": "pharo-contributions",
@@ -2910,6 +3106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97255575,
             "language": "Smalltalk",
             "last_commit": "2025-06-12T08:33:28Z",
             "owner": "dionisiydk",
@@ -2924,6 +3121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138143571,
             "language": "Smalltalk",
             "last_commit": "2019-09-23T09:21:52Z",
             "owner": "juliendelplanque",
@@ -2938,6 +3136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88306968,
             "language": "Smalltalk",
             "last_commit": "2021-05-17T10:02:01Z",
             "owner": "ObjectProfile",
@@ -2952,6 +3151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97141971,
             "language": "Smalltalk",
             "last_commit": "2026-08-03T17:19:27Z",
             "owner": "dionisiydk",
@@ -2966,6 +3166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142874853,
             "language": "Smalltalk",
             "last_commit": "2025-10-06T13:05:40Z",
             "owner": "tesonep",
@@ -2980,6 +3181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2277473,
             "language": "Smalltalk",
             "last_commit": "2026-02-04T07:37:57Z",
             "owner": "tomas-stefano",
@@ -2994,6 +3196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17573354,
             "language": null,
             "last_commit": "2025-01-14T15:39:07Z",
             "owner": "zeroflag",
@@ -3005,7 +3208,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3014,11 +3217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32866980,
             "language": "Smalltalk",
             "last_commit": "2026-08-08T14:03:35Z",
             "owner": "SeasideSt",
             "repo": "Seaside",
-            "stars": 560
+            "stars": 561
           }
         },
         {
@@ -3028,6 +3232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41539064,
             "language": "JavaScript",
             "last_commit": "2025-11-05T08:38:57Z",
             "owner": "PharoJS",
@@ -3042,6 +3247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4272333,
             "language": "Smalltalk",
             "last_commit": "2026-05-11T13:36:43Z",
             "owner": "svenvc",
@@ -3056,6 +3262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36934721,
             "language": "Smalltalk",
             "last_commit": "2026-05-08T14:03:58Z",
             "owner": "zeroflag",
@@ -3070,8 +3277,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214706450,
             "language": "Smalltalk",
-            "last_commit": "2026-08-14T14:57:43Z",
+            "last_commit": "2026-08-19T10:31:55Z",
             "owner": "ErikOnBike",
             "repo": "CodeParadise",
             "stars": 97
@@ -3084,6 +3292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74787479,
             "language": "Smalltalk",
             "last_commit": "2026-02-11T22:19:47Z",
             "owner": "ba-st",
@@ -3098,6 +3307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66675379,
             "language": "Smalltalk",
             "last_commit": "2024-07-15T14:20:32Z",
             "owner": "DuneSt",
@@ -3112,6 +3322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56960990,
             "language": "Smalltalk",
             "last_commit": "2025-10-16T15:54:42Z",
             "owner": "SeasideSt",
@@ -3126,6 +3337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118589193,
             "language": "Smalltalk",
             "last_commit": "2026-08-05T15:34:01Z",
             "owner": "ApptiveGrid",
@@ -3140,6 +3352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140776773,
             "language": "Smalltalk",
             "last_commit": "2024-06-11T15:39:44Z",
             "owner": "grype",
@@ -3154,6 +3367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74788924,
             "language": "Smalltalk",
             "last_commit": "2026-01-14T11:20:08Z",
             "owner": "ba-st",
@@ -3168,6 +3382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74893166,
             "language": "Smalltalk",
             "last_commit": "2020-10-07T21:21:29Z",
             "owner": "ba-st",
@@ -3182,6 +3397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112541603,
             "language": "Smalltalk",
             "last_commit": "2023-03-22T06:01:10Z",
             "owner": "astares",
@@ -3196,6 +3412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131391759,
             "language": "Smalltalk",
             "last_commit": "2022-07-07T13:09:28Z",
             "owner": "TelescopeSt",
@@ -3210,6 +3427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67227468,
             "language": "Smalltalk",
             "last_commit": "2022-05-14T00:51:15Z",
             "owner": "DuneSt",
@@ -3224,6 +3442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315075059,
             "language": "Smalltalk",
             "last_commit": "2020-11-22T18:35:57Z",
             "owner": "radekbusa",
@@ -3238,6 +3457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67297441,
             "language": "StringTemplate",
             "last_commit": "2022-05-14T00:54:24Z",
             "owner": "DuneSt",
@@ -3252,6 +3472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315032313,
             "language": "Smalltalk",
             "last_commit": "2020-11-22T15:23:55Z",
             "owner": "radekbusa",
@@ -3266,6 +3487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 931123557,
             "language": "Smalltalk",
             "last_commit": "2025-07-12T11:51:17Z",
             "owner": "bouraqadi",
@@ -3277,7 +3499,7 @@
       "title": "Web"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3286,6 +3508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88084595,
             "language": "Smalltalk",
             "last_commit": "2022-03-07T20:17:15Z",
             "owner": "JurajKubelka",
@@ -3300,6 +3523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696145924,
             "language": "Smalltalk",
             "last_commit": "2026-03-30T15:45:40Z",
             "owner": "Evref-BL",
@@ -3314,6 +3538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 604134351,
             "language": "Smalltalk",
             "last_commit": "2023-09-16T12:46:42Z",
             "owner": "Evref-BL",
@@ -3326,8 +3551,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:46:36.839Z",
+    "last_updated": "2026-08-19T12:46:29.463Z",
     "original_repository": "pharo-open-documentation/awesome-pharo",
+    "original_repository_id": 157852393,
     "original_repository_sha": "d1f4cb0e6fb98cb542257e35a7142305c89f56dc",
     "enhanced_repository": "enhansome/enhansome-pharo",
     "enhanced_repository_description": null,
