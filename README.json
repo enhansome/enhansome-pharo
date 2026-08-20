@@ -1689,10 +1689,10 @@
             "archived": false,
             "id": 100369621,
             "language": "Smalltalk",
-            "last_commit": "2026-08-18T09:19:31Z",
+            "last_commit": "2026-08-19T18:46:07Z",
             "owner": "feenkcom",
             "repo": "gtoolkit",
-            "stars": 1557
+            "stars": 1558
           }
         },
         {
@@ -3551,7 +3551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:42:51.042Z",
+    "last_updated": "2026-08-20T18:49:17.517Z",
     "original_repository": "pharo-open-documentation/awesome-pharo",
     "original_repository_id": 157852393,
     "original_repository_sha": "d1f4cb0e6fb98cb542257e35a7142305c89f56dc",
