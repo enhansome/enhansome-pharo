@@ -1413,7 +1413,7 @@
             "archived": false,
             "id": 66376994,
             "language": "Smalltalk",
-            "last_commit": "2026-08-21T11:43:29Z",
+            "last_commit": "2026-08-22T08:22:00Z",
             "owner": "feenkcom",
             "repo": "sparta",
             "stars": 33
@@ -1689,7 +1689,7 @@
             "archived": false,
             "id": 100369621,
             "language": "Smalltalk",
-            "last_commit": "2026-08-21T16:12:14Z",
+            "last_commit": "2026-08-22T08:24:58Z",
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1558
@@ -3312,7 +3312,7 @@
             "last_commit": "2024-07-15T14:20:32Z",
             "owner": "DuneSt",
             "repo": "MaterialDesignLite",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -3551,7 +3551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:45:29.233Z",
+    "last_updated": "2026-08-22T18:38:16.802Z",
     "original_repository": "pharo-open-documentation/awesome-pharo",
     "original_repository_id": 157852393,
     "original_repository_sha": "d1f4cb0e6fb98cb542257e35a7142305c89f56dc",
