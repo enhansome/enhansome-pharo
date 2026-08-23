@@ -1446,7 +1446,7 @@
             "last_commit": "2026-06-30T09:29:45Z",
             "owner": "pharo-graphics",
             "repo": "Roassal",
-            "stars": 28
+            "stars": 29
           }
         },
         {
@@ -1689,7 +1689,7 @@
             "archived": false,
             "id": 100369621,
             "language": "Smalltalk",
-            "last_commit": "2026-08-22T08:24:58Z",
+            "last_commit": "2026-08-23T11:23:02Z",
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1558
@@ -3551,7 +3551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:38:16.802Z",
+    "last_updated": "2026-08-23T18:37:24.988Z",
     "original_repository": "pharo-open-documentation/awesome-pharo",
     "original_repository_id": 157852393,
     "original_repository_sha": "d1f4cb0e6fb98cb542257e35a7142305c89f56dc",
