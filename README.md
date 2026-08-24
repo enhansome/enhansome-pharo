@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,558 | 🐛 339 | 🌐 Smalltalk | 📅 2026-08-23 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,558 | 🐛 337 | 🌐 Smalltalk | 📅 2026-08-24 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -291,7 +291,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Projects management
 
 * [Filetree](https://github.com/dalehenrich/filetree) ⭐ 133 | 🐛 49 | 🌐 Smalltalk | 📅 2023-11-28 - A file-per-method export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
-* [SmalltalkCI](https://github.com/hpi-swa/smalltalkCI) ⭐ 107 | 🐛 81 | 🌐 Smalltalk | 📅 2026-08-21 - Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.
+* [SmalltalkCI](https://github.com/hpi-swa/smalltalkCI) ⭐ 107 | 🐛 81 | 🌐 Smalltalk | 📅 2026-08-24 - Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.
 * [Metacello](https://github.com/Metacello/metacello) ⭐ 92 | 🐛 129 | 🌐 Smalltalk | 📅 2022-06-03 - A package management system for Pharo.
 * [Cruiser](https://github.com/VincentBlondeau/Cruiser) ⭐ 45 | 🐛 7 | 🌐 Smalltalk | 📅 2020-01-20 - Application packager for Pharo.
 * [Tonel](https://github.com/pharo-vcs/tonel) ⭐ 33 | 🐛 30 | 🌐 Smalltalk | 📅 2026-07-05 - A file-per-class export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
@@ -356,7 +356,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Tutorials
 
-* [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) ⭐ 35 | 🐛 54 | 🌐 Smalltalk | 📅 2026-08-20 - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
+* [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) ⭐ 35 | 🐛 54 | 🌐 Smalltalk | 📅 2026-08-24 - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
 
 ## VCS
 
@@ -364,8 +364,8 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Videos
 
-* [How to setup a Pharo project](https://www.youtube.com/watch?v=Wnt3OBhR18I) - Video showing how to setup a Pharo project (continuous-integration setup included).
 * [Infecting morph by virus](https://www.youtube.com/watch?v=mnu51GDhOL4) - Example of usage of [Ghost](https://github.com/pharo-ide/Ghost) ⭐ 3 | 🐛 1 | 🌐 Smalltalk | 📅 2026-08-13 to infect a Morph, making it change the color of other Morphs it touches.
+* [How to setup a Pharo project](https://www.youtube.com/watch?v=Wnt3OBhR18I) - Video showing how to setup a Pharo project (continuous-integration setup included).
 * [Pharo Tech Talk Feb 2017 : Reflectivity](https://www.youtube.com/watch?v=H52MAu_ISgU) - Reflectivity in Pharo6.
 * [Pharo Techtalk: Consortium/Association 2017](https://www.youtube.com/watch?v=jYtNinyj69I) - Live stream for the pharo tech talk March 2018.
 * [Pharo TechTalk July 2019: Contribute to Pharo](https://www.youtube.com/watch?v=90T0OSb_Fuo) - TechTalk showing how to contribute to Pharo.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

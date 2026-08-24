@@ -1689,7 +1689,7 @@
             "archived": false,
             "id": 100369621,
             "language": "Smalltalk",
-            "last_commit": "2026-08-23T11:23:02Z",
+            "last_commit": "2026-08-24T12:16:29Z",
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1558
@@ -2478,7 +2478,7 @@
             "archived": false,
             "id": 38818056,
             "language": "Smalltalk",
-            "last_commit": "2026-08-21T10:16:26Z",
+            "last_commit": "2026-08-24T06:59:14Z",
             "owner": "hpi-swa",
             "repo": "smalltalkCI",
             "stars": 107
@@ -3212,6 +3212,90 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Exercism Pharo Smalltalk",
+          "description": "Solve problems with TDD at Exercism.io and receive mentor feedback.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136829833,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-24T02:11:40Z",
+            "owner": "exercism",
+            "repo": "pharo-smalltalk",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Iceberg",
+          "description": "Set of tools to handle git repositories from a Pharo image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55789076,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-13T14:40:16Z",
+            "owner": "pharo-vcs",
+            "repo": "iceberg",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "VCS"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Infecting morph by virus",
+          "description": "Example of usage of Ghost to infect a Morph, making it change the color of other Morphs it touches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97254982,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-13T11:32:21Z",
+            "owner": "pharo-ide",
+            "repo": "Ghost",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Videos"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polyphemus",
+          "description": "Framework allowing to analyse/query/modify Pharo images without executing them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55789076,
+            "language": "Smalltalk",
+            "last_commit": "2026-08-13T14:40:16Z",
+            "owner": "pharo-vcs",
+            "repo": "iceberg",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Virtual Machine"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Seaside",
           "description": "Framework to develop sophisticate web applications in Smalltalk.",
           "children": [],
@@ -3551,7 +3635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:37:24.988Z",
+    "last_updated": "2026-08-24T14:30:25.906Z",
     "original_repository": "pharo-open-documentation/awesome-pharo",
     "original_repository_id": 157852393,
     "original_repository_sha": "d1f4cb0e6fb98cb542257e35a7142305c89f56dc",
