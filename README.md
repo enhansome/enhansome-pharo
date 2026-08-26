@@ -186,14 +186,14 @@ The general idea is to have a place to be able to find datastructures.
 
 * [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 189 | 🌐 Smalltalk | 📅 2026-08-21 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 26 | 🌐 Smalltalk | 📅 2026-07-30 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
-* [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-22 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
+* [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-26 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
 * [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 25 | 🌐 Smalltalk | 📅 2026-08-07 - A widget framework on top of Bloc.
 * [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 29 | 🐛 24 | 🌐 Smalltalk | 📅 2026-06-30 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
 * [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2022-01-23 - Pharo support for PlantUML.
 * [Woden](https://github.com/ronsaldo/woden) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2024-01-26 - A 3D graphics engine for Pharo.
 * [Jun](https://github.com/tomooda/Jun) ⭐ 13 | 🐛 0 | 🌐 Smalltalk | 📅 2024-10-30 - A 3D graphics library with chemoinformatics extensions.
 * [Alexandrie](https://github.com/pharo-graphics/Alexandrie) ⭐ 8 | 🐛 23 | 🌐 Smalltalk | 📅 2026-07-28 - FFI bindings and a 2D canvas for Pharo based on Cairo, Freetype and Harfbuzz
-* [GraphViz](https://github.com/hernanmd/GraphViz) ⭐ 7 | 🐛 1 | 🌐 Smalltalk | 📅 2024-11-03 - Pharo GraphViz binding.
+* [GraphViz](https://github.com/hernanmd/GraphViz) ⭐ 8 | 🐛 1 | 🌐 Smalltalk | 📅 2024-11-03 - Pharo GraphViz binding.
 * [MaterialColors](https://github.com/DuneSt/MaterialColors) ⭐ 3 | 🐛 0 | 🌐 Smalltalk | 📅 2022-05-14 - Project implementing Material Design recommandations on colors.
 * [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) ⭐ 3 | 🐛 2 | 🌐 Smalltalk | 📅 2023-02-13 - Add-ons for Spec UI description framework.
 * [Bloc-Serialization](https://github.com/OpenSmock/Bloc-Serialization) ⭐ 2 | 🐛 2 | 🌐 Smalltalk | 📅 2026-05-12 - Bloc serialization features to store/unstore BlElements.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,558 | 🐛 339 | 🌐 Smalltalk | 📅 2026-08-25 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,558 | 🐛 337 | 🌐 Smalltalk | 📅 2026-08-26 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -291,7 +291,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Projects management
 
 * [Filetree](https://github.com/dalehenrich/filetree) ⭐ 133 | 🐛 49 | 🌐 Smalltalk | 📅 2023-11-28 - A file-per-method export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
-* [SmalltalkCI](https://github.com/hpi-swa/smalltalkCI) ⭐ 107 | 🐛 81 | 🌐 Smalltalk | 📅 2026-08-24 - Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.
+* [SmalltalkCI](https://github.com/hpi-swa/smalltalkCI) ⭐ 107 | 🐛 82 | 🌐 Smalltalk | 📅 2026-08-26 - Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.
 * [Metacello](https://github.com/Metacello/metacello) ⭐ 92 | 🐛 129 | 🌐 Smalltalk | 📅 2022-06-03 - A package management system for Pharo.
 * [Cruiser](https://github.com/VincentBlondeau/Cruiser) ⭐ 45 | 🐛 7 | 🌐 Smalltalk | 📅 2020-01-20 - Application packager for Pharo.
 * [Tonel](https://github.com/pharo-vcs/tonel) ⭐ 33 | 🐛 30 | 🌐 Smalltalk | 📅 2026-07-05 - A file-per-class export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
@@ -382,7 +382,7 @@ The general idea is to have a place to be able to find datastructures.
 * [Teapot](https://github.com/zeroflag/Teapot) ⭐ 104 | 🐛 5 | 🌐 Smalltalk | 📅 2026-05-08 - Micro web framework for Pharo Smalltalk.
 * [CodeParadise](https://github.com/ErikOnBike/CodeParadise) ⭐ 97 | 🐛 0 | 🌐 Smalltalk | 📅 2026-08-19 - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
 * [Willow](https://github.com/ba-st/Willow) ⭐ 51 | 🐛 4 | 🌐 Smalltalk | 📅 2026-02-11 - Web Interaction Library that eases the burden of creating AJAX-based web applications.
-* [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) ⭐ 43 | 🐛 49 | 🌐 Smalltalk | 📅 2024-07-15 - Binding google's Material Design Lite project for Seaside.
+* [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) ⭐ 43 | 🐛 50 | 🌐 Smalltalk | 📅 2026-08-26 - Binding google's Material Design Lite project for Seaside.
 * [Parasol](https://github.com/SeasideSt/Parasol) ⭐ 32 | 🐛 15 | 🌐 Smalltalk | 📅 2025-10-16 - Testing web apps in Smalltalk using Selenium WebDriver.
 * [OpenAPI](https://github.com/zweidenker/OpenAPI) ⭐ 23 | 🐛 4 | 🌐 Smalltalk | 📅 2026-08-05 - A pharo implementation of [OpenAPI](https://www.openapis.org) 3.0.1, a machine-readable interface files specification for describing, producing, consuming, and visualizing RESTful web services.
 * [Ethel](https://github.com/grype/Ethel) ⭐ 22 | 🐛 0 | 🌐 Smalltalk | 📅 2024-06-11 - Lightweight framework for composing web service clients.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
