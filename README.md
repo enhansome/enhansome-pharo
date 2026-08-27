@@ -170,7 +170,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Deployment
 
 * [Docker Pharo Runtime](https://github.com/ba-st/docker-pharo-runtime) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2026-03-11 - Docker image for Pharo
-* [Docker Pharo VM](https://github.com/ba-st/docker-pharo-vm) ⭐ 4 | 🐛 0 | 🌐 Dockerfile | 📅 2026-03-10 - Docker image for Pharo VM
+* [Docker Pharo VM](https://github.com/ba-st/docker-pharo-vm) ⭐ 5 | 🐛 0 | 🌐 Dockerfile | 📅 2026-03-10 - Docker image for Pharo VM
 
 ## Documents Generation
 
@@ -186,7 +186,7 @@ The general idea is to have a place to be able to find datastructures.
 
 * [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 189 | 🌐 Smalltalk | 📅 2026-08-21 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 26 | 🌐 Smalltalk | 📅 2026-07-30 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
-* [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-26 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
+* [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-27 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
 * [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 25 | 🌐 Smalltalk | 📅 2026-08-07 - A widget framework on top of Bloc.
 * [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 29 | 🐛 24 | 🌐 Smalltalk | 📅 2026-06-30 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
 * [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2022-01-23 - Pharo support for PlantUML.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,558 | 🐛 337 | 🌐 Smalltalk | 📅 2026-08-26 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,558 | 🐛 337 | 🌐 Smalltalk | 📅 2026-08-27 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -284,7 +284,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Pharo images management
 
-* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 115 | 🐛 229 | 🌐 Smalltalk | 📅 2026-07-10 - Official tool to manage your pharo images and download new ones.
+* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 115 | 🐛 229 | 🌐 Smalltalk | 📅 2026-08-27 - Official tool to manage your pharo images and download new ones.
 * [Pharo Install](https://github.com/hernanmd/pi) ⭐ 41 | 🐛 8 | 🌐 Shell | 📅 2026-04-05 - A command-line tool for installing Pharo Smalltalk packages into fresh images.
 * [fari.sh](https://github.com/cdlm/fari.sh) ⭐ 14 | 🐛 4 | 🌐 Shell | 📅 2022-01-25 - Fresh, ready-to-hack Pharo images.
 
@@ -382,17 +382,17 @@ The general idea is to have a place to be able to find datastructures.
 * [Teapot](https://github.com/zeroflag/Teapot) ⭐ 104 | 🐛 5 | 🌐 Smalltalk | 📅 2026-05-08 - Micro web framework for Pharo Smalltalk.
 * [CodeParadise](https://github.com/ErikOnBike/CodeParadise) ⭐ 97 | 🐛 0 | 🌐 Smalltalk | 📅 2026-08-19 - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
 * [Willow](https://github.com/ba-st/Willow) ⭐ 51 | 🐛 4 | 🌐 Smalltalk | 📅 2026-02-11 - Web Interaction Library that eases the burden of creating AJAX-based web applications.
-* [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) ⭐ 43 | 🐛 50 | 🌐 Smalltalk | 📅 2026-08-26 - Binding google's Material Design Lite project for Seaside.
+* [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) ⭐ 43 | 🐛 49 | 🌐 Smalltalk | 📅 2026-08-27 - Binding google's Material Design Lite project for Seaside.
 * [Parasol](https://github.com/SeasideSt/Parasol) ⭐ 32 | 🐛 15 | 🌐 Smalltalk | 📅 2025-10-16 - Testing web apps in Smalltalk using Selenium WebDriver.
 * [OpenAPI](https://github.com/zweidenker/OpenAPI) ⭐ 23 | 🐛 4 | 🌐 Smalltalk | 📅 2026-08-05 - A pharo implementation of [OpenAPI](https://www.openapis.org) 3.0.1, a machine-readable interface files specification for describing, producing, consuming, and visualizing RESTful web services.
 * [Ethel](https://github.com/grype/Ethel) ⭐ 22 | 🐛 0 | 🌐 Smalltalk | 📅 2024-06-11 - Lightweight framework for composing web service clients.
 * [RenoirSt](https://github.com/ba-st/RenoirSt) ⭐ 18 | 🐛 3 | 🌐 Smalltalk | 📅 2026-01-14 - A DSL enabling programmatic cascading style sheet generation for Pharo Smalltalk.
 * [HighchartsSt](https://github.com/ba-st/HighchartsSt) ⭐ 13 | 🐛 6 | 🌐 Smalltalk | 📅 2020-10-07 - A Highcharts Js API wrapper for Pharo Smalltalk.
 * [SeasideBootstrap](https://github.com/astares/Seaside-Bootstrap) ⭐ 11 | 🐛 0 | 🌐 Smalltalk | 📅 2023-03-22 - Binding to Twitter's Bootstrap project for Seaside.
-* [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) ⭐ 9 | 🐛 18 | 🌐 Smalltalk | 📅 2022-07-07 - Interactive visualization project for Seaside based on Cytoscape.js.
-* [ChartJs](https://github.com/DuneSt/ChartJs) ⭐ 8 | 🐛 4 | 🌐 Smalltalk | 📅 2022-05-14 - Seaside binding of ChartJs to display and interact with charts.
+* [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) ⭐ 9 | 🐛 18 | 🌐 Smalltalk | 📅 2026-08-27 - Interactive visualization project for Seaside based on Cytoscape.js.
+* [ChartJs](https://github.com/DuneSt/ChartJs) ⭐ 8 | 🐛 4 | 🌐 Smalltalk | 📅 2026-08-27 - Seaside binding of ChartJs to display and interact with charts.
 * [Pragma-Validators](https://github.com/radekbusa/Pragma-Validators) ⭐ 3 | 🐛 0 | 🌐 Smalltalk | 📅 2020-11-22 - Pragma validators for Pharo accessors, inspired by Java Bean Validation annotations.
-* [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) ⭐ 2 | 🐛 1 | 🌐 StringTemplate | 📅 2022-05-14 - Code displayer for Seaside base on Prism.js project.
+* [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) ⭐ 2 | 🐛 1 | 🌐 StringTemplate | 📅 2026-08-27 - Code displayer for Seaside base on Prism.js project.
 * [Teapot-ACL](https://github.com/radekbusa/Teapot-ACL) ⭐ 2 | 🐛 0 | 🌐 Smalltalk | 📅 2020-11-22 - A minimalistic role-based access control list for Teapot authorization.
 * [WebST](https://github.com/bouraqadi/WebST/) ⭐ 0 | 🐛 0 | 🌐 Smalltalk | 📅 2025-07-12 - A framework for building Web Components using PharoJS
 * [Amber](https://amber-lang.net) - Amber is an implementation of the Smalltalk language that runs on top of the JavaScript runtime. It uses Pharo as reference implementation.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

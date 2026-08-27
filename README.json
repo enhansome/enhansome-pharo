@@ -1314,7 +1314,7 @@
             "last_commit": "2026-03-10T14:26:05Z",
             "owner": "ba-st",
             "repo": "docker-pharo-vm",
-            "stars": 4
+            "stars": 5
           }
         }
       ],
@@ -1413,7 +1413,7 @@
             "archived": false,
             "id": 66376994,
             "language": "Smalltalk",
-            "last_commit": "2026-08-26T08:14:05Z",
+            "last_commit": "2026-08-27T08:45:39Z",
             "owner": "feenkcom",
             "repo": "sparta",
             "stars": 33
@@ -1689,7 +1689,7 @@
             "archived": false,
             "id": 100369621,
             "language": "Smalltalk",
-            "last_commit": "2026-08-26T08:32:43Z",
+            "last_commit": "2026-08-27T10:01:18Z",
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1558
@@ -2412,7 +2412,7 @@
             "archived": false,
             "id": 42404925,
             "language": "Smalltalk",
-            "last_commit": "2026-07-10T14:26:24Z",
+            "last_commit": "2026-08-27T09:46:04Z",
             "owner": "pharo-project",
             "repo": "pharo-launcher",
             "stars": 115
@@ -3393,7 +3393,7 @@
             "archived": false,
             "id": 66675379,
             "language": "Smalltalk",
-            "last_commit": "2026-08-26T19:46:52Z",
+            "last_commit": "2026-08-27T01:05:07Z",
             "owner": "DuneSt",
             "repo": "MaterialDesignLite",
             "stars": 43
@@ -3498,7 +3498,7 @@
             "archived": false,
             "id": 131391759,
             "language": "Smalltalk",
-            "last_commit": "2022-07-07T13:09:28Z",
+            "last_commit": "2026-08-27T02:12:37Z",
             "owner": "TelescopeSt",
             "repo": "TelescopeCytoscape",
             "stars": 9
@@ -3513,7 +3513,7 @@
             "archived": false,
             "id": 67227468,
             "language": "Smalltalk",
-            "last_commit": "2022-05-14T00:51:15Z",
+            "last_commit": "2026-08-27T01:31:21Z",
             "owner": "DuneSt",
             "repo": "ChartJs",
             "stars": 8
@@ -3543,7 +3543,7 @@
             "archived": false,
             "id": 67297441,
             "language": "StringTemplate",
-            "last_commit": "2022-05-14T00:54:24Z",
+            "last_commit": "2026-08-27T02:26:03Z",
             "owner": "DuneSt",
             "repo": "PrismCodeDisplayer",
             "stars": 2
@@ -3635,9 +3635,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:55:57.954Z",
-    "original_repository": "pharo-open-documentation/awesome-pharo",
-    "original_repository_id": 157852393,
+    "last_updated": "2026-08-27T11:57:33.777Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 157852393,
+      "language": null,
+      "last_commit": "2026-03-11T16:23:01Z",
+      "owner": "pharo-open-documentation",
+      "repo": "awesome-pharo",
+      "stars": 307
+    },
     "original_repository_sha": "d1f4cb0e6fb98cb542257e35a7142305c89f56dc",
     "enhanced_repository": "enhansome/enhansome-pharo",
     "enhanced_repository_description": null,
