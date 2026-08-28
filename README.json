@@ -189,7 +189,7 @@
             "archived": false,
             "id": 41539064,
             "language": "JavaScript",
-            "last_commit": "2025-11-05T08:38:57Z",
+            "last_commit": "2026-08-27T15:08:52Z",
             "owner": "PharoJS",
             "repo": "PharoJS",
             "stars": 129
@@ -1428,7 +1428,7 @@
             "archived": false,
             "id": 462856189,
             "language": "Smalltalk",
-            "last_commit": "2026-08-07T13:38:39Z",
+            "last_commit": "2026-08-27T15:05:56Z",
             "owner": "pharo-graphics",
             "repo": "Toplo",
             "stars": 31
@@ -1689,7 +1689,7 @@
             "archived": false,
             "id": 100369621,
             "language": "Smalltalk",
-            "last_commit": "2026-08-27T10:01:18Z",
+            "last_commit": "2026-08-27T12:32:11Z",
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1558
@@ -3318,7 +3318,7 @@
             "archived": false,
             "id": 41539064,
             "language": "JavaScript",
-            "last_commit": "2025-11-05T08:38:57Z",
+            "last_commit": "2026-08-27T15:08:52Z",
             "owner": "PharoJS",
             "repo": "PharoJS",
             "stars": 129
@@ -3513,7 +3513,7 @@
             "archived": false,
             "id": 67227468,
             "language": "Smalltalk",
-            "last_commit": "2026-08-27T01:31:21Z",
+            "last_commit": "2026-08-27T23:29:59Z",
             "owner": "DuneSt",
             "repo": "ChartJs",
             "stars": 8
@@ -3635,7 +3635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:33.777Z",
+    "last_updated": "2026-08-28T02:06:56.065Z",
     "original_repository_info": {
       "archived": false,
       "id": 157852393,

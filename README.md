@@ -70,7 +70,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 
 ## Code generation
 
-* [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 40 | 🌐 JavaScript | 📅 2025-11-05 - Converts Pharo code to Javascript.
+* [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-27 - Converts Pharo code to Javascript.
 * [Python3Generator](https://github.com/juliendelplanque/Python3Generator) ⭐ 26 | 🐛 2 | 🌐 Smalltalk | 📅 2024-02-15 - A toolkit to generate Python 3 source code from Pharo.
 * [PharoCodeGenerator](https://github.com/juliendelplanque/PharoCodeGenerator) ⭐ 13 | 🐛 9 | 🌐 Smalltalk | 📅 2022-05-15 - Generate Pharo code based on ASTs.
 * [XML-XMLWriter](https://github.com/pharo-contributions/XML-XMLWriter) ⭐ 5 | 🐛 0 | 🌐 Smalltalk | 📅 2024-05-28 - Block-based API for XML generation for Pharo.
@@ -187,7 +187,7 @@ The general idea is to have a place to be able to find datastructures.
 * [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 189 | 🌐 Smalltalk | 📅 2026-08-21 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 26 | 🌐 Smalltalk | 📅 2026-07-30 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-27 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
-* [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 25 | 🌐 Smalltalk | 📅 2026-08-07 - A widget framework on top of Bloc.
+* [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 25 | 🌐 Smalltalk | 📅 2026-08-27 - A widget framework on top of Bloc.
 * [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 29 | 🐛 24 | 🌐 Smalltalk | 📅 2026-06-30 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
 * [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2022-01-23 - Pharo support for PlantUML.
 * [Woden](https://github.com/ronsaldo/woden) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2024-01-26 - A 3D graphics engine for Pharo.
@@ -377,7 +377,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Web
 
 * [Seaside](https://github.com/SeasideSt/Seaside) ⭐ 561 | 🐛 156 | 🌐 Smalltalk | 📅 2026-08-08 - Framework to develop sophisticate web applications in Smalltalk.
-* [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 40 | 🌐 JavaScript | 📅 2025-11-05 - Develop in Pharo, Run on Javascript.
+* [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-27 - Develop in Pharo, Run on Javascript.
 * [Zinc](https://github.com/svenvc/zinc) ⭐ 107 | 🐛 29 | 🌐 Smalltalk | 📅 2026-05-11 - HTTP components to deal with HTTP networking in Smalltalk.
 * [Teapot](https://github.com/zeroflag/Teapot) ⭐ 104 | 🐛 5 | 🌐 Smalltalk | 📅 2026-05-08 - Micro web framework for Pharo Smalltalk.
 * [CodeParadise](https://github.com/ErikOnBike/CodeParadise) ⭐ 97 | 🐛 0 | 🌐 Smalltalk | 📅 2026-08-19 - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
