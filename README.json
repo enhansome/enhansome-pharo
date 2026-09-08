@@ -1660,8 +1660,8 @@
             "id": 522613767,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-07T11:05:46Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-08T12:18:22Z",
+            "open_issues": 38,
             "owner": "ApptiveGrid",
             "repo": "Soil",
             "stars": 66,
@@ -2364,8 +2364,8 @@
             "id": 462856189,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-07T21:12:05Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-08T02:42:51Z",
+            "open_issues": 26,
             "owner": "pharo-graphics",
             "repo": "Toplo",
             "stars": 31,
@@ -2818,8 +2818,8 @@
             "id": 100369621,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-06T17:35:33Z",
-            "open_issues": 337,
+            "last_commit": "2026-09-08T16:56:33Z",
+            "open_issues": 331,
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1565,
@@ -4241,7 +4241,7 @@
             "open_issues": 30,
             "owner": "pharo-vcs",
             "repo": "tonel",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-29T01:38:36.443Z"
@@ -6079,7 +6079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:23:26.162Z",
+    "last_updated": "2026-09-08T20:59:51.935Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
