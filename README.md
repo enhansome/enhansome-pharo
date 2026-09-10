@@ -106,7 +106,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 * [SIXX](https://github.com/mumez/SIXX) ⭐ 15 | 🐛 0 | 🌐 Smalltalk | 📅 2025-05-18 - XML serializer/deserializer.
 * [Protobuf](https://github.com/jvdsandt/protobuf-smalltalk) ⭐ 14 | 🐛 1 | 🌐 Smalltalk | 📅 2020-03-17 - [Google's protocol buffers](https://developers.google.com/protocol-buffers/) support for Pharo Smalltalk.
 * [Tabular](https://github.com/VincentBlondeau/Tabular) ⭐ 14 | 🐛 9 | 🌐 Smalltalk | 📅 2023-10-28 - Support of common spreadsheets formats (CSV, XLSX, ODS).
-* [XML-Parser](https://github.com/pharo-contributions/XML-XMLParser) ⭐ 14 | 🐛 3 | 🌐 Smalltalk | 📅 2025-10-26 - Official XML parser maintained by Pharo community.
+* [XML-Parser](https://github.com/pharo-contributions/XML-XMLParser) ⭐ 14 | 🐛 4 | 🌐 Smalltalk | 📅 2025-10-26 - Official XML parser maintained by Pharo community.
 * [Soup](https://github.com/Ducasse/Soup) ⭐ 7 | 🐛 2 | 🌐 Smalltalk | 📅 2026-06-27 - HTML Scraping library for Pharo.
 * [XML-XMLParserHTML](https://github.com/pharo-contributions/XML-XMLParserHTML) ⭐ 6 | 🐛 0 | 🌐 Smalltalk | 📅 2025-01-13 - Official parsers for HTML that convert possibly malformed HTML into well-formed XML maintained by Pharo community.
 * [XML-XPath](https://github.com/pharo-contributions/XML-XPath) ⭐ 6 | 🐛 2 | 🌐 Smalltalk | 📅 2024-08-04 - Official XPath library for Pharo.
@@ -146,7 +146,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Databases
 
 * [P3](https://github.com/svenvc/P3) ⭐ 81 | 🐛 7 | 🌐 Smalltalk | 📅 2025-11-29 - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
-* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 39 | 🌐 Smalltalk | 📅 2026-09-09 - Object oriented database library. Persistency to disk with transactions and search indexes.
+* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 39 | 🌐 Smalltalk | 📅 2026-09-10 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 35 | 🐛 6 | 🌐 Smalltalk | 📅 2026-06-10 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
 * [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 28 | 🐛 48 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
@@ -184,7 +184,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 
-* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 191 | 🌐 Smalltalk | 📅 2026-09-07 - Next generation low-level UI infratructure and framework for Pharo.
+* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 191 | 🌐 Smalltalk | 📅 2026-09-10 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 26 | 🌐 Smalltalk | 📅 2026-07-30 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-27 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
 * [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-09-08 - A widget framework on top of Bloc.
@@ -360,7 +360,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## VCS
 
-* [Iceberg](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 355 | 🌐 Smalltalk | 📅 2026-09-04 - Set of tools to handle git repositories from a Pharo image.
+* [Iceberg](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 356 | 🌐 Smalltalk | 📅 2026-09-04 - Set of tools to handle git repositories from a Pharo image.
 
 ## Videos
 
@@ -372,7 +372,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Virtual Machine
 
-* [Polyphemus](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 355 | 🌐 Smalltalk | 📅 2026-09-04 - Framework allowing to analyse/query/modify Pharo images without executing them.
+* [Polyphemus](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 356 | 🌐 Smalltalk | 📅 2026-09-04 - Framework allowing to analyse/query/modify Pharo images without executing them.
 
 ## Web
 
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
