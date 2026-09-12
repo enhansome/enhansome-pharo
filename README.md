@@ -149,7 +149,7 @@ The general idea is to have a place to be able to find datastructures.
 * [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 39 | 🌐 Smalltalk | 📅 2026-09-11 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 35 | 🐛 6 | 🌐 Smalltalk | 📅 2026-06-10 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
-* [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 28 | 🐛 48 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
+* [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 28 | 🐛 47 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
 * [SQLite3](https://github.com/pharo-rdbms/Pharo-SQLite3) ⭐ 23 | 🐛 12 | 🌐 Smalltalk | 📅 2025-07-10 - Community-owned official SQLite3 binding for Pharo. Includes packages for use in Glorp.
 * [Simple-Persistence](https://github.com/seandenigris/Simple-Persistence) ⭐ 17 | 🐛 12 | 🌐 Smalltalk | 📅 2026-06-30 - Simple file base persistence for when you don't quite need a database.
 * [Tarantalk](https://github.com/mumez/Tarantalk) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2022-03-24 - Tarantool client for Pharo.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

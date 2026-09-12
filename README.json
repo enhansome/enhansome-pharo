@@ -1742,7 +1742,7 @@
             "language": "Smalltalk",
             "license": "MIT",
             "last_commit": "2025-07-10T23:49:51Z",
-            "open_issues": 48,
+            "open_issues": 47,
             "owner": "pharo-rdbms",
             "repo": "glorp",
             "stars": 28,
@@ -6079,7 +6079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T20:48:45.693Z",
+    "last_updated": "2026-09-12T20:25:18.988Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
