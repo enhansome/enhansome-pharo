@@ -184,10 +184,10 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 
-* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 191 | 🌐 Smalltalk | 📅 2026-09-10 - Next generation low-level UI infratructure and framework for Pharo.
+* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 191 | 🌐 Smalltalk | 📅 2026-09-13 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 26 | 🌐 Smalltalk | 📅 2026-07-30 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-27 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
-* [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-09-08 - A widget framework on top of Bloc.
+* [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 24 | 🌐 Smalltalk | 📅 2026-09-13 - A widget framework on top of Bloc.
 * [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 29 | 🐛 25 | 🌐 Smalltalk | 📅 2026-06-30 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
 * [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2022-01-23 - Pharo support for PlantUML.
 * [Woden](https://github.com/ronsaldo/woden) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2024-01-26 - A 3D graphics engine for Pharo.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,567 | 🐛 331 | 🌐 Smalltalk | 📅 2026-09-09 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,566 | 🐛 331 | 🌐 Smalltalk | 📅 2026-09-09 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -360,7 +360,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## VCS
 
-* [Iceberg](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 356 | 🌐 Smalltalk | 📅 2026-09-04 - Set of tools to handle git repositories from a Pharo image.
+* [Iceberg](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 357 | 🌐 Smalltalk | 📅 2026-09-04 - Set of tools to handle git repositories from a Pharo image.
 
 ## Videos
 
@@ -372,7 +372,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Virtual Machine
 
-* [Polyphemus](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 356 | 🌐 Smalltalk | 📅 2026-09-04 - Framework allowing to analyse/query/modify Pharo images without executing them.
+* [Polyphemus](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 357 | 🌐 Smalltalk | 📅 2026-09-04 - Framework allowing to analyse/query/modify Pharo images without executing them.
 
 ## Web
 
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
