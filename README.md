@@ -146,7 +146,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Databases
 
 * [P3](https://github.com/svenvc/P3) ⭐ 81 | 🐛 7 | 🌐 Smalltalk | 📅 2025-11-29 - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
-* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 39 | 🌐 Smalltalk | 📅 2026-09-11 - Object oriented database library. Persistency to disk with transactions and search indexes.
+* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 39 | 🌐 Smalltalk | 📅 2026-09-14 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 35 | 🐛 6 | 🌐 Smalltalk | 📅 2026-06-10 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
 * [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 28 | 🐛 47 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
@@ -184,7 +184,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 
-* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 191 | 🌐 Smalltalk | 📅 2026-09-13 - Next generation low-level UI infratructure and framework for Pharo.
+* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 191 | 🌐 Smalltalk | 📅 2026-09-14 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 26 | 🌐 Smalltalk | 📅 2026-07-30 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-27 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
 * [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 24 | 🌐 Smalltalk | 📅 2026-09-13 - A widget framework on top of Bloc.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

@@ -1660,7 +1660,7 @@
             "id": 522613767,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-11T15:15:52Z",
+            "last_commit": "2026-09-14T15:13:21Z",
             "open_issues": 39,
             "owner": "ApptiveGrid",
             "repo": "Soil",
@@ -2272,7 +2272,7 @@
             "id": 72735161,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-13T03:24:23Z",
+            "last_commit": "2026-09-14T20:35:35Z",
             "open_issues": 191,
             "owner": "pharo-graphics",
             "repo": "Bloc",
@@ -6079,7 +6079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T20:36:04.399Z",
+    "last_updated": "2026-09-14T21:42:27.459Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
