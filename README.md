@@ -146,7 +146,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Databases
 
 * [P3](https://github.com/svenvc/P3) ⭐ 81 | 🐛 7 | 🌐 Smalltalk | 📅 2025-11-29 - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
-* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 39 | 🌐 Smalltalk | 📅 2026-09-14 - Object oriented database library. Persistency to disk with transactions and search indexes.
+* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 39 | 🌐 Smalltalk | 📅 2026-09-15 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 35 | 🐛 6 | 🌐 Smalltalk | 📅 2026-06-10 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
 * [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 28 | 🐛 47 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
@@ -185,7 +185,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Graphics
 
 * [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 191 | 🌐 Smalltalk | 📅 2026-09-14 - Next generation low-level UI infratructure and framework for Pharo.
-* [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 26 | 🌐 Smalltalk | 📅 2026-07-30 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
+* [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 26 | 🌐 Smalltalk | 📅 2026-09-15 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-27 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
 * [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 24 | 🌐 Smalltalk | 📅 2026-09-13 - A widget framework on top of Bloc.
 * [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 29 | 🐛 25 | 🌐 Smalltalk | 📅 2026-06-30 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,566 | 🐛 331 | 🌐 Smalltalk | 📅 2026-09-09 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,566 | 🐛 332 | 🌐 Smalltalk | 📅 2026-09-15 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -246,7 +246,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Loggers
 
-* [TinyLogger](https://github.com/jecisc/TinyLogger) ⭐ 17 | 🐛 6 | 🌐 Smalltalk | 📅 2025-06-20 - A small textual logger for Pharo applications.
+* [TinyLogger](https://github.com/jecisc/TinyLogger) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2026-09-15 - A small textual logger for Pharo applications.
 * [Bell](https://github.com/ba-st/Bell) ⭐ 7 | 🐛 1 | 🌐 Smalltalk | 📅 2026-06-09 - An observability library written in Smalltalk.
 * [SystemLogger](https://github.com/Ducasse/SystemLogger/) ⭐ 0 | 🐛 0 | 🌐 Smalltalk | 📅 2025-02-14 - An extensible object logger.
 * [Toothpick](https://github.com/pdebruic/Toothpick) ⭐ 0 | 🐛 0 | 🌐 Smalltalk | 📅 2026-09-07 - A textual logger for Pharo.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
