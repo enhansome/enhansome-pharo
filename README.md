@@ -184,7 +184,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 
-* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 191 | 🌐 Smalltalk | 📅 2026-09-14 - Next generation low-level UI infratructure and framework for Pharo.
+* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 192 | 🌐 Smalltalk | 📅 2026-09-17 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 26 | 🌐 Smalltalk | 📅 2026-09-15 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-27 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
 * [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 25 | 🌐 Smalltalk | 📅 2026-09-13 - A widget framework on top of Bloc.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,568 | 🐛 332 | 🌐 Smalltalk | 📅 2026-09-15 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,568 | 🐛 332 | 🌐 Smalltalk | 📅 2026-09-17 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -246,7 +246,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Loggers
 
-* [TinyLogger](https://github.com/jecisc/TinyLogger) ⭐ 17 | 🐛 6 | 🌐 Smalltalk | 📅 2026-09-16 - A small textual logger for Pharo applications.
+* [TinyLogger](https://github.com/jecisc/TinyLogger) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2026-09-16 - A small textual logger for Pharo applications.
 * [Bell](https://github.com/ba-st/Bell) ⭐ 7 | 🐛 1 | 🌐 Smalltalk | 📅 2026-06-09 - An observability library written in Smalltalk.
 * [SystemLogger](https://github.com/Ducasse/SystemLogger/) ⭐ 0 | 🐛 0 | 🌐 Smalltalk | 📅 2025-02-14 - An extensible object logger.
 * [Toothpick](https://github.com/pdebruic/Toothpick) ⭐ 0 | 🐛 0 | 🌐 Smalltalk | 📅 2026-09-07 - A textual logger for Pharo.
@@ -254,7 +254,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Meta-modelling
 
-* [Magritte](https://github.com/magritte-metamodel/magritte) ⭐ 70 | 🐛 10 | 🌐 Smalltalk | 📅 2025-04-30 - A fully dynamic meta-description framework.
+* [Magritte](https://github.com/magritte-metamodel/magritte) ⭐ 70 | 🐛 11 | 🌐 Smalltalk | 📅 2025-04-30 - A fully dynamic meta-description framework.
 
 ## Miscellaneous
 
@@ -284,7 +284,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Pharo images management
 
-* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 115 | 🐛 230 | 🌐 Smalltalk | 📅 2026-09-16 - Official tool to manage your pharo images and download new ones.
+* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 115 | 🐛 230 | 🌐 Smalltalk | 📅 2026-09-17 - Official tool to manage your pharo images and download new ones.
 * [Pharo Install](https://github.com/hernanmd/pi) ⭐ 41 | 🐛 8 | 🌐 Shell | 📅 2026-04-05 - A command-line tool for installing Pharo Smalltalk packages into fresh images.
 * [fari.sh](https://github.com/cdlm/fari.sh) ⭐ 14 | 🐛 4 | 🌐 Shell | 📅 2022-01-25 - Fresh, ready-to-hack Pharo images.
 
@@ -346,7 +346,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Testing
 
 * [µ-talk](https://github.com/pavel-krivanek/mutalk) ⭐ 25 | 🐛 7 | 🌐 Smalltalk | 📅 2026-04-13 - Mutation Testing in Smalltalk.
-* [Mocketry](https://github.com/dionisiydk/Mocketry) ⭐ 18 | 🐛 2 | 🌐 Smalltalk | 📅 2025-06-12 - Mock objects library with very fluent lightweight API.
+* [Mocketry](https://github.com/dionisiydk/Mocketry) ⭐ 18 | 🐛 2 | 🌐 Smalltalk | 📅 2026-09-17 - Mock objects library with very fluent lightweight API.
 * [DrTests](https://github.com/juliendelplanque/DrTests/) ⭐ 7 | 🐛 69 | 🌐 Smalltalk | 📅 2019-09-23 - An extendable, plugins-based UI for testing Pharo projects.
 * [Hapao](https://github.com/ObjectProfile/Spy2) ⭐ 7 | 🐛 1 | 🌐 Smalltalk | 📅 2021-05-17 - Spy2 is a profiling framework. Spy2 contains Hapao, the visual test coverage tool.
 * [StateSpecs](https://github.com/dionisiydk/StateSpecs) ⭐ 7 | 🐛 9 | 🌐 Smalltalk | 📅 2026-08-03 - Assertions library based on should expressions.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
