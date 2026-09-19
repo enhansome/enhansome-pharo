@@ -5601,7 +5601,7 @@
             "id": 214706450,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-16T10:30:34Z",
+            "last_commit": "2026-09-19T10:34:56Z",
             "open_issues": 0,
             "owner": "ErikOnBike",
             "repo": "CodeParadise",
@@ -6079,7 +6079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T20:44:18.141Z",
+    "last_updated": "2026-09-19T20:24:11.732Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
