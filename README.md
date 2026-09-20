@@ -184,15 +184,15 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 
-* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 192 | 🌐 Smalltalk | 📅 2026-09-17 - Next generation low-level UI infratructure and framework for Pharo.
+* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 193 | 🌐 Smalltalk | 📅 2026-09-20 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 26 | 🌐 Smalltalk | 📅 2026-09-15 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-27 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
-* [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 25 | 🌐 Smalltalk | 📅 2026-09-13 - A widget framework on top of Bloc.
-* [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 29 | 🐛 25 | 🌐 Smalltalk | 📅 2026-06-30 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
+* [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-09-13 - A widget framework on top of Bloc.
+* [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 29 | 🐛 28 | 🌐 Smalltalk | 📅 2026-06-30 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
 * [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2022-01-23 - Pharo support for PlantUML.
 * [Woden](https://github.com/ronsaldo/woden) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2024-01-26 - A 3D graphics engine for Pharo.
 * [Jun](https://github.com/tomooda/Jun) ⭐ 13 | 🐛 0 | 🌐 Smalltalk | 📅 2024-10-30 - A 3D graphics library with chemoinformatics extensions.
-* [Alexandrie](https://github.com/pharo-graphics/Alexandrie) ⭐ 8 | 🐛 23 | 🌐 Smalltalk | 📅 2026-09-02 - FFI bindings and a 2D canvas for Pharo based on Cairo, Freetype and Harfbuzz
+* [Alexandrie](https://github.com/pharo-graphics/Alexandrie) ⭐ 8 | 🐛 23 | 🌐 Smalltalk | 📅 2026-09-20 - FFI bindings and a 2D canvas for Pharo based on Cairo, Freetype and Harfbuzz
 * [GraphViz](https://github.com/hernanmd/GraphViz) ⭐ 8 | 🐛 1 | 🌐 Smalltalk | 📅 2024-11-03 - Pharo GraphViz binding.
 * [MaterialColors](https://github.com/DuneSt/MaterialColors) ⭐ 3 | 🐛 0 | 🌐 Smalltalk | 📅 2022-05-14 - Project implementing Material Design recommandations on colors.
 * [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) ⭐ 3 | 🐛 2 | 🌐 Smalltalk | 📅 2023-02-13 - Add-ons for Spec UI description framework.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,569 | 🐛 332 | 🌐 Smalltalk | 📅 2026-09-18 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,571 | 🐛 332 | 🌐 Smalltalk | 📅 2026-09-18 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -236,7 +236,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Language extensions
 
 * [Talents](https://github.com/tesonep/pharo-talents) ⭐ 24 | 🐛 8 | 🌐 Smalltalk | 📅 2024-10-28 - Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances.
-* [Buoy](https://github.com/ba-st/Buoy) ⭐ 23 | 🐛 2 | 🌐 Smalltalk | 📅 2026-07-01 - A complement to Pharo
+* [Buoy](https://github.com/ba-st/Buoy) ⭐ 23 | 🐛 2 | 🌐 Smalltalk | 📅 2026-09-20 - A complement to Pharo
 * [I18N](https://github.com/astares/Pharo-I18N) ⭐ 6 | 🐛 0 | 🌐 Smalltalk | 📅 2025-01-20 - Internationalization support for applications.
 
 ## LaTeX
@@ -356,7 +356,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Tutorials
 
-* [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) ⭐ 35 | 🐛 53 | 🌐 Smalltalk | 📅 2026-09-01 - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
+* [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) ⭐ 35 | 🐛 54 | 🌐 Smalltalk | 📅 2026-09-01 - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
 
 ## VCS
 
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
