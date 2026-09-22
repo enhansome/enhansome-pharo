@@ -2272,8 +2272,8 @@
             "id": 72735161,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-21T19:19:40Z",
-            "open_issues": 193,
+            "last_commit": "2026-09-22T16:22:56Z",
+            "open_issues": 190,
             "owner": "pharo-graphics",
             "repo": "Bloc",
             "stars": 95,
@@ -2302,8 +2302,8 @@
             "id": 570110033,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-15T15:41:46Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-22T16:25:51Z",
+            "open_issues": 27,
             "owner": "OpenSmock",
             "repo": "Pyramid",
             "stars": 45,
@@ -2480,7 +2480,7 @@
             "id": 483055565,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-20T14:07:24Z",
+            "last_commit": "2026-09-22T16:26:15Z",
             "open_issues": 23,
             "owner": "pharo-graphics",
             "repo": "Alexandrie",
@@ -2818,8 +2818,8 @@
             "id": 100369621,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-21T18:22:10Z",
-            "open_issues": 331,
+            "last_commit": "2026-09-22T20:25:02Z",
+            "open_issues": 332,
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1571,
@@ -3865,8 +3865,8 @@
             "id": 152314665,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-06-12T19:27:15Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-21T22:53:14Z",
+            "open_issues": 11,
             "owner": "ba-st",
             "repo": "Stargate",
             "stars": 35,
@@ -4047,6 +4047,7 @@
             "repo": "pharo-launcher",
             "stars": 115,
             "topics": [
+              "deployment",
               "pharo"
             ]
           },
@@ -4506,7 +4507,7 @@
             "license": "MIT",
             "last_commit": "2025-02-12T10:07:12Z",
             "open_issues": 6,
-            "owner": "zweidenker",
+            "owner": "ApptiveGrid",
             "repo": "Units",
             "stars": 18,
             "topics": []
@@ -4915,7 +4916,9 @@
             "repo": "OSSubprocess",
             "stars": 37,
             "topics": [
-              "pharo"
+              "operating-system",
+              "pharo",
+              "process"
             ]
           },
           "first_seen": "2026-08-29T01:38:36.443Z"
@@ -5168,13 +5171,14 @@
             "id": 92093362,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-04-13T09:49:46Z",
+            "last_commit": "2026-09-22T11:04:53Z",
             "open_issues": 7,
             "owner": "pharo-contributions",
             "repo": "mutalk",
             "stars": 25,
             "topics": [
-              "pharo"
+              "pharo",
+              "testing"
             ]
           },
           "first_seen": "2026-08-29T01:38:36.443Z"
@@ -5368,7 +5372,7 @@
             "id": 136829833,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-01T10:37:17Z",
+            "last_commit": "2026-09-22T17:52:31Z",
             "open_issues": 54,
             "owner": "exercism",
             "repo": "pharo-smalltalk",
@@ -6079,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:53:08.662Z",
+    "last_updated": "2026-09-22T21:08:05.148Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
