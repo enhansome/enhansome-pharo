@@ -1660,7 +1660,7 @@
             "id": 522613767,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-25T19:34:35Z",
+            "last_commit": "2026-09-26T19:08:26Z",
             "open_issues": 40,
             "owner": "ApptiveGrid",
             "repo": "Soil",
@@ -2818,8 +2818,8 @@
             "id": 100369621,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-25T20:42:14Z",
-            "open_issues": 333,
+            "last_commit": "2026-09-26T19:09:40Z",
+            "open_issues": 326,
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1573,
@@ -3865,8 +3865,8 @@
             "id": 152314665,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-25T19:02:46Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-26T19:23:34Z",
+            "open_issues": 2,
             "owner": "ba-st",
             "repo": "Stargate",
             "stars": 35,
@@ -4691,7 +4691,7 @@
             "open_issues": 16,
             "owner": "moosetechnology",
             "repo": "Moose",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "data-analysis",
               "moose",
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T21:23:25.216Z",
+    "last_updated": "2026-09-26T20:55:23.277Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
