@@ -146,7 +146,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Databases
 
 * [P3](https://github.com/svenvc/P3) ⭐ 81 | 🐛 7 | 🌐 Smalltalk | 📅 2025-11-29 - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
-* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 40 | 🌐 Smalltalk | 📅 2026-09-27 - Object oriented database library. Persistency to disk with transactions and search indexes.
+* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 40 | 🌐 Smalltalk | 📅 2026-09-28 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 35 | 🐛 6 | 🌐 Smalltalk | 📅 2026-09-24 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
 * [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 28 | 🐛 47 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
@@ -184,7 +184,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 
-* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 188 | 🌐 Smalltalk | 📅 2026-09-25 - Next generation low-level UI infratructure and framework for Pharo.
+* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 188 | 🌐 Smalltalk | 📅 2026-09-28 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 22 | 🌐 Smalltalk | 📅 2026-09-25 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-27 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
 * [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-09-13 - A widget framework on top of Bloc.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,573 | 🐛 327 | 🌐 Smalltalk | 📅 2026-09-27 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,574 | 🐛 330 | 🌐 Smalltalk | 📅 2026-09-28 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -216,7 +216,7 @@ The general idea is to have a place to be able to find datastructures.
 * [Uncommon-Themes](https://github.com/David5i6/Uncommon-Themes) ⭐ 16 | 🐛 0 | 🌐 Smalltalk | 📅 2025-01-02 - A collection of themes for Pharo.
 * [TilingWindowManager](https://github.com/Pharophile/TilingWindowManager) ⭐ 15 | 🐛 4 | 🌐 Smalltalk | 📅 2022-04-02 - Tiling Window Manager for Pharo.
 * [Dawn theme](https://github.com/sebastianconcept/PharoDawnTheme) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2024-02-06 - A warm dark theme for Pharo.
-* [OpenSmock](https://github.com/OpenSmock/OpenSmock) ⭐ 6 | 🐛 4 | 🌐 Smalltalk | 📅 2026-09-25 -A collection of tools and workshops designed to streamline the development of applications - especially user interfaces (UI).
+* [OpenSmock](https://github.com/OpenSmock/OpenSmock) ⭐ 6 | 🐛 4 | 🌐 Smalltalk | 📅 2026-09-28 -A collection of tools and workshops designed to streamline the development of applications - especially user interfaces (UI).
 * [CollectionExtensions](https://github.com/pharo-contributions/CollectionExtensions) ⭐ 3 | 🐛 2 | 🌐 Smalltalk | 📅 2021-12-14 - Extensions for Pharo collections API.
 * [Native-Browser](https://github.com/jecisc/Native-Browser) ⭐ 0 | 🐛 0 | 🌐 Smalltalk | 📅 2019-02-26 - A small project to add the possibility to open native browser via a FileReference.
 
@@ -274,7 +274,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Network protocols
 
 * [WebSocket with Zinc](https://github.com/svenvc/zinc) ⭐ 107 | 🐛 27 | 🌐 Smalltalk | 📅 2026-09-24 - The WebSocket feature of the Zinc HTTP Components framework.
-* [Stargate](https://github.com/ba-st/Stargate) ⭐ 35 | 🐛 3 | 🌐 Smalltalk | 📅 2026-09-26 - A library supporting the creation of HTTP based RESTful APIs.
+* [Stargate](https://github.com/ba-st/Stargate) ⭐ 35 | 🐛 4 | 🌐 Smalltalk | 📅 2026-09-28 - A library supporting the creation of HTTP based RESTful APIs.
 * [JRPC](https://github.com/juliendelplanque/JRPC) ⭐ 13 | 🐛 4 | 🌐 Smalltalk | 📅 2026-01-17 - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
 * [Zodiac](https://github.com/svenvc/zodiac) ⭐ 10 | 🐛 2 | 🌐 Smalltalk | 📅 2025-10-27 (built-in) - Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.
 * [Superluminal](https://github.com/ba-st/Superluminal) ⭐ 9 | 🐛 6 | 🌐 Smalltalk | 📅 2026-06-15 - Building blocks for creating HTTP requests and API clients
@@ -356,7 +356,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Tutorials
 
-* [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) ⭐ 35 | 🐛 56 | 🌐 Smalltalk | 📅 2026-09-22 - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
+* [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) ⭐ 35 | 🐛 57 | 🌐 Smalltalk | 📅 2026-09-28 - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
 
 ## VCS
 
@@ -380,7 +380,7 @@ The general idea is to have a place to be able to find datastructures.
 * [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-27 - Develop in Pharo, Run on Javascript.
 * [Zinc](https://github.com/svenvc/zinc) ⭐ 107 | 🐛 27 | 🌐 Smalltalk | 📅 2026-09-24 - HTTP components to deal with HTTP networking in Smalltalk.
 * [Teapot](https://github.com/zeroflag/Teapot) ⭐ 104 | 🐛 5 | 🌐 Smalltalk | 📅 2026-05-08 - Micro web framework for Pharo Smalltalk.
-* [CodeParadise](https://github.com/ErikOnBike/CodeParadise) ⭐ 97 | 🐛 0 | 🌐 Smalltalk | 📅 2026-09-27 - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
+* [CodeParadise](https://github.com/ErikOnBike/CodeParadise) ⭐ 97 | 🐛 0 | 🌐 Smalltalk | 📅 2026-09-28 - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
 * [Willow](https://github.com/ba-st/Willow) ⭐ 51 | 🐛 4 | 🌐 Smalltalk | 📅 2026-02-11 - Web Interaction Library that eases the burden of creating AJAX-based web applications.
 * [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) ⭐ 43 | 🐛 49 | 🌐 Smalltalk | 📅 2026-08-27 - Binding google's Material Design Lite project for Seaside.
 * [Parasol](https://github.com/SeasideSt/Parasol) ⭐ 32 | 🐛 15 | 🌐 Smalltalk | 📅 2025-10-16 - Testing web apps in Smalltalk using Selenium WebDriver.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
