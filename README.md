@@ -146,7 +146,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Databases
 
 * [P3](https://github.com/svenvc/P3) ⭐ 81 | 🐛 7 | 🌐 Smalltalk | 📅 2025-11-29 - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
-* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 40 | 🌐 Smalltalk | 📅 2026-09-28 - Object oriented database library. Persistency to disk with transactions and search indexes.
+* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 40 | 🌐 Smalltalk | 📅 2026-09-29 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 35 | 🐛 6 | 🌐 Smalltalk | 📅 2026-09-24 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
 * [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 28 | 🐛 47 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,574 | 🐛 330 | 🌐 Smalltalk | 📅 2026-09-28 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,574 | 🐛 330 | 🌐 Smalltalk | 📅 2026-09-29 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -274,7 +274,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Network protocols
 
 * [WebSocket with Zinc](https://github.com/svenvc/zinc) ⭐ 107 | 🐛 27 | 🌐 Smalltalk | 📅 2026-09-24 - The WebSocket feature of the Zinc HTTP Components framework.
-* [Stargate](https://github.com/ba-st/Stargate) ⭐ 35 | 🐛 4 | 🌐 Smalltalk | 📅 2026-09-28 - A library supporting the creation of HTTP based RESTful APIs.
+* [Stargate](https://github.com/ba-st/Stargate) ⭐ 35 | 🐛 2 | 🌐 Smalltalk | 📅 2026-09-29 - A library supporting the creation of HTTP based RESTful APIs.
 * [JRPC](https://github.com/juliendelplanque/JRPC) ⭐ 13 | 🐛 4 | 🌐 Smalltalk | 📅 2026-01-17 - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
 * [Zodiac](https://github.com/svenvc/zodiac) ⭐ 10 | 🐛 2 | 🌐 Smalltalk | 📅 2025-10-27 (built-in) - Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.
 * [Superluminal](https://github.com/ba-st/Superluminal) ⭐ 9 | 🐛 6 | 🌐 Smalltalk | 📅 2026-06-15 - Building blocks for creating HTTP requests and API clients
@@ -307,7 +307,7 @@ The general idea is to have a place to be able to find datastructures.
 * [Mathemagics](https://github.com/grpistoia/Mathemagics) ⭐ 26 | 🐛 0 | 🌐 Smalltalk | 📅 2024-02-28 - Symbolic algebra package that handles mathematical expressions using simplification, derivatives, functions, variables, etc. Calculator included. Parser supports infix notation.
 * [BioSmalltalk](https://github.com/hernanmd/BioSmalltalk) ⭐ 21 | 🐛 2 | 🌐 Smalltalk | 📅 2026-09-05 - Bioinformatics Library for Pharo Smalltalk.
 * [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) ⭐ 19 | 🐛 3 | 🌐 Smalltalk | 📅 2019-05-20 - A bridge to Python's Matplotlib.
-* [Units](https://github.com/zweidenker/Units) ⭐ 18 | 🐛 6 | 🌐 Smalltalk | 📅 2025-02-12 - A simple package for Units management in Pharo.
+* [Units](https://github.com/zweidenker/Units) ⭐ 18 | 🐛 5 | 🌐 Smalltalk | 📅 2026-09-29 - A simple package for Units management in Pharo.
 * [HoneyGinger](https://github.com/tomooda/HoneyGinger) ⭐ 7 | 🐛 0 | 🌐 Smalltalk | 📅 2025-12-01 - a fluid dynamics simulation engine focused on interactivity and visualization
 * [RMapViewer](https://github.com/ReactionMap/RMapViewer) ⭐ 5 | 🐛 3 | 🌐 Smalltalk | 📅 2023-12-25 - A Viewer for chemical reaction maps.
 * [Geometry](https://github.com/TelescopeSt/Geometry) ⭐ 4 | 🐛 14 | 🌐 Smalltalk | 📅 2023-11-23 - A library for representing basic geometry elements and doing computations with them.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
