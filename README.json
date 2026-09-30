@@ -1660,7 +1660,7 @@
             "id": 522613767,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-29T21:25:56Z",
+            "last_commit": "2026-09-30T10:02:37Z",
             "open_issues": 40,
             "owner": "ApptiveGrid",
             "repo": "Soil",
@@ -2272,7 +2272,7 @@
             "id": 72735161,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-28T15:55:29Z",
+            "last_commit": "2026-09-30T17:36:29Z",
             "open_issues": 188,
             "owner": "pharo-graphics",
             "repo": "Bloc",
@@ -2385,8 +2385,8 @@
             "id": 693120540,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-25T11:07:24Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-30T21:22:13Z",
+            "open_issues": 26,
             "owner": "pharo-graphics",
             "repo": "Roassal",
             "stars": 29,
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:06:32.294Z",
+    "last_updated": "2026-09-30T22:06:02.492Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
@@ -6095,7 +6095,7 @@
       "open_issues": 11,
       "owner": "pharo-open-documentation",
       "repo": "awesome-pharo",
-      "stars": 306,
+      "stars": 307,
       "topics": [
         "awesome",
         "awesome-list",
