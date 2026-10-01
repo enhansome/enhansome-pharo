@@ -2272,7 +2272,7 @@
             "id": 72735161,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-30T17:36:29Z",
+            "last_commit": "2026-10-01T15:41:54Z",
             "open_issues": 188,
             "owner": "pharo-graphics",
             "repo": "Bloc",
@@ -2818,11 +2818,11 @@
             "id": 100369621,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-29T17:11:15Z",
+            "last_commit": "2026-10-01T18:14:12Z",
             "open_issues": 330,
             "owner": "feenkcom",
             "repo": "gtoolkit",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "glamorous-toolkit",
               "ide",
@@ -5372,8 +5372,8 @@
             "id": 136829833,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-28T19:37:31Z",
-            "open_issues": 57,
+            "last_commit": "2026-10-01T16:59:53Z",
+            "open_issues": 56,
             "owner": "exercism",
             "repo": "pharo-smalltalk",
             "stars": 35,
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:06:02.492Z",
+    "last_updated": "2026-10-01T22:33:01.959Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",

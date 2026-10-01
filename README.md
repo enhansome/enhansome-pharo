@@ -184,7 +184,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 
-* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 188 | 🌐 Smalltalk | 📅 2026-09-30 - Next generation low-level UI infratructure and framework for Pharo.
+* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 188 | 🌐 Smalltalk | 📅 2026-10-01 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 22 | 🌐 Smalltalk | 📅 2026-09-25 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-27 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
 * [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-09-13 - A widget framework on top of Bloc.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,574 | 🐛 330 | 🌐 Smalltalk | 📅 2026-09-29 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,575 | 🐛 330 | 🌐 Smalltalk | 📅 2026-10-01 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -356,7 +356,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Tutorials
 
-* [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) ⭐ 35 | 🐛 57 | 🌐 Smalltalk | 📅 2026-09-28 - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
+* [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) ⭐ 35 | 🐛 56 | 🌐 Smalltalk | 📅 2026-10-01 - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
 
 ## VCS
 
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
