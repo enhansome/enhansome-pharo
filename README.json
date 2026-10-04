@@ -1660,7 +1660,7 @@
             "id": 522613767,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-03T14:07:16Z",
+            "last_commit": "2026-10-04T07:07:29Z",
             "open_issues": 40,
             "owner": "ApptiveGrid",
             "repo": "Soil",
@@ -2273,7 +2273,7 @@
             "language": "Smalltalk",
             "license": "MIT",
             "last_commit": "2026-10-03T17:33:43Z",
-            "open_issues": 189,
+            "open_issues": 190,
             "owner": "pharo-graphics",
             "repo": "Bloc",
             "stars": 95,
@@ -2822,7 +2822,7 @@
             "open_issues": 331,
             "owner": "feenkcom",
             "repo": "gtoolkit",
-            "stars": 1576,
+            "stars": 1578,
             "topics": [
               "glamorous-toolkit",
               "ide",
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:53:43.237Z",
+    "last_updated": "2026-10-04T21:09:36.191Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
