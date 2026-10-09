@@ -146,7 +146,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Databases
 
 * [P3](https://github.com/svenvc/P3) ⭐ 81 | 🐛 7 | 🌐 Smalltalk | 📅 2025-11-29 - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
-* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 40 | 🌐 Smalltalk | 📅 2026-10-07 - Object oriented database library. Persistency to disk with transactions and search indexes.
+* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 66 | 🐛 40 | 🌐 Smalltalk | 📅 2026-10-09 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 35 | 🐛 6 | 🌐 Smalltalk | 📅 2026-09-24 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
 * [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 28 | 🐛 47 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
@@ -184,9 +184,9 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 
-* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 190 | 🌐 Smalltalk | 📅 2026-10-06 - Next generation low-level UI infratructure and framework for Pharo.
+* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 189 | 🌐 Smalltalk | 📅 2026-10-09 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 22 | 🌐 Smalltalk | 📅 2026-09-25 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
-* [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-08-27 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
+* [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-10-09 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
 * [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-10-06 - A widget framework on top of Bloc.
 * [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 29 | 🐛 26 | 🌐 Smalltalk | 📅 2026-10-07 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
 * [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2022-01-23 - Pharo support for PlantUML.
@@ -196,18 +196,18 @@ The general idea is to have a place to be able to find datastructures.
 * [GraphViz](https://github.com/hernanmd/GraphViz) ⭐ 8 | 🐛 1 | 🌐 Smalltalk | 📅 2024-11-03 - Pharo GraphViz binding.
 * [MaterialColors](https://github.com/DuneSt/MaterialColors) ⭐ 3 | 🐛 0 | 🌐 Smalltalk | 📅 2022-05-14 - Project implementing Material Design recommandations on colors.
 * [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) ⭐ 3 | 🐛 2 | 🌐 Smalltalk | 📅 2023-02-13 - Add-ons for Spec UI description framework.
-* [Bloc-Serialization](https://github.com/OpenSmock/Bloc-Serialization) ⭐ 2 | 🐛 1 | 🌐 Smalltalk | 📅 2026-09-23 - Bloc serialization features to store/unstore BlElements.
+* [Bloc-Serialization](https://github.com/OpenSmock/Bloc-Serialization) ⭐ 2 | 🐛 1 | 🌐 Smalltalk | 📅 2026-10-09 - Bloc serialization features to store/unstore BlElements.
 * [CSSParser](https://github.com/pharo-contributions/CSSParser) ⭐ 2 | 🐛 3 | 🌐 Smalltalk | 📅 2026-02-11 - A library that provides an object model and tools to read, interpret, and manipulate CSS stylesheets (including .css files).
 * [MermaidPharo](https://github.com/badetitou/MermaidPharo) ⭐ 2 | 🐛 0 | 🌐 Smalltalk | 📅 2023-10-06 - Pharo support for [MermaidJS](https://mermaid.js.org/#/).
 * [Stylesheet](https://github.com/pharo-contributions/Stylesheet) ⭐ 2 | 🐛 1 | 🌐 Smalltalk | 📅 2022-02-02 - Stylesheet is a project to define css like stylesheet in Pharo applications.
 * [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) ⭐ 1 | 🐛 0 | 🌐 Smalltalk | 📅 2018-09-13 - A constraints layout for morphic using Cassowary as its backend.
 * [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) ⭐ 1 | 🐛 0 | 🌐 Smalltalk | 📅 2023-10-19 - Extensions to Pharo colors.
 * [GEXF](https://github.com/badetitou/PharoGEXF) ⭐ 1 | 🐛 0 | 🌐 Smalltalk | 📅 2024-09-18 - Pharo [GEXF file](https://gexf.net/) model and exporter.
-* [Toplo-Serialization](https://github.com/OpenSmock/Toplo-Serialization) ⭐ 1 | 🐛 1 | 🌐 Smalltalk | 📅 2026-09-24 - Toplo serialization features to store/unstore ToElements.
+* [Toplo-Serialization](https://github.com/OpenSmock/Toplo-Serialization) ⭐ 1 | 🐛 1 | 🌐 Smalltalk | 📅 2026-10-09 - Toplo serialization features to store/unstore ToElements.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,580 | 🐛 320 | 🌐 Smalltalk | 📅 2026-10-08 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,580 | 🐛 320 | 🌐 Smalltalk | 📅 2026-10-09 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -274,7 +274,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Network protocols
 
 * [WebSocket with Zinc](https://github.com/svenvc/zinc) ⭐ 107 | 🐛 27 | 🌐 Smalltalk | 📅 2026-09-24 - The WebSocket feature of the Zinc HTTP Components framework.
-* [Stargate](https://github.com/ba-st/Stargate) ⭐ 35 | 🐛 5 | 🌐 Smalltalk | 📅 2026-09-29 - A library supporting the creation of HTTP based RESTful APIs.
+* [Stargate](https://github.com/ba-st/Stargate) ⭐ 35 | 🐛 4 | 🌐 Smalltalk | 📅 2026-10-09 - A library supporting the creation of HTTP based RESTful APIs.
 * [JRPC](https://github.com/juliendelplanque/JRPC) ⭐ 13 | 🐛 4 | 🌐 Smalltalk | 📅 2026-01-17 - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
 * [Zodiac](https://github.com/svenvc/zodiac) ⭐ 10 | 🐛 2 | 🌐 Smalltalk | 📅 2025-10-27 (built-in) - Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.
 * [Superluminal](https://github.com/ba-st/Superluminal) ⭐ 9 | 🐛 6 | 🌐 Smalltalk | 📅 2026-06-15 - Building blocks for creating HTTP requests and API clients
@@ -356,7 +356,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Tutorials
 
-* [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) ⭐ 35 | 🐛 54 | 🌐 Smalltalk | 📅 2026-10-06 - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
+* [Exercism Pharo Smalltalk](https://github.com/exercism/pharo-smalltalk) ⭐ 35 | 🐛 54 | 🌐 Smalltalk | 📅 2026-10-09 - Solve problems with TDD at [Exercism.io](https://exercism.io/) and receive mentor feedback.
 
 ## VCS
 
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
