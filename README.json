@@ -3865,8 +3865,8 @@
             "id": 152314665,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-10T15:11:15Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-11T13:33:31Z",
+            "open_issues": 3,
             "owner": "ba-st",
             "repo": "Stargate",
             "stars": 35,
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T21:26:56.081Z",
+    "last_updated": "2026-10-11T21:43:24.833Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
