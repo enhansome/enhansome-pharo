@@ -2389,7 +2389,7 @@
             "open_issues": 26,
             "owner": "pharo-graphics",
             "repo": "Roassal",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "pharo",
               "visualization"
@@ -2819,10 +2819,10 @@
             "language": "Smalltalk",
             "license": "MIT",
             "last_commit": "2026-10-13T13:24:16Z",
-            "open_issues": 315,
+            "open_issues": 316,
             "owner": "feenkcom",
             "repo": "gtoolkit",
-            "stars": 1582,
+            "stars": 1584,
             "topics": [
               "glamorous-toolkit",
               "ide",
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T22:30:50.712Z",
+    "last_updated": "2026-10-14T21:29:25.093Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
