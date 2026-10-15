@@ -70,7 +70,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 
 ## Code generation
 
-* [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-27 - Converts Pharo code to Javascript.
+* [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-27 - Converts Pharo code to Javascript.
 * [Python3Generator](https://github.com/juliendelplanque/Python3Generator) ⭐ 26 | 🐛 2 | 🌐 Smalltalk | 📅 2024-02-15 - A toolkit to generate Python 3 source code from Pharo.
 * [PharoCodeGenerator](https://github.com/juliendelplanque/PharoCodeGenerator) ⭐ 13 | 🐛 9 | 🌐 Smalltalk | 📅 2022-05-15 - Generate Pharo code based on ASTs.
 * [Stash](https://github.com/ThalesGroup/Stash) ⭐ 5 | 🐛 0 | 🌐 Smalltalk | 📅 2026-09-23 - A serializer that convert instances into code.
@@ -184,11 +184,11 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 
-* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 185 | 🌐 Smalltalk | 📅 2026-10-13 - Next generation low-level UI infratructure and framework for Pharo.
+* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 185 | 🌐 Smalltalk | 📅 2026-10-15 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 22 | 🌐 Smalltalk | 📅 2026-09-25 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-10-10 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
+* [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-10-07 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
 * [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-10-06 - A widget framework on top of Bloc.
-* [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 30 | 🐛 26 | 🌐 Smalltalk | 📅 2026-10-07 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
 * [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2022-01-23 - Pharo support for PlantUML.
 * [Woden](https://github.com/ronsaldo/woden) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2024-01-26 - A 3D graphics engine for Pharo.
 * [Jun](https://github.com/tomooda/Jun) ⭐ 13 | 🐛 0 | 🌐 Smalltalk | 📅 2024-10-30 - A 3D graphics library with chemoinformatics extensions.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,584 | 🐛 316 | 🌐 Smalltalk | 📅 2026-10-13 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,584 | 🐛 317 | 🌐 Smalltalk | 📅 2026-10-15 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -294,7 +294,7 @@ The general idea is to have a place to be able to find datastructures.
 * [SmalltalkCI](https://github.com/hpi-swa/smalltalkCI) ⭐ 107 | 🐛 81 | 🌐 Smalltalk | 📅 2026-08-31 - Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.
 * [Metacello](https://github.com/Metacello/metacello) ⭐ 92 | 🐛 129 | 🌐 Smalltalk | 📅 2022-06-03 - A package management system for Pharo.
 * [Cruiser](https://github.com/VincentBlondeau/Cruiser) ⭐ 45 | 🐛 7 | 🌐 Smalltalk | 📅 2020-01-20 - Application packager for Pharo.
-* [Tonel](https://github.com/pharo-vcs/tonel) ⭐ 34 | 🐛 30 | 🌐 Smalltalk | 📅 2026-08-31 - A file-per-class export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
+* [Tonel](https://github.com/pharo-vcs/tonel) ⭐ 34 | 🐛 30 | 🌐 Smalltalk | 📅 2026-10-15 - A file-per-class export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
 * [pharo-server-tools](https://github.com/svenvc/pharo-server-tools) ⭐ 28 | 🐛 1 | 🌐 Shell | 📅 2023-07-05 - Tools to deploy and manage headless Pharo servers from the command line.
 * [Chrysal](https://github.com/Ducasse/Chrysal) ⭐ 7 | 🐛 1 | 🌐 Smalltalk | 📅 2026-03-25 - How to manage application configuration.
 * [DeploymentUtility](https://github.com/jecisc/DeploymentUtility) ⭐ 2 | 🐛 0 | 🌐 Smalltalk | 📅 2022-06-01 - A project providing a facade to help to deploy pharo projects.
@@ -376,8 +376,8 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Web
 
-* [Seaside](https://github.com/SeasideSt/Seaside) ⭐ 563 | 🐛 157 | 🌐 Smalltalk | 📅 2026-08-08 - Framework to develop sophisticate web applications in Smalltalk.
-* [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-27 - Develop in Pharo, Run on Javascript.
+* [Seaside](https://github.com/SeasideSt/Seaside) ⭐ 564 | 🐛 157 | 🌐 Smalltalk | 📅 2026-08-08 - Framework to develop sophisticate web applications in Smalltalk.
+* [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-27 - Develop in Pharo, Run on Javascript.
 * [Zinc](https://github.com/svenvc/zinc) ⭐ 107 | 🐛 27 | 🌐 Smalltalk | 📅 2026-09-24 - HTTP components to deal with HTTP networking in Smalltalk.
 * [Teapot](https://github.com/zeroflag/Teapot) ⭐ 104 | 🐛 5 | 🌐 Smalltalk | 📅 2026-05-08 - Micro web framework for Pharo Smalltalk.
 * [CodeParadise](https://github.com/ErikOnBike/CodeParadise) ⭐ 97 | 🐛 0 | 🌐 Smalltalk | 📅 2026-09-28 - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

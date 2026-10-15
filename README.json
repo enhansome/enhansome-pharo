@@ -316,7 +316,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-27T15:08:52Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "PharoJS",
             "repo": "PharoJS",
             "stars": 129,
@@ -2272,7 +2272,7 @@
             "id": 72735161,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-13T11:54:24Z",
+            "last_commit": "2026-10-15T01:42:37Z",
             "open_issues": 185,
             "owner": "pharo-graphics",
             "repo": "Bloc",
@@ -2354,6 +2354,30 @@
         },
         {
           "node_type": "item",
+          "title": "Roassal3",
+          "description": "The agile 2D visualization engine for Pharo version 3. (V2: Roassal2)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Roassal Visualization Engine",
+            "homepage": null,
+            "id": 693120540,
+            "language": "Smalltalk",
+            "license": "MIT",
+            "last_commit": "2026-10-07T10:40:19Z",
+            "open_issues": 26,
+            "owner": "pharo-graphics",
+            "repo": "Roassal",
+            "stars": 31,
+            "topics": [
+              "pharo",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-08-29T01:38:36.443Z"
+        },
+        {
+          "node_type": "item",
           "title": "Toplo",
           "description": "A widget framework on top of Bloc.",
           "children": [],
@@ -2370,30 +2394,6 @@
             "repo": "Toplo",
             "stars": 31,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:38:36.443Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Roassal3",
-          "description": "The agile 2D visualization engine for Pharo version 3. (V2: Roassal2)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Roassal Visualization Engine",
-            "homepage": null,
-            "id": 693120540,
-            "language": "Smalltalk",
-            "license": "MIT",
-            "last_commit": "2026-10-07T10:40:19Z",
-            "open_issues": 26,
-            "owner": "pharo-graphics",
-            "repo": "Roassal",
-            "stars": 30,
-            "topics": [
-              "pharo",
-              "visualization"
-            ]
           },
           "first_seen": "2026-08-29T01:38:36.443Z"
         },
@@ -2818,8 +2818,8 @@
             "id": 100369621,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-13T13:24:16Z",
-            "open_issues": 316,
+            "last_commit": "2026-10-15T15:45:49Z",
+            "open_issues": 317,
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1584,
@@ -4238,7 +4238,7 @@
             "id": 103037959,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-08-31T09:44:04Z",
+            "last_commit": "2026-10-15T15:12:18Z",
             "open_issues": 30,
             "owner": "pharo-vcs",
             "repo": "tonel",
@@ -5498,7 +5498,7 @@
             "open_issues": 157,
             "owner": "SeasideSt",
             "repo": "Seaside",
-            "stars": 563,
+            "stars": 564,
             "topics": [
               "component",
               "continuation",
@@ -5524,7 +5524,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-27T15:08:52Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "PharoJS",
             "repo": "PharoJS",
             "stars": 129,
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:29:25.093Z",
+    "last_updated": "2026-10-15T21:11:03.272Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
