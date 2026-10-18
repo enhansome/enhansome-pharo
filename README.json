@@ -2819,7 +2819,7 @@
             "language": "Smalltalk",
             "license": "MIT",
             "last_commit": "2026-10-17T20:14:37Z",
-            "open_issues": 321,
+            "open_issues": 317,
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1583,
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T20:24:18.537Z",
+    "last_updated": "2026-10-18T20:25:11.227Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
