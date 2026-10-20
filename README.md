@@ -187,7 +187,7 @@ The general idea is to have a place to be able to find datastructures.
 * [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 95 | 🐛 185 | 🌐 Smalltalk | 📅 2026-10-15 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 22 | 🌐 Smalltalk | 📅 2026-09-25 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-10-10 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
-* [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-10-07 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
+* [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-10-20 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
 * [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-10-06 - A widget framework on top of Bloc.
 * [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2022-01-23 - Pharo support for PlantUML.
 * [Woden](https://github.com/ronsaldo/woden) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2024-01-26 - A 3D graphics engine for Pharo.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,582 | 🐛 316 | 🌐 Smalltalk | 📅 2026-10-19 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,582 | 🐛 319 | 🌐 Smalltalk | 📅 2026-10-20 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -236,7 +236,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Language extensions
 
 * [Talents](https://github.com/tesonep/pharo-talents) ⭐ 24 | 🐛 8 | 🌐 Smalltalk | 📅 2024-10-28 - Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances.
-* [Buoy](https://github.com/ba-st/Buoy) ⭐ 23 | 🐛 3 | 🌐 Smalltalk | 📅 2026-10-19 - A complement to Pharo
+* [Buoy](https://github.com/ba-st/Buoy) ⭐ 23 | 🐛 2 | 🌐 Smalltalk | 📅 2026-10-20 - A complement to Pharo
 * [I18N](https://github.com/astares/Pharo-I18N) ⭐ 6 | 🐛 0 | 🌐 Smalltalk | 📅 2025-01-20 - Internationalization support for applications.
 
 ## LaTeX
@@ -263,9 +263,9 @@ The general idea is to have a place to be able to find datastructures.
 * [Territorial](https://github.com/hernanmd/Territorial) ⭐ 21 | 🐛 1 | 🌐 Smalltalk | 📅 2026-05-25 - Geographical Information Retrieval (GIR) project including features to access geopolitical objects like Nations, Cities, Regions, International Organizations, and statistical data.
 * [Fog](https://github.com/smartanvil/Fog) ⭐ 20 | 🐛 1 | 🌐 Smalltalk | 📅 2019-09-12 - Pharo Ethereum Driver.
 * [PharoMisc](https://github.com/bouraqadi/PharoMisc) ⭐ 16 | 🐛 0 | 🌐 Smalltalk | 📅 2026-01-08 - Small utilities and libraries around various topics.
-* [Aconcagua](https://github.com/ba-st/aconcagua) ⭐ 13 | 🐛 4 | 🌐 Smalltalk | 📅 2026-09-02 - This model represents measures as first class objects, that is, an object that encapsulates a number with its unit.
+* [Aconcagua](https://github.com/ba-st/aconcagua) ⭐ 13 | 🐛 3 | 🌐 Smalltalk | 📅 2026-10-20 - This model represents measures as first class objects, that is, an object that encapsulates a number with its unit.
 * [DMirror](https://github.com/ObjectProfile/DMirror) ⭐ 9 | 🐛 0 | 🌐 Smalltalk | 📅 2024-02-01 - Tool to spawn new job on forked Pharo images.
-* [Chalten](https://github.com/ba-st/Chalten) ⭐ 8 | 🐛 2 | 🌐 Smalltalk | 📅 2026-07-03 - This is a time model that allows to use dates, months, years, etc. in an easy way.
+* [Chalten](https://github.com/ba-st/Chalten) ⭐ 8 | 🐛 3 | 🌐 Smalltalk | 📅 2026-07-03 - This is a time model that allows to use dates, months, years, etc. in an easy way.
 * [ISO3166](https://github.com/hernanmd/ISO3166) ⭐ 4 | 🐛 0 | 🌐 Smalltalk | 📅 2022-07-07 - Codes for the names of countries, dependent territories, and special areas of geographical interest for Pharo applications.
 * [BugReport](https://github.com/jecisc/BugReport) ⭐ 0 | 🐛 0 | 🌐 Smalltalk | 📅 2022-04-13 - A small project to ease the bug reporting in Pharo application by dumping clear and detailed stacks.
 * [Dr Geo](http://www.drgeo.eu/home) - A software to design & manipulate interactive geometric sketches. It helps kids to explore geometry.
@@ -294,7 +294,7 @@ The general idea is to have a place to be able to find datastructures.
 * [SmalltalkCI](https://github.com/hpi-swa/smalltalkCI) ⭐ 107 | 🐛 81 | 🌐 Smalltalk | 📅 2026-08-31 - Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.
 * [Metacello](https://github.com/Metacello/metacello) ⭐ 92 | 🐛 129 | 🌐 Smalltalk | 📅 2022-06-03 - A package management system for Pharo.
 * [Cruiser](https://github.com/VincentBlondeau/Cruiser) ⭐ 45 | 🐛 7 | 🌐 Smalltalk | 📅 2020-01-20 - Application packager for Pharo.
-* [Tonel](https://github.com/pharo-vcs/tonel) ⭐ 34 | 🐛 30 | 🌐 Smalltalk | 📅 2026-10-15 - A file-per-class export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
+* [Tonel](https://github.com/pharo-vcs/tonel) ⭐ 34 | 🐛 30 | 🌐 Smalltalk | 📅 2026-10-20 - A file-per-class export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
 * [pharo-server-tools](https://github.com/svenvc/pharo-server-tools) ⭐ 28 | 🐛 1 | 🌐 Shell | 📅 2023-07-05 - Tools to deploy and manage headless Pharo servers from the command line.
 * [Chrysal](https://github.com/Ducasse/Chrysal) ⭐ 7 | 🐛 1 | 🌐 Smalltalk | 📅 2026-03-25 - How to manage application configuration.
 * [DeploymentUtility](https://github.com/jecisc/DeploymentUtility) ⭐ 2 | 🐛 0 | 🌐 Smalltalk | 📅 2022-06-01 - A project providing a facade to help to deploy pharo projects.
@@ -303,7 +303,7 @@ The general idea is to have a place to be able to find datastructures.
 
 * [Polymath](https://github.com/PolyMathOrg/PolyMath) ⭐ 175 | 🐛 58 | 🌐 Smalltalk | 📅 2026-05-29 - Set of mathematical tools for Pharo. Similar to numpy in Python.
 * [Kendrick](https://github.com/UMMISCO/kendrick) ⭐ 53 | 🐛 76 | 🌐 Smalltalk | 📅 2026-03-19 - Domain-Specific Modeling for Epidemiology.
-* [CORMAS](https://github.com/cormas/cormas) ⭐ 34 | 🐛 40 | 🌐 Smalltalk | 📅 2026-10-19 - CORMAS (Common-pool Resource and Multi-Agent Simulation) is a agent based model library in Smalltalk.
+* [CORMAS](https://github.com/cormas/cormas) ⭐ 34 | 🐛 41 | 🌐 Smalltalk | 📅 2026-10-19 - CORMAS (Common-pool Resource and Multi-Agent Simulation) is a agent based model library in Smalltalk.
 * [Mathemagics](https://github.com/grpistoia/Mathemagics) ⭐ 26 | 🐛 0 | 🌐 Smalltalk | 📅 2024-02-28 - Symbolic algebra package that handles mathematical expressions using simplification, derivatives, functions, variables, etc. Calculator included. Parser supports infix notation.
 * [BioSmalltalk](https://github.com/hernanmd/BioSmalltalk) ⭐ 21 | 🐛 2 | 🌐 Smalltalk | 📅 2026-09-05 - Bioinformatics Library for Pharo Smalltalk.
 * [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) ⭐ 19 | 🐛 3 | 🌐 Smalltalk | 📅 2019-05-20 - A bridge to Python's Matplotlib.
@@ -360,7 +360,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## VCS
 
-* [Iceberg](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 356 | 🌐 Smalltalk | 📅 2026-10-07 - Set of tools to handle git repositories from a Pharo image.
+* [Iceberg](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 356 | 🌐 Smalltalk | 📅 2026-10-20 - Set of tools to handle git repositories from a Pharo image.
 
 ## Videos
 
@@ -372,7 +372,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Virtual Machine
 
-* [Polyphemus](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 356 | 🌐 Smalltalk | 📅 2026-10-07 - Framework allowing to analyse/query/modify Pharo images without executing them.
+* [Polyphemus](https://github.com/pharo-vcs/iceberg) ⭐ 140 | 🐛 356 | 🌐 Smalltalk | 📅 2026-10-20 - Framework allowing to analyse/query/modify Pharo images without executing them.
 
 ## Web
 
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
