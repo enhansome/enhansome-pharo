@@ -125,15 +125,15 @@ The general idea is to have a place to be able to find datastructures.
 
 * [DataFrame](https://github.com/PolyMathOrg/DataFrame) ⭐ 79 | 🐛 38 | 🌐 Smalltalk | 📅 2025-02-19 - Tabular data structures for data analysis.
 * [Iterators](https://github.com/juliendelplanque/Iterators) ⭐ 9 | 🐛 6 | 🌐 Smalltalk | 📅 2020-05-03 - Implementation of the iterator design pattern.
-* [Array2D](https://github.com/pharo-containers/Containers-Array2D) ⭐ 4 | 🐛 2 | 🌐 Smalltalk | 📅 2026-04-16 - A grid like structure.
-* [OrderedSet](https://github.com/olekscode/Containers-OrderedSet) ⭐ 4 | 🐛 2 | 🌐 Smalltalk | 📅 2026-03-20 - A Set where an order of elements matters or an OrderedCollection with no duplicates. Supports the complete API of Set and OrderedCollection. Another version or the same is available at <https://github.com/pharo-containers/Containers-OrderedSet> ⭐ 4 | 🐛 2 | 🌐 Smalltalk | 📅 2026-03-20
-* [Trie](https://github.com/pharo-containers/Containers-Trie) ⭐ 4 | 🐛 0 | 🌐 Smalltalk | 📅 2026-03-20 - a structure for retrieval information.
+* [Array2D](https://github.com/pharo-containers/Containers-Array2D) ⭐ 4 | 🐛 2 | 🌐 Smalltalk | 📅 2026-10-22 - A grid like structure.
+* [OrderedSet](https://github.com/olekscode/Containers-OrderedSet) ⭐ 4 | 🐛 2 | 🌐 Smalltalk | 📅 2026-10-22 - A Set where an order of elements matters or an OrderedCollection with no duplicates. Supports the complete API of Set and OrderedCollection. Another version or the same is available at <https://github.com/pharo-containers/Containers-OrderedSet> ⭐ 4 | 🐛 2 | 🌐 Smalltalk | 📅 2026-10-22
+* [Trie](https://github.com/pharo-containers/Containers-Trie) ⭐ 4 | 🐛 0 | 🌐 Smalltalk | 📅 2026-10-22 - a structure for retrieval information.
 * [AVL Tree ](https://github.com/pharo-containers/AVL) ⭐ 3 | 🐛 0 | 🌐 Smalltalk | 📅 2026-03-10
 * [Grid](https://github.com/Ducasse/Containers-Grid) ⭐ 3 | 🐛 0 | 🌐 Smalltalk | 📅 2022-09-29 - A grid implementation.
 * [Dictionary with lookup](https://github.com/Ducasse/Containers-PropertyEnvironment) ⭐ 2 | 🐛 0 | 🌐 Smalltalk | 📅 2024-07-21 - A dictionary with lookup.
 * [PropertyEnvironment](https://github.com/Ducasse/Containers-PropertyEnvironment) ⭐ 2 | 🐛 0 | 🌐 Smalltalk | 📅 2024-07-21 - A dictionary of properties with a lookup in ancestors (also called environment in other languages).
 * [QuadTrees](https://github.com/Ducasse/QuadTree/) ⭐ 2 | 🐛 0 | 🌐 Smalltalk | 📅 2022-12-21.
-* [UniqueOrdered ](https://github.com//pharo-containers/Containers-UniqueOrdered) ⭐ 2 | 🐛 2 | 🌐 Smalltalk | 📅 2025-04-16 - Some collections to have unique ordered elements.
+* [UniqueOrdered ](https://github.com//pharo-containers/Containers-UniqueOrdered) ⭐ 2 | 🐛 2 | 🌐 Smalltalk | 📅 2026-10-22 - Some collections to have unique ordered elements.
 * [Hastable](https://github.com/pharo-containers/Containers-HashTable) ⭐ 1 | 🐛 1 | 🌐 Smalltalk | 📅 2025-04-16.
 * [RunArray](https://github.com/pharo-containers/Containers-RunArray) ⭐ 1 | 🐛 5 | 🌐 Smalltalk | 📅 2021-01-01.
 * [SkipList](https://github.com/Ducasse/Containers-SkipList) ⭐ 1 | 🐛 0 | 🌐 Smalltalk | 📅 2019-06-01.
@@ -141,7 +141,7 @@ The general idea is to have a place to be able to find datastructures.
 * [KeyedTree](https://github.com/pharo-containers/Containers-KeyedTree) ⭐ 0 | 🐛 2 | 🌐 Smalltalk | 📅 2026-03-20.
 * [Multimap](https://github.com/Ducasse/Containers-OrderedMultiMap) ⭐ 0 | 🐛 3 | 🌐 Smalltalk | 📅 2022-09-03 - A multi map implementation.
 * [OrderPreservingDictionary](https://github.com/Ducasse/Containers-OrderPreservingDictionary) ⭐ 0 | 🐛 1 | 🌐 Smalltalk | 📅 2021-01-01 - Order preserving dictionary.
-* [Stack](https://github.com/pharo-containers/Containers-Stack) ⭐ 0 | 🐛 0 | 🌐 Smalltalk | 📅 2026-04-16 - A stack implementation.
+* [Stack](https://github.com/pharo-containers/Containers-Stack) ⭐ 0 | 🐛 0 | 🌐 Smalltalk | 📅 2026-10-22 - A stack implementation.
 
 ## Databases
 
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,584 | 🐛 316 | 🌐 Smalltalk | 📅 2026-10-21 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,585 | 🐛 313 | 🌐 Smalltalk | 📅 2026-10-22 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -274,7 +274,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Network protocols
 
 * [WebSocket with Zinc](https://github.com/svenvc/zinc) ⭐ 107 | 🐛 27 | 🌐 Smalltalk | 📅 2026-09-24 - The WebSocket feature of the Zinc HTTP Components framework.
-* [Stargate](https://github.com/ba-st/Stargate) ⭐ 35 | 🐛 2 | 🌐 Smalltalk | 📅 2026-10-12 - A library supporting the creation of HTTP based RESTful APIs.
+* [Stargate](https://github.com/ba-st/Stargate) ⭐ 35 | 🐛 4 | 🌐 Smalltalk | 📅 2026-10-12 - A library supporting the creation of HTTP based RESTful APIs.
 * [JRPC](https://github.com/juliendelplanque/JRPC) ⭐ 13 | 🐛 4 | 🌐 Smalltalk | 📅 2026-01-17 - Yet another [JSON-RPC 2.0](https://www.jsonrpc.org/specification) implementation for Pharo Smalltalk.
 * [Zodiac](https://github.com/svenvc/zodiac) ⭐ 10 | 🐛 2 | 🌐 Smalltalk | 📅 2025-10-27 (built-in) - Zodiac is an open-source Smalltalk framework implementing TLS/SSL secure as well as regular socket streams.
 * [Superluminal](https://github.com/ba-st/Superluminal) ⭐ 9 | 🐛 0 | 🌐 Smalltalk | 📅 2026-10-13 - Building blocks for creating HTTP requests and API clients
@@ -284,7 +284,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Pharo images management
 
-* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 117 | 🐛 230 | 🌐 Smalltalk | 📅 2026-10-08 - Official tool to manage your pharo images and download new ones.
+* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 117 | 🐛 231 | 🌐 Smalltalk | 📅 2026-10-08 - Official tool to manage your pharo images and download new ones.
 * [Pharo Install](https://github.com/hernanmd/pi) ⭐ 41 | 🐛 8 | 🌐 Shell | 📅 2026-04-05 - A command-line tool for installing Pharo Smalltalk packages into fresh images.
 * [fari.sh](https://github.com/cdlm/fari.sh) ⭐ 14 | 🐛 4 | 🌐 Shell | 📅 2022-01-25 - Fresh, ready-to-hack Pharo images.
 
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
