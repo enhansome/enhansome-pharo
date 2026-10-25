@@ -2818,7 +2818,7 @@
             "id": 100369621,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-24T18:27:42Z",
+            "last_commit": "2026-10-25T15:12:11Z",
             "open_issues": 314,
             "owner": "feenkcom",
             "repo": "gtoolkit",
@@ -3921,7 +3921,7 @@
             "language": "Smalltalk",
             "license": "MIT",
             "last_commit": "2025-10-27T08:10:20Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "svenvc",
             "repo": "zodiac",
             "stars": 10,
@@ -4433,7 +4433,7 @@
             "open_issues": 0,
             "owner": "grpistoia",
             "repo": "Mathemagics",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-29T01:38:36.443Z"
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T20:32:45.306Z",
+    "last_updated": "2026-10-25T20:40:13.161Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
