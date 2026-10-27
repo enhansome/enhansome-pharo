@@ -132,7 +132,7 @@
             "open_issues": 1,
             "owner": "bergel",
             "repo": "NEAT",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "artificial-intelligence",
               "artificial-intelligence-algorithms",
@@ -1633,7 +1633,7 @@
             "id": 95534378,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2025-11-29T19:22:10Z",
+            "last_commit": "2026-10-27T17:01:20Z",
             "open_issues": 7,
             "owner": "svenvc",
             "repo": "P3",
@@ -1660,7 +1660,7 @@
             "id": 522613767,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-22T21:50:01Z",
+            "last_commit": "2026-10-27T10:25:45Z",
             "open_issues": 40,
             "owner": "ApptiveGrid",
             "repo": "Soil",
@@ -1830,6 +1830,33 @@
         },
         {
           "node_type": "item",
+          "title": "Garage",
+          "description": "Database drivers for the Pharo language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Database drivers for the Pharo language",
+            "homepage": null,
+            "id": 71247334,
+            "language": "Smalltalk",
+            "license": "MIT",
+            "last_commit": "2020-01-07T10:56:45Z",
+            "open_issues": 14,
+            "owner": "pharo-rdbms",
+            "repo": "garage",
+            "stars": 12,
+            "topics": [
+              "database",
+              "mysql",
+              "pharo",
+              "postgresql",
+              "sqlite3"
+            ]
+          },
+          "first_seen": "2026-08-29T01:38:36.443Z"
+        },
+        {
+          "node_type": "item",
           "title": "PunQLite",
           "description": "UnQLite binding for Pharo Smalltalk.",
           "children": [],
@@ -1850,33 +1877,6 @@
               "pharo-smalltalk",
               "smalltalk",
               "unqlite"
-            ]
-          },
-          "first_seen": "2026-08-29T01:38:36.443Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Garage",
-          "description": "Database drivers for the Pharo language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Database drivers for the Pharo language",
-            "homepage": null,
-            "id": 71247334,
-            "language": "Smalltalk",
-            "license": "MIT",
-            "last_commit": "2020-01-07T10:56:45Z",
-            "open_issues": 14,
-            "owner": "pharo-rdbms",
-            "repo": "garage",
-            "stars": 11,
-            "topics": [
-              "database",
-              "mysql",
-              "pharo",
-              "postgresql",
-              "sqlite3"
             ]
           },
           "first_seen": "2026-08-29T01:38:36.443Z"
@@ -2152,7 +2152,7 @@
             "open_issues": 16,
             "owner": "ThalesGroup",
             "repo": "GeoView",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "alexandrie",
               "bloc",
@@ -2194,7 +2194,7 @@
             "open_issues": 2,
             "owner": "ThalesGroup",
             "repo": "PharoOWS",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "cartography",
               "map",
@@ -2231,7 +2231,7 @@
             "open_issues": 2,
             "owner": "ThalesGroup",
             "repo": "GeoTools",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "absolute-coordinates",
               "cartesian-coordinates",
@@ -2272,7 +2272,7 @@
             "id": 72735161,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-15T01:42:37Z",
+            "last_commit": "2026-10-27T15:13:31Z",
             "open_issues": 185,
             "owner": "pharo-graphics",
             "repo": "Bloc",
@@ -2818,8 +2818,8 @@
             "id": 100369621,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-26T20:47:15Z",
-            "open_issues": 317,
+            "last_commit": "2026-10-27T20:42:31Z",
+            "open_issues": 316,
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1586,
@@ -3041,8 +3041,8 @@
             "id": 333508432,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-09-28T15:20:48Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-27T16:14:18Z",
+            "open_issues": 1,
             "owner": "OpenSmock",
             "repo": "OpenSmock",
             "stars": 6,
@@ -3325,6 +3325,34 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Buoy",
+          "description": "A complement to Pharo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A complement to Pharo & GS64 adding useful extensions",
+            "homepage": null,
+            "id": 78115970,
+            "language": "Smalltalk",
+            "license": "MIT",
+            "last_commit": "2026-10-20T21:08:13Z",
+            "open_issues": 1,
+            "owner": "ba-st",
+            "repo": "Buoy",
+            "stars": 24,
+            "topics": [
+              "assertion-library",
+              "mit-license",
+              "optional",
+              "percentage",
+              "percentage-calculations",
+              "pharo"
+            ]
+          },
+          "first_seen": "2026-08-29T01:38:36.443Z"
+        },
+        {
+          "node_type": "item",
           "title": "Talents",
           "description": "Implementation of Talents in Pharo. Allowing us to extend the behaviour in single instances.",
           "children": [],
@@ -3341,34 +3369,6 @@
             "repo": "pharo-talents",
             "stars": 24,
             "topics": [
-              "pharo"
-            ]
-          },
-          "first_seen": "2026-08-29T01:38:36.443Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Buoy",
-          "description": "A complement to Pharo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A complement to Pharo & GS64 adding useful extensions",
-            "homepage": null,
-            "id": 78115970,
-            "language": "Smalltalk",
-            "license": "MIT",
-            "last_commit": "2026-10-20T21:08:13Z",
-            "open_issues": 1,
-            "owner": "ba-st",
-            "repo": "Buoy",
-            "stars": 23,
-            "topics": [
-              "assertion-library",
-              "mit-license",
-              "optional",
-              "percentage",
-              "percentage-calculations",
               "pharo"
             ]
           },
@@ -3618,7 +3618,7 @@
             "open_issues": 1,
             "owner": "hernanmd",
             "repo": "Territorial",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "enumerating-territories",
               "geographic-data",
@@ -3865,8 +3865,8 @@
             "id": 152314665,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-26T22:32:12Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-27T17:46:47Z",
+            "open_issues": 2,
             "owner": "ba-st",
             "repo": "Stargate",
             "stars": 35,
@@ -4433,7 +4433,7 @@
             "open_issues": 0,
             "owner": "grpistoia",
             "repo": "Mathemagics",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-29T01:38:36.443Z"
@@ -4509,7 +4509,7 @@
             "open_issues": 5,
             "owner": "ApptiveGrid",
             "repo": "Units",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-29T01:38:36.443Z"
@@ -4718,7 +4718,7 @@
             "open_issues": 12,
             "owner": "moosetechnology",
             "repo": "PetitParser",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "parser",
               "pharo"
@@ -5376,7 +5376,7 @@
             "open_issues": 54,
             "owner": "exercism",
             "repo": "pharo-smalltalk",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "community-contributions-accepted",
               "exercism-track",
@@ -6000,7 +6000,7 @@
             "open_issues": 0,
             "owner": "bouraqadi",
             "repo": "WebST",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-29T01:38:36.443Z"
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:32:13.723Z",
+    "last_updated": "2026-10-27T22:01:37.902Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
