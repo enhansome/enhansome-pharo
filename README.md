@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,589 | 🐛 316 | 🌐 Smalltalk | 📅 2026-10-30 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,590 | 🐛 316 | 🌐 Smalltalk | 📅 2026-10-31 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -376,11 +376,11 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Web
 
-* [Seaside](https://github.com/SeasideSt/Seaside) ⭐ 565 | 🐛 161 | 🌐 Smalltalk | 📅 2026-08-08 - Framework to develop sophisticate web applications in Smalltalk.
+* [Seaside](https://github.com/SeasideSt/Seaside) ⭐ 566 | 🐛 161 | 🌐 Smalltalk | 📅 2026-08-08 - Framework to develop sophisticate web applications in Smalltalk.
 * [PharoJS](https://github.com/PharoJS/PharoJS) ⭐ 129 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-27 - Develop in Pharo, Run on Javascript.
 * [Zinc](https://github.com/svenvc/zinc) ⭐ 107 | 🐛 27 | 🌐 Smalltalk | 📅 2026-10-26 - HTTP components to deal with HTTP networking in Smalltalk.
 * [Teapot](https://github.com/zeroflag/Teapot) ⭐ 104 | 🐛 5 | 🌐 Smalltalk | 📅 2026-05-08 - Micro web framework for Pharo Smalltalk.
-* [CodeParadise](https://github.com/ErikOnBike/CodeParadise) ⭐ 98 | 🐛 0 | 🌐 Smalltalk | 📅 2026-10-16 - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
+* [CodeParadise](https://github.com/ErikOnBike/CodeParadise) ⭐ 99 | 🐛 0 | 🌐 Smalltalk | 📅 2026-10-16 - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
 * [Willow](https://github.com/ba-st/Willow) ⭐ 51 | 🐛 4 | 🌐 Smalltalk | 📅 2026-02-11 - Web Interaction Library that eases the burden of creating AJAX-based web applications.
 * [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) ⭐ 43 | 🐛 49 | 🌐 Smalltalk | 📅 2026-08-27 - Binding google's Material Design Lite project for Seaside.
 * [Parasol](https://github.com/SeasideSt/Parasol) ⭐ 32 | 🐛 16 | 🌐 Smalltalk | 📅 2025-10-16 - Testing web apps in Smalltalk using Selenium WebDriver.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

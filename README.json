@@ -2818,11 +2818,11 @@
             "id": 100369621,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-30T19:30:44Z",
+            "last_commit": "2026-10-31T10:12:16Z",
             "open_issues": 316,
             "owner": "feenkcom",
             "repo": "gtoolkit",
-            "stars": 1589,
+            "stars": 1590,
             "topics": [
               "glamorous-toolkit",
               "ide",
@@ -5498,7 +5498,7 @@
             "open_issues": 161,
             "owner": "SeasideSt",
             "repo": "Seaside",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "component",
               "continuation",
@@ -5609,7 +5609,7 @@
             "open_issues": 0,
             "owner": "ErikOnBike",
             "repo": "CodeParadise",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "mobile",
               "mvp-pattern",
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:08:07.326Z",
+    "last_updated": "2026-10-31T21:17:20.787Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
