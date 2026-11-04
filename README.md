@@ -146,11 +146,11 @@ The general idea is to have a place to be able to find datastructures.
 ## Databases
 
 * [P3](https://github.com/svenvc/P3) ⭐ 81 | 🐛 7 | 🌐 Smalltalk | 📅 2026-10-27 - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
-* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 67 | 🐛 40 | 🌐 Smalltalk | 📅 2026-11-03 - Object oriented database library. Persistency to disk with transactions and search indexes.
+* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 68 | 🐛 40 | 🌐 Smalltalk | 📅 2026-11-03 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 35 | 🐛 6 | 🌐 Smalltalk | 📅 2026-10-13 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
-* [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 28 | 🐛 47 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
-* [SQLite3](https://github.com/pharo-rdbms/Pharo-SQLite3) ⭐ 23 | 🐛 12 | 🌐 Smalltalk | 📅 2025-07-10 - Community-owned official SQLite3 binding for Pharo. Includes packages for use in Glorp.
+* [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 29 | 🐛 47 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
+* [SQLite3](https://github.com/pharo-rdbms/Pharo-SQLite3) ⭐ 24 | 🐛 12 | 🌐 Smalltalk | 📅 2025-07-10 - Community-owned official SQLite3 binding for Pharo. Includes packages for use in Glorp.
 * [Simple-Persistence](https://github.com/seandenigris/Simple-Persistence) ⭐ 17 | 🐛 12 | 🌐 Smalltalk | 📅 2026-06-30 - Simple file base persistence for when you don't quite need a database.
 * [Tarantalk](https://github.com/mumez/Tarantalk) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2022-03-24 - Tarantool client for Pharo.
 * [Garage](https://github.com/pharo-rdbms/garage) ⭐ 12 | 🐛 14 | 🌐 Smalltalk | 📅 2020-01-07 - Database drivers for the Pharo language.
@@ -184,11 +184,11 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 
-* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 96 | 🐛 171 | 🌐 Smalltalk | 📅 2026-11-03 - Next generation low-level UI infratructure and framework for Pharo.
+* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 96 | 🐛 173 | 🌐 Smalltalk | 📅 2026-11-04 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 45 | 🐛 22 | 🌐 Smalltalk | 📅 2026-09-25 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 33 | 🐛 3 | 🌐 Smalltalk | 📅 2026-10-10 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
 * [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 31 | 🐛 26 | 🌐 Smalltalk | 📅 2026-11-02 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
-* [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 27 | 🌐 Smalltalk | 📅 2026-11-03 - A widget framework on top of Bloc.
+* [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 31 | 🐛 27 | 🌐 Smalltalk | 📅 2026-11-04 - A widget framework on top of Bloc.
 * [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2022-01-23 - Pharo support for PlantUML.
 * [Woden](https://github.com/ronsaldo/woden) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2024-01-26 - A 3D graphics engine for Pharo.
 * [Jun](https://github.com/tomooda/Jun) ⭐ 13 | 🐛 0 | 🌐 Smalltalk | 📅 2024-10-30 - A 3D graphics library with chemoinformatics extensions.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,591 | 🐛 316 | 🌐 Smalltalk | 📅 2026-11-03 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,591 | 🐛 315 | 🌐 Smalltalk | 📅 2026-11-04 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 60 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -284,14 +284,14 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Pharo images management
 
-* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 118 | 🐛 98 | 🌐 Smalltalk | 📅 2026-10-29 - Official tool to manage your pharo images and download new ones.
+* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 118 | 🐛 99 | 🌐 Smalltalk | 📅 2026-10-29 - Official tool to manage your pharo images and download new ones.
 * [Pharo Install](https://github.com/hernanmd/pi) ⭐ 41 | 🐛 8 | 🌐 Shell | 📅 2026-04-05 - A command-line tool for installing Pharo Smalltalk packages into fresh images.
 * [fari.sh](https://github.com/cdlm/fari.sh) ⭐ 14 | 🐛 4 | 🌐 Shell | 📅 2022-01-25 - Fresh, ready-to-hack Pharo images.
 
 ## Projects management
 
 * [Filetree](https://github.com/dalehenrich/filetree) ⭐ 133 | 🐛 49 | 🌐 Smalltalk | 📅 2023-11-28 - A file-per-method export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
-* [SmalltalkCI](https://github.com/hpi-swa/smalltalkCI) ⭐ 107 | 🐛 81 | 🌐 Smalltalk | 📅 2026-08-31 - Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.
+* [SmalltalkCI](https://github.com/hpi-swa/smalltalkCI) ⭐ 107 | 🐛 82 | 🌐 Smalltalk | 📅 2026-08-31 - Framework for testing Smalltalk projects on Linux, macOS, and Windows and on Travis CI, AppVeyor, and GitLab CI/CD.
 * [Metacello](https://github.com/Metacello/metacello) ⭐ 92 | 🐛 129 | 🌐 Smalltalk | 📅 2022-06-03 - A package management system for Pharo.
 * [Cruiser](https://github.com/VincentBlondeau/Cruiser) ⭐ 45 | 🐛 7 | 🌐 Smalltalk | 📅 2020-01-20 - Application packager for Pharo.
 * [Tonel](https://github.com/pharo-vcs/tonel) ⭐ 34 | 🐛 5 | 🌐 Smalltalk | 📅 2026-10-29 - A file-per-class export format of Pharo source code allowing one to version code with git, svn, fosil, etc.
@@ -303,7 +303,7 @@ The general idea is to have a place to be able to find datastructures.
 
 * [Polymath](https://github.com/PolyMathOrg/PolyMath) ⭐ 175 | 🐛 58 | 🌐 Smalltalk | 📅 2026-05-29 - Set of mathematical tools for Pharo. Similar to numpy in Python.
 * [Kendrick](https://github.com/UMMISCO/kendrick) ⭐ 54 | 🐛 76 | 🌐 Smalltalk | 📅 2026-03-19 - Domain-Specific Modeling for Epidemiology.
-* [CORMAS](https://github.com/cormas/cormas) ⭐ 34 | 🐛 46 | 🌐 Smalltalk | 📅 2026-11-03 - CORMAS (Common-pool Resource and Multi-Agent Simulation) is a agent based model library in Smalltalk.
+* [CORMAS](https://github.com/cormas/cormas) ⭐ 34 | 🐛 43 | 🌐 Smalltalk | 📅 2026-11-04 - CORMAS (Common-pool Resource and Multi-Agent Simulation) is a agent based model library in Smalltalk.
 * [Mathemagics](https://github.com/grpistoia/Mathemagics) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2024-02-28 - Symbolic algebra package that handles mathematical expressions using simplification, derivatives, functions, variables, etc. Calculator included. Parser supports infix notation.
 * [BioSmalltalk](https://github.com/hernanmd/BioSmalltalk) ⭐ 21 | 🐛 2 | 🌐 Smalltalk | 📅 2026-09-05 - Bioinformatics Library for Pharo Smalltalk.
 * [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) ⭐ 19 | 🐛 3 | 🌐 Smalltalk | 📅 2019-05-20 - A bridge to Python's Matplotlib.
@@ -317,7 +317,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Software / data analysis
 
-* [Moose](https://github.com/moosetechnology/Moose) ⭐ 158 | 🐛 16 | 🌐 Smalltalk | 📅 2026-11-03 - Platform for software and data analysis.
+* [Moose](https://github.com/moosetechnology/Moose) ⭐ 158 | 🐛 17 | 🌐 Smalltalk | 📅 2026-11-04 - Platform for software and data analysis.
 * [PetitParser](https://github.com/moosetechnology/PetitParser) ⭐ 45 | 🐛 12 | 🌐 Smalltalk | 📅 2021-06-08 - Petit Parser is a framework for building parsers using objects.
 * [Gitminer](https://github.com/USIREVEAL/gitminer) ⭐ 11 | 🐛 0 | 🌐 Smalltalk | 📅 2025-06-12 - A tool to mine Git-based software repositories.
 * [PostgreSQLParser](https://github.com/juliendelplanque/PostgreSQLParser) ⭐ 7 | 🐛 20 | 🌐 Smalltalk | 📅 2021-03-18 - A parser for PostgreSQL queries and Plpg/SQL source code.
@@ -389,7 +389,7 @@ The general idea is to have a place to be able to find datastructures.
 * [RenoirSt](https://github.com/ba-st/RenoirSt) ⭐ 18 | 🐛 3 | 🌐 Smalltalk | 📅 2026-01-14 - A DSL enabling programmatic cascading style sheet generation for Pharo Smalltalk.
 * [HighchartsSt](https://github.com/ba-st/HighchartsSt) ⭐ 13 | 🐛 6 | 🌐 Smalltalk | 📅 2020-10-07 - A Highcharts Js API wrapper for Pharo Smalltalk.
 * [SeasideBootstrap](https://github.com/astares/Seaside-Bootstrap) ⭐ 11 | 🐛 0 | 🌐 Smalltalk | 📅 2023-03-22 - Binding to Twitter's Bootstrap project for Seaside.
-* [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) ⭐ 9 | 🐛 18 | 🌐 Smalltalk | 📅 2026-08-27 - Interactive visualization project for Seaside based on Cytoscape.js.
+* [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) ⭐ 9 | 🐛 18 | 🌐 Smalltalk | 📅 2026-11-04 - Interactive visualization project for Seaside based on Cytoscape.js.
 * [ChartJs](https://github.com/DuneSt/ChartJs) ⭐ 8 | 🐛 4 | 🌐 Smalltalk | 📅 2026-08-27 - Seaside binding of ChartJs to display and interact with charts.
 * [Pragma-Validators](https://github.com/radekbusa/Pragma-Validators) ⭐ 3 | 🐛 0 | 🌐 Smalltalk | 📅 2020-11-22 - Pragma validators for Pharo accessors, inspired by Java Bean Validation annotations.
 * [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) ⭐ 2 | 🐛 1 | 🌐 StringTemplate | 📅 2026-08-27 - Code displayer for Seaside base on Prism.js project.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
