@@ -1675,6 +1675,35 @@
         },
         {
           "node_type": "item",
+          "title": "ReStore",
+          "description": "Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Relational database persistence for Pharo objects",
+            "homepage": null,
+            "id": 225833006,
+            "language": "Smalltalk",
+            "license": "MIT",
+            "last_commit": "2026-10-13T14:04:49Z",
+            "open_issues": 6,
+            "owner": "rko281",
+            "repo": "ReStoreForPharo",
+            "stars": 36,
+            "topics": [
+              "mysql",
+              "pharo",
+              "pharo-smalltalk",
+              "postgresql",
+              "relational-databases",
+              "smalltalk",
+              "sqlite"
+            ]
+          },
+          "first_seen": "2026-08-29T01:38:36.443Z"
+        },
+        {
+          "node_type": "item",
           "title": "Voyage",
           "description": "An object persistence abstraction layer for Pharo.",
           "children": [],
@@ -1696,35 +1725,6 @@
               "nosql",
               "persistence",
               "pharo"
-            ]
-          },
-          "first_seen": "2026-08-29T01:38:36.443Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ReStore",
-          "description": "Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Relational database persistence for Pharo objects",
-            "homepage": null,
-            "id": 225833006,
-            "language": "Smalltalk",
-            "license": "MIT",
-            "last_commit": "2026-10-13T14:04:49Z",
-            "open_issues": 6,
-            "owner": "rko281",
-            "repo": "ReStoreForPharo",
-            "stars": 35,
-            "topics": [
-              "mysql",
-              "pharo",
-              "pharo-smalltalk",
-              "postgresql",
-              "relational-databases",
-              "smalltalk",
-              "sqlite"
             ]
           },
           "first_seen": "2026-08-29T01:38:36.443Z"
@@ -2385,8 +2385,8 @@
             "id": 693120540,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-11-02T14:54:04Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-08T17:24:44Z",
+            "open_issues": 27,
             "owner": "pharo-graphics",
             "repo": "Roassal",
             "stars": 30,
@@ -2818,11 +2818,11 @@
             "id": 100369621,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-11-07T17:30:13Z",
+            "last_commit": "2026-11-08T20:01:02Z",
             "open_issues": 315,
             "owner": "feenkcom",
             "repo": "gtoolkit",
-            "stars": 1594,
+            "stars": 1595,
             "topics": [
               "glamorous-toolkit",
               "ide",
@@ -4398,7 +4398,7 @@
             "id": 19938815,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-11-07T21:39:41Z",
+            "last_commit": "2026-11-08T21:16:05Z",
             "open_issues": 43,
             "owner": "cormas",
             "repo": "cormas",
@@ -5372,8 +5372,8 @@
             "id": 136829833,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-11-07T08:45:05Z",
-            "open_issues": 54,
+            "last_commit": "2026-11-08T08:22:49Z",
+            "open_issues": 55,
             "owner": "exercism",
             "repo": "pharo-smalltalk",
             "stars": 37,
@@ -5403,8 +5403,8 @@
             "id": 55789076,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-30T07:32:48Z",
-            "open_issues": 159,
+            "last_commit": "2026-11-08T10:10:58Z",
+            "open_issues": 160,
             "owner": "pharo-vcs",
             "repo": "iceberg",
             "stars": 141,
@@ -5463,8 +5463,8 @@
             "id": 55789076,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-10-30T07:32:48Z",
-            "open_issues": 159,
+            "last_commit": "2026-11-08T10:10:58Z",
+            "open_issues": 160,
             "owner": "pharo-vcs",
             "repo": "iceberg",
             "stars": 141,
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:40:05.633Z",
+    "last_updated": "2026-11-08T21:53:41.105Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
