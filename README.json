@@ -2276,7 +2276,7 @@
             "open_issues": 171,
             "owner": "pharo-graphics",
             "repo": "Bloc",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "2d",
               "animations",
@@ -2368,7 +2368,7 @@
             "open_issues": 24,
             "owner": "pharo-graphics",
             "repo": "Toplo",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-29T01:38:36.443Z"
@@ -2818,8 +2818,8 @@
             "id": 100369621,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-11-14T22:04:47Z",
-            "open_issues": 321,
+            "last_commit": "2026-11-15T11:42:52Z",
+            "open_issues": 322,
             "owner": "feenkcom",
             "repo": "gtoolkit",
             "stars": 1598,
@@ -4041,7 +4041,7 @@
             "id": 42404925,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-11-14T09:55:37Z",
+            "last_commit": "2026-11-15T20:27:48Z",
             "open_issues": 98,
             "owner": "pharo-project",
             "repo": "pharo-launcher",
@@ -4398,8 +4398,8 @@
             "id": 19938815,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-11-14T19:06:48Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-15T13:49:49Z",
+            "open_issues": 42,
             "owner": "cormas",
             "repo": "cormas",
             "stars": 34,
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:12:18.589Z",
+    "last_updated": "2026-11-15T22:40:45.966Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",
