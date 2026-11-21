@@ -695,7 +695,7 @@
             "id": 41843105,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-11-19T19:16:24Z",
+            "last_commit": "2026-11-21T20:09:30Z",
             "open_issues": 261,
             "owner": "pillar-markup",
             "repo": "pillar",
@@ -1660,7 +1660,7 @@
             "id": 522613767,
             "language": "Smalltalk",
             "license": "MIT",
-            "last_commit": "2026-11-20T11:47:24Z",
+            "last_commit": "2026-11-21T13:31:56Z",
             "open_issues": 27,
             "owner": "ApptiveGrid",
             "repo": "Soil",
@@ -6083,7 +6083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:53:11.811Z",
+    "last_updated": "2026-11-21T22:57:47.549Z",
     "original_repository_info": {
       "archived": false,
       "description": " A collection of awesome Pharo libraries, tools, frameworks and software.",

@@ -98,7 +98,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 ## Data interexchange format
 
 * [STON](https://github.com/svenvc/ston) ⭐ 148 | 🐛 3 | 🌐 Smalltalk | 📅 2026-07-14 - The Smalltalk Object Notation, similar to JSON but for Smalltalk.
-* [Pillar](https://github.com/pillar-markup/pillar) ⭐ 58 | 🐛 261 | 🌐 Smalltalk | 📅 2026-11-19 - Markup syntax and associated tools to write and generate documentation, books and slides.
+* [Pillar](https://github.com/pillar-markup/pillar) ⭐ 58 | 🐛 261 | 🌐 Smalltalk | 📅 2026-11-21 - Markup syntax and associated tools to write and generate documentation, books and slides.
 * [NeoJSON](https://github.com/svenvc/NeoJSON) ⭐ 48 | 🐛 3 | 🌐 Smalltalk | 📅 2025-09-11 - Framework to handle JSON in Pharo.
 * [CSV](https://github.com/svenvc/NeoCSV) ⭐ 36 | 🐛 8 | 🌐 Smalltalk | 📅 2026-06-11 - NeoCSV is an elegant and efficient standalone Smalltalk framework to read and write CSV converting to or from Smalltalk objects.
 * [Fuel](https://github.com/theseion/Fuel) ⭐ 31 | 🐛 27 | 🌐 Smalltalk | 📅 2026-07-18 - A general-purpose object serialization framework for Squeak and Pharo, developed in Pharo.
@@ -146,7 +146,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Databases
 
 * [P3](https://github.com/svenvc/P3) ⭐ 81 | 🐛 7 | 🌐 Smalltalk | 📅 2026-10-27 - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
-* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 68 | 🐛 27 | 🌐 Smalltalk | 📅 2026-11-20 - Object oriented database library. Persistency to disk with transactions and search indexes.
+* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 68 | 🐛 27 | 🌐 Smalltalk | 📅 2026-11-21 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 36 | 🐛 6 | 🌐 Smalltalk | 📅 2026-11-20 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 7 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 29 | 🐛 47 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
