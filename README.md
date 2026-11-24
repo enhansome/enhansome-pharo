@@ -80,7 +80,7 @@ The full list of AI and machine learning libraries, tools, and resources for Pha
 
 ## Code quality
 
-* [Chanel](https://github.com/jecisc/Chanel) ⭐ 22 | 🐛 15 | 🌐 Smalltalk | 📅 2026-01-22 - A cleaner for Pharo Smalltalk code.
+* [Chanel](https://github.com/jecisc/Chanel) ⭐ 22 | 🐛 15 | 🌐 Smalltalk | 📅 2026-11-23 - A cleaner for Pharo Smalltalk code.
 * [QualityAssistant](https://github.com/Uko/QualityAssistant) ⭐ 16 | 🐛 13 | 🌐 Smalltalk | 📅 2017-06-15 - A live feedback code quality tool for Pharo.
 * [Rules](https://github.com/jecisc/Rules) ⭐ 3 | 🐛 4 | 🌐 Smalltalk | 📅 2022-05-16 - Rules is a small model of rules that a model should not violate. It is able to compute the technical debt for a set of violations.
 
@@ -146,7 +146,7 @@ The general idea is to have a place to be able to find datastructures.
 ## Databases
 
 * [P3](https://github.com/svenvc/P3) ⭐ 81 | 🐛 7 | 🌐 Smalltalk | 📅 2026-10-27 - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
-* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 68 | 🐛 27 | 🌐 Smalltalk | 📅 2026-11-22 - Object oriented database library. Persistency to disk with transactions and search indexes.
+* [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 68 | 🐛 27 | 🌐 Smalltalk | 📅 2026-11-23 - Object oriented database library. Persistency to disk with transactions and search indexes.
 * [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 36 | 🐛 6 | 🌐 Smalltalk | 📅 2026-11-20 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 7 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 29 | 🐛 47 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
@@ -184,17 +184,17 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 
-* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 97 | 🐛 170 | 🌐 Smalltalk | 📅 2026-11-20 - Next generation low-level UI infratructure and framework for Pharo.
+* [Bloc](https://github.com/pharo-graphics/Bloc) ⭐ 97 | 🐛 170 | 🌐 Smalltalk | 📅 2026-11-24 - Next generation low-level UI infratructure and framework for Pharo.
 * [Pyramid](https://github.com/OpenSmock/Pyramid) ⭐ 46 | 🐛 23 | 🌐 Smalltalk | 📅 2026-11-10 - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 * [Sparta](https://github.com/syrel/Sparta) ⭐ 34 | 🐛 3 | 🌐 Smalltalk | 📅 2026-11-18 - Sparta is an almost stateless vector graphics API for Pharo that provides bindings to the Moz2D rendering backend.
-* [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 33 | 🐛 28 | 🌐 Smalltalk | 📅 2026-11-20 - A widget framework on top of Bloc.
+* [Toplo](https://github.com/pharo-graphics/Toplo) ⭐ 33 | 🐛 31 | 🌐 Smalltalk | 📅 2026-11-24 - A widget framework on top of Bloc.
 * [Roassal3](https://github.com/pharo-graphics/Roassal) ⭐ 31 | 🐛 28 | 🌐 Smalltalk | 📅 2026-11-18 - The agile 2D visualization engine for Pharo version 3. (V2: [Roassal2](https://github.com/ObjectProfile/Roassal2) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2023-04-19)
 * [PlantUMLPharoGizmo](https://github.com/fuhrmanator/PlantUMLPharoGizmo) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2022-01-23 - Pharo support for PlantUML.
 * [Woden](https://github.com/ronsaldo/woden) ⭐ 14 | 🐛 0 | 🌐 Smalltalk | 📅 2024-01-26 - A 3D graphics engine for Pharo.
 * [Jun](https://github.com/tomooda/Jun) ⭐ 13 | 🐛 0 | 🌐 Smalltalk | 📅 2024-10-30 - A 3D graphics library with chemoinformatics extensions.
-* [Alexandrie](https://github.com/pharo-graphics/Alexandrie) ⭐ 9 | 🐛 22 | 🌐 Smalltalk | 📅 2026-11-16 - FFI bindings and a 2D canvas for Pharo based on Cairo, Freetype and Harfbuzz
+* [Alexandrie](https://github.com/pharo-graphics/Alexandrie) ⭐ 9 | 🐛 22 | 🌐 Smalltalk | 📅 2026-11-24 - FFI bindings and a 2D canvas for Pharo based on Cairo, Freetype and Harfbuzz
 * [GraphViz](https://github.com/hernanmd/GraphViz) ⭐ 8 | 🐛 1 | 🌐 Smalltalk | 📅 2024-11-03 - Pharo GraphViz binding.
-* [MaterialColors](https://github.com/DuneSt/MaterialColors) ⭐ 3 | 🐛 0 | 🌐 Smalltalk | 📅 2022-05-14 - Project implementing Material Design recommandations on colors.
+* [MaterialColors](https://github.com/DuneSt/MaterialColors) ⭐ 3 | 🐛 0 | 🌐 Smalltalk | 📅 2026-11-23 - Project implementing Material Design recommandations on colors.
 * [SpecUIAddOns](https://github.com/hernanmd/SpecUIAddOns) ⭐ 3 | 🐛 2 | 🌐 Smalltalk | 📅 2023-02-13 - Add-ons for Spec UI description framework.
 * [Bloc-Serialization](https://github.com/OpenSmock/Bloc-Serialization) ⭐ 2 | 🐛 1 | 🌐 Smalltalk | 📅 2026-10-09 - Bloc serialization features to store/unstore BlElements.
 * [CSSParser](https://github.com/pharo-contributions/CSSParser) ⭐ 2 | 🐛 3 | 🌐 Smalltalk | 📅 2026-02-11 - A library that provides an object model and tools to read, interpret, and manipulate CSS stylesheets (including .css files).
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,599 | 🐛 323 | 🌐 Smalltalk | 📅 2026-11-22 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,601 | 🐛 325 | 🌐 Smalltalk | 📅 2026-11-23 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 61 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -222,7 +222,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Interaction
 
-* [GitBridge](https://github.com/jecisc/GitBridge) ⭐ 18 | 🐛 1 | 🌐 Smalltalk | 📅 2025-03-28 - Access resources and information from the git repository containing your project.
+* [GitBridge](https://github.com/jecisc/GitBridge) ⭐ 18 | 🐛 1 | 🌐 Smalltalk | 📅 2026-11-23 - Access resources and information from the git repository containing your project.
 * [OSC](https://github.com/Ducasse/OSC) ⭐ 8 | 🐛 2 | 🌐 Smalltalk | 📅 2025-09-29 - An open sound control library.
 * [PharoStreamDeck](https://github.com/OpenSmock/PharoStreamDeck) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-01 - Elgato Stream Deck utils for Pharo.
 * [TUIO](https://github.com/Ducasse/TUIO) ⭐ 2 | 🐛 0 | 🌐 Smalltalk | 📅 2021-05-22 - A driver for TUIO.
@@ -246,7 +246,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Loggers
 
-* [TinyLogger](https://github.com/jecisc/TinyLogger) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2026-09-16 - A small textual logger for Pharo applications.
+* [TinyLogger](https://github.com/jecisc/TinyLogger) ⭐ 17 | 🐛 7 | 🌐 Smalltalk | 📅 2026-11-23 - A small textual logger for Pharo applications.
 * [Bell](https://github.com/ba-st/Bell) ⭐ 7 | 🐛 1 | 🌐 Smalltalk | 📅 2026-06-09 - An observability library written in Smalltalk.
 * [SystemLogger](https://github.com/Ducasse/SystemLogger/) ⭐ 0 | 🐛 0 | 🌐 Smalltalk | 📅 2025-02-14 - An extensible object logger.
 * [Toothpick](https://github.com/pdebruic/Toothpick) ⭐ 0 | 🐛 0 | 🌐 Smalltalk | 📅 2026-09-07 - A textual logger for Pharo.
@@ -303,7 +303,7 @@ The general idea is to have a place to be able to find datastructures.
 
 * [Polymath](https://github.com/PolyMathOrg/PolyMath) ⭐ 177 | 🐛 58 | 🌐 Smalltalk | 📅 2026-05-29 - Set of mathematical tools for Pharo. Similar to numpy in Python.
 * [Kendrick](https://github.com/UMMISCO/kendrick) ⭐ 54 | 🐛 76 | 🌐 Smalltalk | 📅 2026-03-19 - Domain-Specific Modeling for Epidemiology.
-* [CORMAS](https://github.com/cormas/cormas) ⭐ 34 | 🐛 37 | 🌐 Smalltalk | 📅 2026-11-22 - CORMAS (Common-pool Resource and Multi-Agent Simulation) is a agent based model library in Smalltalk.
+* [CORMAS](https://github.com/cormas/cormas) ⭐ 34 | 🐛 37 | 🌐 Smalltalk | 📅 2026-11-23 - CORMAS (Common-pool Resource and Multi-Agent Simulation) is a agent based model library in Smalltalk.
 * [Mathemagics](https://github.com/grpistoia/Mathemagics) ⭐ 28 | 🐛 0 | 🌐 Smalltalk | 📅 2024-02-28 - Symbolic algebra package that handles mathematical expressions using simplification, derivatives, functions, variables, etc. Calculator included. Parser supports infix notation.
 * [BioSmalltalk](https://github.com/hernanmd/BioSmalltalk) ⭐ 21 | 🐛 2 | 🌐 Smalltalk | 📅 2026-09-05 - Bioinformatics Library for Pharo Smalltalk.
 * [MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge) ⭐ 19 | 🐛 3 | 🌐 Smalltalk | 📅 2019-05-20 - A bridge to Python's Matplotlib.
@@ -382,17 +382,17 @@ The general idea is to have a place to be able to find datastructures.
 * [Teapot](https://github.com/zeroflag/Teapot) ⭐ 104 | 🐛 5 | 🌐 Smalltalk | 📅 2026-05-08 - Micro web framework for Pharo Smalltalk.
 * [CodeParadise](https://github.com/ErikOnBike/CodeParadise) ⭐ 99 | 🐛 0 | 🌐 Smalltalk | 📅 2026-10-16 - Run Pharo code inside a tiny SqueakJS VM and manipulate the Dom via WebComponents and MVP
 * [Willow](https://github.com/ba-st/Willow) ⭐ 51 | 🐛 4 | 🌐 Smalltalk | 📅 2026-02-11 - Web Interaction Library that eases the burden of creating AJAX-based web applications.
-* [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) ⭐ 43 | 🐛 49 | 🌐 Smalltalk | 📅 2026-08-27 - Binding google's Material Design Lite project for Seaside.
+* [MaterialDesignLite](https://github.com/DuneSt/MaterialDesignLite) ⭐ 43 | 🐛 49 | 🌐 Smalltalk | 📅 2026-11-23 - Binding google's Material Design Lite project for Seaside.
 * [Parasol](https://github.com/SeasideSt/Parasol) ⭐ 32 | 🐛 16 | 🌐 Smalltalk | 📅 2025-10-16 - Testing web apps in Smalltalk using Selenium WebDriver.
 * [OpenAPI](https://github.com/zweidenker/OpenAPI) ⭐ 23 | 🐛 1 | 🌐 Smalltalk | 📅 2026-08-05 - A pharo implementation of [OpenAPI](https://www.openapis.org) 3.0.1, a machine-readable interface files specification for describing, producing, consuming, and visualizing RESTful web services.
 * [Ethel](https://github.com/grype/Ethel) ⭐ 22 | 🐛 0 | 🌐 Smalltalk | 📅 2024-06-11 - Lightweight framework for composing web service clients.
 * [RenoirSt](https://github.com/ba-st/RenoirSt) ⭐ 18 | 🐛 3 | 🌐 Smalltalk | 📅 2026-01-14 - A DSL enabling programmatic cascading style sheet generation for Pharo Smalltalk.
 * [HighchartsSt](https://github.com/ba-st/HighchartsSt) ⭐ 13 | 🐛 6 | 🌐 Smalltalk | 📅 2020-10-07 - A Highcharts Js API wrapper for Pharo Smalltalk.
 * [SeasideBootstrap](https://github.com/astares/Seaside-Bootstrap) ⭐ 11 | 🐛 0 | 🌐 Smalltalk | 📅 2023-03-22 - Binding to Twitter's Bootstrap project for Seaside.
-* [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) ⭐ 9 | 🐛 27 | 🌐 Smalltalk | 📅 2026-11-04 - Interactive visualization project for Seaside based on Cytoscape.js.
-* [ChartJs](https://github.com/DuneSt/ChartJs) ⭐ 8 | 🐛 4 | 🌐 Smalltalk | 📅 2026-08-27 - Seaside binding of ChartJs to display and interact with charts.
+* [TelescopeCytoscape](https://github.com/TelescopeSt/TelescopeCytoscape) ⭐ 9 | 🐛 27 | 🌐 Smalltalk | 📅 2026-11-23 - Interactive visualization project for Seaside based on Cytoscape.js.
+* [ChartJs](https://github.com/DuneSt/ChartJs) ⭐ 8 | 🐛 4 | 🌐 Smalltalk | 📅 2026-11-23 - Seaside binding of ChartJs to display and interact with charts.
 * [Pragma-Validators](https://github.com/radekbusa/Pragma-Validators) ⭐ 3 | 🐛 0 | 🌐 Smalltalk | 📅 2020-11-22 - Pragma validators for Pharo accessors, inspired by Java Bean Validation annotations.
-* [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) ⭐ 2 | 🐛 1 | 🌐 StringTemplate | 📅 2026-08-27 - Code displayer for Seaside base on Prism.js project.
+* [PrismCodeDisplayer](https://github.com/DuneSt/PrismCodeDisplayer) ⭐ 2 | 🐛 1 | 🌐 StringTemplate | 📅 2026-11-23 - Code displayer for Seaside base on Prism.js project.
 * [Teapot-ACL](https://github.com/radekbusa/Teapot-ACL) ⭐ 2 | 🐛 0 | 🌐 Smalltalk | 📅 2020-11-22 - A minimalistic role-based access control list for Teapot authorization.
 * [WebST](https://github.com/bouraqadi/WebST/) ⭐ 1 | 🐛 0 | 🌐 Smalltalk | 📅 2025-07-12 - A framework for building Web Components using PharoJS
 * [Amber](https://amber-lang.net) - Amber is an implementation of the Smalltalk language that runs on top of the JavaScript runtime. It uses Pharo as reference implementation.
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
