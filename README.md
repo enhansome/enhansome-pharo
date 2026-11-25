@@ -147,7 +147,7 @@ The general idea is to have a place to be able to find datastructures.
 
 * [P3](https://github.com/svenvc/P3) ⭐ 81 | 🐛 7 | 🌐 Smalltalk | 📅 2026-10-27 - PostgresV3 protocol client for Pharo, standalone and integrated with Glorp.
 * [Soil](https://github.com/ApptiveGrid/Soil) ⭐ 68 | 🐛 27 | 🌐 Smalltalk | 📅 2026-11-23 - Object oriented database library. Persistency to disk with transactions and search indexes.
-* [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 36 | 🐛 6 | 🌐 Smalltalk | 📅 2026-11-20 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
+* [ReStore](https://github.com/rko281/ReStoreForPharo) ⭐ 36 | 🐛 6 | 🌐 Smalltalk | 📅 2026-11-24 - Relational database persistence for Pharo objects (based on SQLite, PostgreSQL or MySQL).
 * [Voyage](https://github.com/pharo-nosql/voyage) ⭐ 36 | 🐛 7 | 🌐 Smalltalk | 📅 2025-10-10 - An object persistence abstraction layer for Pharo.
 * [Glorp](https://github.com/pharo-rdbms/glorp) ⭐ 29 | 🐛 47 | 🌐 Smalltalk | 📅 2025-07-10 - Multi-database cross-platform object-relational persistence for Pharo and many other Smalltalks.
 * [SQLite3](https://github.com/pharo-rdbms/Pharo-SQLite3) ⭐ 24 | 🐛 12 | 🌐 Smalltalk | 📅 2025-07-10 - Community-owned official SQLite3 binding for Pharo. Includes packages for use in Glorp.
@@ -207,7 +207,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## IDE
 
-* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,601 | 🐛 325 | 🌐 Smalltalk | 📅 2026-11-23 - Moldable IDE for Pharo.
+* [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) ⭐ 1,602 | 🐛 328 | 🌐 Smalltalk | 📅 2026-11-24 - Moldable IDE for Pharo.
 * [Webside](https://github.com/guillermoamaral/Webside) ⭐ 61 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-14 - Web based IDE for Pharo and other Smalltalk systems.
 * [Smalltalk Vim Mode](https://github.com/unchartedworks/SmalltalkVimMode) ⭐ 46 | 🐛 4 | 🌐 Smalltalk | 📅 2021-12-18 - Vim Mode for Playground, System Browser, Debugger in Pharo.
 * [TelePharo](https://github.com/pharo-ide/TelePharo) ⭐ 45 | 🐛 5 | 🌐 Smalltalk | 📅 2026-08-13 - Tools to manage and develop remote Pharo images.
@@ -284,7 +284,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Pharo images management
 
-* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 119 | 🐛 98 | 🌐 Smalltalk | 📅 2026-11-20 - Official tool to manage your pharo images and download new ones.
+* [Pharo Launcher](https://github.com/pharo-project/pharo-launcher) ⭐ 119 | 🐛 97 | 🌐 Smalltalk | 📅 2026-11-24 - Official tool to manage your pharo images and download new ones.
 * [Pharo Install](https://github.com/hernanmd/pi) ⭐ 41 | 🐛 8 | 🌐 Shell | 📅 2026-04-05 - A command-line tool for installing Pharo Smalltalk packages into fresh images.
 * [fari.sh](https://github.com/cdlm/fari.sh) ⭐ 14 | 🐛 4 | 🌐 Shell | 📅 2022-01-25 - Fresh, ready-to-hack Pharo images.
 
@@ -360,7 +360,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## VCS
 
-* [Iceberg](https://github.com/pharo-vcs/iceberg) ⭐ 141 | 🐛 162 | 🌐 Smalltalk | 📅 2026-11-17 - Set of tools to handle git repositories from a Pharo image.
+* [Iceberg](https://github.com/pharo-vcs/iceberg) ⭐ 141 | 🐛 163 | 🌐 Smalltalk | 📅 2026-11-24 - Set of tools to handle git repositories from a Pharo image.
 
 ## Videos
 
@@ -372,7 +372,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Virtual Machine
 
-* [Polyphemus](https://github.com/pharo-vcs/iceberg) ⭐ 141 | 🐛 162 | 🌐 Smalltalk | 📅 2026-11-17 - Framework allowing to analyse/query/modify Pharo images without executing them.
+* [Polyphemus](https://github.com/pharo-vcs/iceberg) ⭐ 141 | 🐛 163 | 🌐 Smalltalk | 📅 2026-11-24 - Framework allowing to analyse/query/modify Pharo images without executing them.
 
 ## Web
 
@@ -405,4 +405,4 @@ The general idea is to have a place to be able to find datastructures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
